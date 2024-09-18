@@ -1,0 +1,16 @@
+game/*
+!game/*.rpy
+!game/tl
+game/tl/None
+renpy
+lib
+/FriendshipwithBenefits2*
+
+*.rpyc
+*.rpymc
+
+log.txt
+errors.txt
+traceback.txt
+
+*.zip
