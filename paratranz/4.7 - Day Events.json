@@ -340,8 +340,8 @@
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L173"
   },
   {
-    "key": "dayevent_c582a5b6",
-    "original": "I smiled as I watched [rosa] bounce up, her tag wagging wildly.",
+    "key": "dayevent_0a6ba72e",
+    "original": "I smiled as I watched [rosa] bounce up, her tail wagging wildly.",
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L179"
   },
   {
@@ -385,8 +385,8 @@
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L203"
   },
   {
-    "key": "postros1_bad136e7",
-    "original": "As I make my purchase, the distracted merchant accidentally hands me a 20 monie bill back instead of 5. I'm briefly excited by this realization, but...",
+    "key": "postros1_6354fc0d",
+    "original": "As I make my purchase, the distracted merchant accidentally hands me a $20 bill back instead of $5. I'm briefly excited by this realization, but...",
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L204"
   },
   {
@@ -400,238 +400,353 @@
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L211"
   },
   {
-    "key": "postros1_3006c1b2",
-    "original": "My sense of honesty compels me to do the right thing. Despite the allure of extra coins, I gently alert the merchant to the mistake and exchange the 20 bill for the correct amount.",
+    "key": "postros1_d3f9cee8",
+    "original": "My sense of honesty compels me to do the right thing. Despite the allure of extra coins, I gently alert the merchant to the mistake and exchange the $20 bill for the correct amount.",
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L213"
   },
   {
-    "key": "postros1_cc237ca0",
-    "original": "As a bonus for the honesty, he thanks me, hands me a crumpled stack of three 1 monie bills then continues frantically working.",
+    "key": "postros1_c9d6553a",
+    "original": "As a bonus for the honesty, he thanks me, hands me a crumpled stack of three $1 bills then continues frantically working.",
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L214"
   },
   {
     "key": "postros1_bea835fc",
     "original": "Strolling down a bustling street, I notice something on the pavement, partially obscured by fallen leaves.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L224"
+  },
+  {
+    "key": "postros1_13a2d3a5",
+    "original": "When I bend down to investigate, my heart skips a beat—I’ve found a lost bag.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L225"
+  },
+  {
+    "key": "postros1_df1a43fd",
+    "original": "Inside, I find crisp bills neatly tucked away. My fingers brush the smooth surface of the currency, and I count $100 in total. What luck!",
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L226"
-  },
-  {
-    "key": "postros1_304ce2e1",
-    "original": "When I bend down to investigate, my heart skips a beat—I’ve found a lost wallet.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L227"
-  },
-  {
-    "key": "postros1_0691b551",
-    "original": "Inside, I find crisp bills neatly tucked away. My fingers brush the smooth surface of the currency, and I count fifty monies in total. What luck!",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L228"
   },
   {
     "key": "postros1_321e0c51",
     "original": "But then, I find something unexpected—a slip of paper with a nearby return address, important cards, and a small photo of a mare with purple sunglasses.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L229"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L227"
   },
   {
     "key": "postros1_25a014c8",
     "original": "Aaahhh… Damn…",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L230"
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L228"
   },
   {
-    "key": "postros1_77729e92",
-    "original": "Returning the wallet means giving up its contents…",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L231"
+    "key": "postros1_cc58f7a4",
+    "original": "Returning the bag means giving up its contents…",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L229"
   },
   {
     "key": "postros1_736c0383",
     "original": "In the end, I know what I must do. With a heavy sigh, I resolve to do the right thing, no matter how difficult.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L234"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L232"
   },
   {
-    "key": "postros1_006628bd",
-    "original": "Clutching the wallet tightly, I make my way to the nearby address and return it to its rightful owner.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L235"
+    "key": "postros1_bde549c5",
+    "original": "Clutching the bag tightly, I make my way to the nearby address and return it to its rightful owner.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L233"
   },
   {
-    "key": "postros1_00bc06cd",
+    "key": "postros1_6295722b",
     "original": "Oh! Thank you! Thank you so much!",
-    "context": "说话人: chl \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L236"
+    "context": "说话人: cla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L235"
   },
   {
     "key": "postros1_4a2edc3c",
     "original": "Ah… You’re!",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L237"
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L236"
   },
   {
-    "key": "postros1_2907fbf8",
-    "original": "Recognize meeve? A brothel regular, perhaps?",
-    "context": "说话人: chl \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L247"
+    "key": "postros1_e28e661a",
+    "original": "My goodness, I thought I'd lost this! My cards, IDs, photos! I don't know what I would have done if...",
+    "context": "说话人: cla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L238"
   },
   {
-    "key": "postros1_f0cd2a45",
-    "original": "She slips me a 20 M note and winks.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L248"
+    "key": "postros1_c361716d",
+    "original": "{i}Sigh{/i} Thank you, so much.",
+    "context": "说话人: cla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L240"
   },
   {
-    "key": "postros1_e5e8edfe",
-    "original": "I’ll certainly recognize you, so if you ever see me there and want a special, I’ll give you a discount~",
-    "context": "说话人: chl \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L249"
+    "key": "postros1_cd8cdd19",
+    "original": "Recognize me? A brothel regular, perhaps?",
+    "context": "说话人: cla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L252"
   },
   {
-    "key": "postros1_0e03332b",
-    "original": "(Gained +20 M and a discount on at the brothel!)",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L250"
+    "key": "postros1_07e36cf7",
+    "original": "Not a regular, but curious.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L253"
   },
   {
-    "key": "postros1_c2787a59",
-    "original": "With a swift motion, I slip the wallet into my satchel. The weight fills my bag, a tangible reminder of the wealth now in my possession.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L254"
+    "key": "postros1_1721fe8d",
+    "original": "Oh! You're... [mc]! The new host!",
+    "context": "说话人: cla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L256"
+  },
+  {
+    "key": "postros1_be690860",
+    "original": "Thank you, so much, [mc]. This really is a stroke of good fortune.",
+    "context": "说话人: cla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L257"
+  },
+  {
+    "key": "postros1_f67b2db5",
+    "original": "She slips me $50 note and winks.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L259"
+  },
+  {
+    "key": "postros1_c3e91684",
+    "original": "I’ll certainly remember this...",
+    "context": "说话人: cla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L260"
+  },
+  {
+    "key": "postros1_a48a9637",
+    "original": "Say, I offer a special service at the brothel... If you're interested, you should come see me.",
+    "context": "说话人: cla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L261"
+  },
+  {
+    "key": "postros1_1976f1f2",
+    "original": "Having you as a customer instead of... Well... Let's just say I'm offering a hefty discount~",
+    "context": "说话人: cla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L262"
+  },
+  {
+    "key": "postros1_1de5c34b",
+    "original": "(Gained +$50 and a huge discount on [cla]'s services!)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L264"
+  },
+  {
+    "key": "postros1_18a1255f",
+    "original": "With a swift motion, I slip the bag into my own. The weight fills it, a tangible reminder of the wealth now in my possession.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L269"
   },
   {
     "key": "postros1_0cf716de",
     "original": "I continue down the street, wondering what I’ll do with all that money.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L255"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L270"
+  },
+  {
+    "key": "blankday_408f7a13",
+    "original": "In the morning, I didn't feel like doing anything at all.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L279"
   },
   {
     "key": "blankday_d9b66acc",
     "original": "I spent the morning researching my leads and planning my next moves.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L260"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L281"
   },
   {
     "key": "nightevent_5e9b3b9d",
     "original": "As [mox] and I got into bed, the entire thing suddenly began to shake. Another earthquake.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L273"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L302"
   },
   {
     "key": "nightevent_68b7f075",
     "original": "You’re not vibrating, are you?",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L275"
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L304"
   },
   {
     "key": "nightevent_da2d9e9d",
     "original": "I don’t think so.",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L276"
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L305"
   },
   {
     "key": "nightevent_91172884",
     "original": "Damn, I kind of wish you could.",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L278"
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L307"
   },
   {
     "key": "nightevent_b893bfc0",
     "original": "I’m seriously wondering why this universe has earthquakes.",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L279"
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L308"
   },
   {
     "key": "nightevent_5f16f243",
     "original": "I heard from someone that they’re technically not earthquakes, which are when tectonic plates in the earth move against each other or something.",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L281"
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L310"
   },
   {
     "key": "nightevent_501745e6",
     "original": "Instead the entire planet is shaking.",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L283"
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L312"
   },
   {
     "key": "nightevent_ec4671e1",
     "original": "What? The {i}entire{/i} planet?",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L284"
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L313"
   },
   {
     "key": "nightevent_860c8d2e",
     "original": "I mean, just a theory. But these ‘earthquakes’ are global.",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L286"
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L315"
   },
   {
     "key": "nightevent_b75b1465",
     "original": "Man… This universe is something else.",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L287"
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L316"
   },
   {
     "key": "nightevent_3756f425",
     "original": "[mc], are you there? I don’t have long.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L311"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L340"
   },
   {
     "key": "nightevent_1de57ac1",
     "original": "A shimmering figure with a familiar voice appeared before me.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L312"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L341"
   },
   {
     "key": "nightevent_50b3b016",
     "original": "You’re doing so good so far – keep meeting with the virtues, so they can reach their potential.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L313"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L342"
   },
   {
     "key": "nightevent_781fa6a4",
     "original": "And with that, hopefully, this –",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L314"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L343"
   },
   {
     "key": "nightevent_fa496812",
     "original": "Ack?! How could the dream end right there?",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L320"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L349"
   },
   {
     "key": "nightevent_54895896",
     "original": "That woman though… I only know one person that was able to comfortably enter people’s dreams to communicate with them, and since this is the third dream of its type in a row, I can’t put it down to coincidence.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L321"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L350"
   },
   {
     "key": "nightevent_58d2b137",
     "original": "Princess [sel] is trying to communicate with me – but… this is a world without Princess [sel].",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L322"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L351"
   },
   {
     "key": "nightevent_31fcf07a",
     "original": "Just as we’re getting into bed, I remember my dream from the prior night.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L327"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L356"
   },
   {
     "key": "nightevent_cfae12c8",
     "original": "[mox], I had a small question for you.",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L328"
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L357"
   },
   {
     "key": "nightevent_746d806a",
     "original": "You can ask me anything you want, darling.",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L330"
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L359"
   },
   {
     "key": "nightevent_346183de",
     "original": "It’s just… I’ve kind of asked you this before, but it’s about a Princess [sel].",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L331"
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L360"
   },
   {
     "key": "nightevent_dbb47146",
     "original": "Yeah, I’ve never heard of her before. It’s hard to imagine that I’m blood related to someone like that.",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L333"
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L362"
   },
   {
     "key": "nightevent_87c5ba8b",
     "original": "Hm… She’s supposed to be [aur]’s sister, the Princess of the Moon.",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L334"
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L363"
   },
   {
     "key": "nightevent_fdbdf9c3",
     "original": "A Queen of the Sun and a sister Princess of the Moon would certainly make a lot of sense.",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L336"
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L365"
   },
   {
     "key": "nightevent_47658910",
     "original": "She’s been appearing in my dreams, asking me to gather the virtues. Although I haven’t quite figured out why, I can only imagine it’s related to solving the troubles around the world.",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L337"
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L366"
   },
   {
     "key": "nightevent_60c92be7",
     "original": "It sounds like we need to get that meeting with [aur] and fast!",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L339"
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L368"
   },
   {
     "key": "nightevent_b675f12e",
     "original": "You’re right. I’ll ask her for help directly.",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L340"
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L369"
+  },
+  {
+    "key": "nightevent_7de01b36",
+    "original": "You see it too, don't you?",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L389"
+  },
+  {
+    "key": "nightevent_3f14e30d",
+    "original": "The sky is falling.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L390"
+  },
+  {
+    "key": "nightevent_53302757",
+    "original": "You're doing great.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L392"
+  },
+  {
+    "key": "nightevent_0c9fffe7",
+    "original": "Keep it up, and we can save them all.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L393"
+  },
+  {
+    "key": "nightevent_ab4aa7aa",
+    "original": "Another nightmare... No, I can't pretend these are nightmares anymore. This was another message from the princess.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L395"
+  },
+  {
+    "key": "nightevent_1e3ccf46",
+    "original": "While I might not completely understand what's happening yet, I'll put my faith in her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L396"
+  },
+  {
+    "key": "nightevent_760032c8",
+    "original": "Are you okay, babe?",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L398"
+  },
+  {
+    "key": "nightevent_59d08802",
+    "original": "Just a little faint, nothing to worry about.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L399"
+  },
+  {
+    "key": "nightevent_c9b9e881",
+    "original": "You've been working so hard lately. Remember to live a little of your own life too.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L401"
+  },
+  {
+    "key": "nightevent_16a240ed",
+    "original": "Live a little of my own life... Specific, carefully worded, and deeply true.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L402"
+  },
+  {
+    "key": "nightevent_26f5b4a8",
+    "original": "[mox] lays back down.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L404"
+  },
+  {
+    "key": "nightevent_bf9b2bc2",
+    "original": "She never fails to impress me. In so few words, she's made me realize something crucial that I've been overlooking.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L405"
+  },
+  {
+    "key": "nightevent_53ba577f",
+    "original": "I'm spending so much time and effort chasing my old life, that I never considered how it'd make those around me feel.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L406"
+  },
+  {
+    "key": "nightevent_3a5ad960",
+    "original": "And so what if I'm successful? I just disappear forever? How would that make [mox] feel?",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L407"
+  },
+  {
+    "key": "nightevent_a343b492",
+    "original": "Maybe... this is my life now, and I need to accept that.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L408"
   },
   {
     "key": "nightevent_22e5fd2a",
     "original": "I get into bed, and [mox] snuggles up beside me as we doze off together.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L342"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L411"
   }
 ]

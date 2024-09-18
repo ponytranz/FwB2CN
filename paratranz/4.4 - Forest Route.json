@@ -1,0 +1,2017 @@
+[
+  {
+    "key": "forest_63a2df02",
+    "original": "Good evening, sweetie. Would you like a drink?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L21"
+  },
+  {
+    "key": "butmenu_e56b6e02",
+    "original": "You called?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L32"
+  },
+  {
+    "key": "butmenu_83a3642d",
+    "original": "Did you need me, sweetie?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L43"
+  },
+  {
+    "key": "forest1_1e8afe02",
+    "original": "In the other universe, this was just a peaceful forest edging the suburbs—a benign sprawl of trees and greenery that barely caught the eye.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L96"
+  },
+  {
+    "key": "forest1_8577ec89",
+    "original": "But here, this is the 'Nevermore Forest,' a melting pot of myths and tales. The conclusion of most of these stories is simple: those who enter the Nevermore Forest never come back.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L99"
+  },
+  {
+    "key": "forest1_474f240b",
+    "original": "At first, I was confident. Tales like this were always spun to scare children away from wandering too far. But the real kicker, the thing that made me second-guess myself, was the guard stationed at the gate between the city and the forest.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L100"
+  },
+  {
+    "key": "forest1_2a089efa",
+    "original": "You can go in, but if you don’t come back, no one will come after you. We won’t even list you as missing; you’ll be marked as dead.",
+    "context": "说话人: misc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L102"
+  },
+  {
+    "key": "forest1_ae60b67b",
+    "original": "I… see… {i}Gulp{/i}",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L103"
+  },
+  {
+    "key": "forest1_7596442d",
+    "original": "The guard must be exaggerating, right? I switched on my flashlight and forged ahead down a path I’d walked a thousand times before.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L109"
+  },
+  {
+    "key": "forest1_5df1d5de",
+    "original": "This was no cheerful stroll through friendly woods, with bunnies hopping and deer prancing.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L110"
+  },
+  {
+    "key": "forest1_1ed04530",
+    "original": "It was dark—no, not just dark, but a suffocating, almost sentient darkness. The trees pressed in on me, and each step was a careful negotiation with the beam of my flashlight.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L111"
+  },
+  {
+    "key": "forest1_26cc8258",
+    "original": "[but]’s house was only about ten minutes into the forest from the entrance, but in these conditions, it felt endless. And what if I took a wrong turn? In this darkness, every shadow twisted and morphed into something unfamiliar.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L112"
+  },
+  {
+    "key": "forest1_9a882c1d",
+    "original": "A few minutes in, I made the decision to turn back. It was too dark, too dangerous. I’d need to come back in the daylight if I was ever going to make sense of this place.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L113"
+  },
+  {
+    "key": "forest1_b8ec7f90",
+    "original": "I hear the crunch of distant leaves, sending a shiver down my spine. An uncanny dread settles over me.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L117"
+  },
+  {
+    "key": "forest1_194adc60",
+    "original": "It’s an instinctual, indescribable feeling. I can tell that I’m being watched. I don’t know where, and I don’t know what, but I know.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L118"
+  },
+  {
+    "key": "forest1_e72e6cd9",
+    "original": "No, it’s worse than that. Being watched by a stranger across the street is nothing compared to this. This is different—more primal, more visceral.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L119"
+  },
+  {
+    "key": "forest1_424e84e2",
+    "original": "From the moment I stepped into this forest, the balance of power shifted. I was no longer at the top of the food chain. I’ve become prey. I’m being hunted.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L120"
+  },
+  {
+    "key": "forest1_314fced1",
+    "original": "Abruptly, something soars through the darkened trees—could be the wind, a bird, or something far more sinister.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L124"
+  },
+  {
+    "key": "forest1_6777d9e8",
+    "original": "Something's behind me. Leaving is no longer an option. My only choice now is to push forward, hoping to reach the clearing where the cottage waits.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L127"
+  },
+  {
+    "key": "forest1_f6df0f9a",
+    "original": "But with each step, something closes in. The rustling intensifies, encroaching from all sides.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L135"
+  },
+  {
+    "key": "forest1_f21573ff",
+    "original": "Despite bracing myself for an attack, I’m still caught off guard when something drops from above, pinning me down with a force that drives the breath from my lungs.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L138"
+  },
+  {
+    "key": "forest1_4338b25c",
+    "original": "Lost, little boy?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L153"
+  },
+  {
+    "key": "forest1_a9dd19b3",
+    "original": "In any other context, the situation would be utterly terrifying. But right now, a flutter of relief washes over me.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L154"
+  },
+  {
+    "key": "forest1_321596ef",
+    "original": "Oh, thank [aur]. I thought you were a monster.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L155"
+  },
+  {
+    "key": "forest1_8d8dbff1",
+    "original": "Hehe, look closer.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L156"
+  },
+  {
+    "key": "forest1_2fdf3e2a",
+    "original": "My shaken eyes adjust to clearly see a [but] that’s purely succubus. Seemingly further gone than her other self, with features far more prominent and imposing.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L160"
+  },
+  {
+    "key": "forest1_de6207de",
+    "original": "It’s like she’s evolved to a more dangerous, higher form. Her wings were dark as night, with a span thrice her body.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L161"
+  },
+  {
+    "key": "forest1_1214cbd7",
+    "original": "Her tail snaked into view, pure black and lacking the warmth of its heart-shaped tip.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L162"
+  },
+  {
+    "key": "forest1_40a754bd",
+    "original": "Curiously, she has no horns. I was struck by the realization that [but] was not the same kind of demon I had expected.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L163"
+  },
+  {
+    "key": "forest1_c432abd3",
+    "original": "It’s dangerous for you to wander these woods. If you run away now, I won’t start chasing you for at least ten seconds~",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L164"
+  },
+  {
+    "key": "forest1_f6fd00e4",
+    "original": "I’m not going anywhere. I came here to find you.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L165"
+  },
+  {
+    "key": "forest1_f7112334",
+    "original": "Oh dear, is my reputation preceding me? To think, I’ve gone to such lengths to cover my tracks. It looks like I’ll have to deal with you myself!",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L166"
+  },
+  {
+    "key": "forest1_42e63446",
+    "original": "Her eyes flared with a sharp, unsettling red as she locked her gaze onto mine. For a few disorienting moments, I felt her attempt to ensnare me in a hypnotic grip.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L169"
+  },
+  {
+    "key": "forest1_42442f4c",
+    "original": "[but], wait! I’m here to help you!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L170"
+  },
+  {
+    "key": "forest1_7d1cbdf1",
+    "original": "Startled, [but] recoiled back, her face shifting to one of concern.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L177"
+  },
+  {
+    "key": "forest1_c98d6c55",
+    "original": "You… really shouldn’t know my name. Nobody knows my name.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L178"
+  },
+  {
+    "key": "forest1_26174b69",
+    "original": "I think I know how to cure your affliction, your curse.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L179"
+  },
+  {
+    "key": "forest1_76072f95",
+    "original": "Ahaha, what makes you think I want to be cured? I’m a demon that feasts on the energy of men like you.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L181"
+  },
+  {
+    "key": "forest1_68c6f01b",
+    "original": "I know you’re not a monster. You’re a succubus that could drain me dry in an instant, but you're clearly trying to get me to leave for my safety.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L182"
+  },
+  {
+    "key": "forest1_1f8ddb80",
+    "original": "[but]’s expression softened slightly, her ears twitching with a hint of curiosity.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L184"
+  },
+  {
+    "key": "forest1_fde9ba1a",
+    "original": "And I understand that you’re wary of getting close to men because of the risks, the danger, and the compulsions you struggle with.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L185"
+  },
+  {
+    "key": "forest1_3fe0079f",
+    "original": "You’re right. It’s unbearable. But a cure? That would be like clipping the wings of a pegasus or sawing off a unicorn’s horn.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L187"
+  },
+  {
+    "key": "forest1_beff910a",
+    "original": "Let me rephrase: I know of a potion that can remove your ability to drain energy during sex.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L188"
+  },
+  {
+    "key": "forest1_6bdcbe50",
+    "original": "As tempting as that sounds, why should I trust you? Why should you trust me? I don’t know how long I’ll be able to control myself around such an... attractive... male specimen.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L190"
+  },
+  {
+    "key": "forest1_9d4e9d3d",
+    "original": "I’ll tell you the ingredients, and, uh…",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L191"
+  },
+  {
+    "key": "forest1_d8c97cd8",
+    "original": "Shiiit, what were the ingredients again? I remember where we got them from, but the names are slipping through my mind.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L192"
+  },
+  {
+    "key": "forest1_29d897e6",
+    "original": "There was some kind of gel from a slime girl… A leaf cutting from an aphrodisiacal alraune…",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L193"
+  },
+  {
+    "key": "forest1_a6e8f0d1",
+    "original": "Sounds like you're a third-rate alchemist with fourth-rate ingredients. What you're describing would make a {i}permanent{/i} aphrodisiac. Can you imagine if you gave something like that to a {i}succubus{/i}?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L195"
+  },
+  {
+    "key": "forest1_43dadb43",
+    "original": "Ordinarily, yes, if not for the final ingredient. One you could never get yourself — the coveted Dewblossom.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L196"
+  },
+  {
+    "key": "forest1_ac9d987c",
+    "original": "[but] slipped into a deep trance, her eyes darting back and forth as if chasing invisible threads of thought.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L200"
+  },
+  {
+    "key": "forest1_5a523d29",
+    "original": "Classic Dewblossom reversal… with folium polypus… an anti-aphrodisiac… Could that counter the curse?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L204"
+  },
+  {
+    "key": "forest1_05c51c7d",
+    "original": "But with a gelatinous base… a transformation potion. In theory, it would be a potion that dramatically quells all forms of arousal.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L208"
+  },
+  {
+    "key": "forest1_0c341622",
+    "original": "Could such a thing really neutralize my draining abilities? Ah—of course! The Dewblossom’s anti-evil warding effects!",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L209"
+  },
+  {
+    "key": "forest1_0becb793",
+    "original": "This isn’t just an anti-aphrodisiac; this is an anti-sexual magic potion! I’ll be able to do whatever the fuck I want!",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L211"
+  },
+  {
+    "key": "forest1_b251af6c",
+    "original": "You… genius! What’s your name?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L213"
+  },
+  {
+    "key": "forest1_ccf0ad0c",
+    "original": "You can call me [mc]. I’m not a genius. All I know are the ingredients. You’re the one who makes the magic happen.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L214"
+  },
+  {
+    "key": "forest1_74bdbbcb",
+    "original": "Thanks for the tip, [mc]. Now, get out of here before I pin you down again. Between you and me, my pussy is already... Well, I’m not sure how much longer I can keep up this ‘good girl’ act.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L216"
+  },
+  {
+    "key": "forest1_bead814d",
+    "original": "With that, [but] turned to leave, her wings flaring out in a dramatic sweep. I just stood still and waited expectantly.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L220"
+  },
+  {
+    "key": "forest1_e7b76a32",
+    "original": "… Right, I can’t touch the Dewblossom, can I?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L222"
+  },
+  {
+    "key": "forest1_7e29e3ce",
+    "original": "She awkwardly skips back.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L226"
+  },
+  {
+    "key": "forest1_0840cee4",
+    "original": "C-Can you come with me and help? I promise I’ll be a good girl!",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L228"
+  },
+  {
+    "key": "forest1_ffabd437",
+    "original": "And if this potion works, I’m going to fuck your balls dry once I’ve had it~ Deal?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L230"
+  },
+  {
+    "key": "forest1_b5b1154c",
+    "original": "Well, that doesn’t quite sound like the behavior of a ‘good girl,’ but I’ll gladly accept.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L231"
+  },
+  {
+    "key": "forest1_29a7da90",
+    "original": "[but] led me into the familiar labyrinth of caves. I must have explored this particular network at least a dozen times while searching for ingredients. Yet, it was rare for me to be here with [but] in her succubus form.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L237"
+  },
+  {
+    "key": "forest1_ca9b79da",
+    "original": "[but], I’m curious about your other self.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L238"
+  },
+  {
+    "key": "forest1_05f4437f",
+    "original": "What are you talking about, newbie?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L240"
+  },
+  {
+    "key": "forest1_cc04fa3e",
+    "original": "Your other half, you know, before you became a…",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L241"
+  },
+  {
+    "key": "forest1_4e0ff1ef",
+    "original": "Don’t finish that sentence. There is no ‘other.’ This is who I’ve always been.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L243"
+  },
+  {
+    "key": "forest1_03eb0ede",
+    "original": "You’re the last person who should be asking questions right now anyway. Tell me how you knew about me, and why you bothered to come here to help.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L245"
+  },
+  {
+    "key": "forest1_f07eed9d",
+    "original": "I’m searching for six special mares to become the Virtues of Concord. They’ll be allies to the Queen, with the power to potentially stop the looming threat of the nightmares.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L246"
+  },
+  {
+    "key": "forest1_41e93538",
+    "original": "Oh, is that all? Why on earth would you want someone like me on a team like that?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L248"
+  },
+  {
+    "key": "forest1_0738fa76",
+    "original": "Powerful, intelligent, resourceful… You’d make a great Virtue.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L249"
+  },
+  {
+    "key": "forest1_fa1d8912",
+    "original": "Looking like this? I’d never be accepted for the position. I’m a monster.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L251"
+  },
+  {
+    "key": "forest1_3ac7afd8",
+    "original": "We moved a few more steps deeper into the cave, the air thickening with an unforgettable sweet, flowery scent.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L258"
+  },
+  {
+    "key": "forest1_e896d32a",
+    "original": "Careful. This is alraune territory, and they can release powerful aphrodisiacs if disturbed.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L260"
+  },
+  {
+    "key": "forest1_e5277141",
+    "original": "Cover your mouth - oh, you already are. Well, I'll be in and out in a zap.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L262"
+  },
+  {
+    "key": "forest1_2d85ab6b",
+    "original": "She dashed into the pink-tinted darkness. The only thing visible was the eerie glow of her red eyes as she moved with relentless precision.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L265"
+  },
+  {
+    "key": "forest1_623bd8c0",
+    "original": "Despite her caution, the alraune sensed their presence and erupted in a cloud of fragrant pollen. [but] emerged victorious, but stumbled back, coughing, and waving her arms to disperse the pollen.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L273"
+  },
+  {
+    "key": "forest1_4270602d",
+    "original": "I rushed to her side, but she pushed past me into a part of the cave with better ventilation. Her breathing was ragged, her cheeks flushed as she fought to regain control.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L278"
+  },
+  {
+    "key": "forest1_96dc3dd1",
+    "original": "[but], are you okay?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L279"
+  },
+  {
+    "key": "forest1_9a2c1fd3",
+    "original": "I… I’m fine! I just… need a moment…",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L283"
+  },
+  {
+    "key": "forest1_93915244",
+    "original": "But it’s too late. Her eyes glaze over with a sudden, intense need.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L285"
+  },
+  {
+    "key": "forest1_e4f89630",
+    "original": "She turns her back to me, leaning over a rock for support. Her succubus tail, usually swaying gently, now moves with a life of its own, curling towards me seductively.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L329"
+  },
+  {
+    "key": "forest1_5ce1326e",
+    "original": "Please, I can’t let this control me. I need you to cum on me, it’s the only way I can calm down and keep going. Let me use my tail to help you.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L330"
+  },
+  {
+    "key": "but1_2f3033cd",
+    "original": "Understanding the urgency, I take a step closer without hesitation.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L336"
+  },
+  {
+    "key": "but1_987ffac8",
+    "original": "The sight of her gorgeous ass is the first thing to get my blood flowing, but as her tail wraps around me, the touch is electrifying.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L338"
+  },
+  {
+    "key": "but1_073a1ac4",
+    "original": "I can immediately feel the charming touch of a succubus flow through me, activating and enhancing all my pleasure sensors.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L341"
+  },
+  {
+    "key": "but1_1a104935",
+    "original": "But I must remember the danger of this forbidden pleasure too, sex with a succubus is the most pleasurable thing you’ll ever feel, and the absolute last thing you’ll ever feel. I must focus and calm down [but] as fast as I can.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L342"
+  },
+  {
+    "key": "but1_37bcc99c",
+    "original": "Her tail has immediately started moving. The sensation is unlike anything I’ve felt before, a mix of gentle caresses and firm strokes. The tail moves with expert precision, coaxing pleasure with every motion.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L350"
+  },
+  {
+    "key": "but1_b188ded8",
+    "original": "Mmhh, that feels incredible.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L351"
+  },
+  {
+    "key": "but1_d7bde7c6",
+    "original": "I can’t help but let out a moan as I feel cock tingle with both natural and unnatural pleasures. The intensity of it all overwhelming my senses.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L352"
+  },
+  {
+    "key": "but1_72223c20",
+    "original": "Just… let go. I need your energy to calm down.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L353"
+  },
+  {
+    "key": "but1_383da911",
+    "original": "Her voice is strained but filled with a hint of relief.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L354"
+  },
+  {
+    "key": "but1_f17bbac7",
+    "original": "I’m not holding back at all. As soon as I’m about to cum, I’ll let it flow right through.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L355"
+  },
+  {
+    "key": "but1_18fa7bb7",
+    "original": "Right! I’m going to speed up!",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L356"
+  },
+  {
+    "key": "but1_75863f51",
+    "original": "Her tail rocks back and forth at inhuman speeds and the pleasure keeps building until I can’t hold back any longer.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L357"
+  },
+  {
+    "key": "but1_39e314a0",
+    "original": "That’s it! I’m about to cum!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L358"
+  },
+  {
+    "key": "but1_31564410",
+    "original": "Accompanied by a mind-melting orgasm, cum spills freely from my tip, covering [but]’s ass with cum deeply saturated with my sexual energy.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L363"
+  },
+  {
+    "key": "but1_6e2e51ce",
+    "original": "Her body wastes no time gradually absorbing every drop as if it were a delicious nectar.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L368"
+  },
+  {
+    "key": "but1_1e42c2d2",
+    "original": "There’s a glow of satisfaction and renewed strength evident in her eyes.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L369"
+  },
+  {
+    "key": "but1_3b21a2c2",
+    "original": "{i}Pant, pant…{/i} Did that help?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L374"
+  },
+  {
+    "key": "but1_e88d3546",
+    "original": "She turns to face me, her eyes still clouded with an insatiable hunger. The brief taste of my cum has only ignited a deeper need within her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L380"
+  },
+  {
+    "key": "but1_b4af8935",
+    "original": "I’m feeling parched. A little drink couldn’t possibly hurt now, could it?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L381"
+  },
+  {
+    "key": "but1_1e4ed85d",
+    "original": "I try to take a step back, but her tail sneaks in from behind and prods me back forward. The cave's oppressive darkness seemed to grow thicker, the air more stifling.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L383"
+  },
+  {
+    "key": "but1_1d6e35dc",
+    "original": "I swallowed hard; my throat dry. The urgency in her voice, the primal hunger in her eyes—it was all too real, too immediate. I could feel the heat of her breath against my skin, her proximity a potent reminder of her succubus nature, and already capable of getting me hard once again.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L384"
+  },
+  {
+    "key": "but1_5410af73",
+    "original": "Come on, we need to find the other ingredients.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L385"
+  },
+  {
+    "key": "but1_7587b80f",
+    "original": "She shook her head, a shudder running through her as she stepped closer. The cavern walls seemed to close in, the shadows deepening. She leaned in, her soft lips brushing against my ear.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L386"
+  },
+  {
+    "key": "but1_00c48c37",
+    "original": "Please, baby… I… I need more~",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L388"
+  },
+  {
+    "key": "but1_55647474",
+    "original": "Her plea was almost a whimper, a sound of pure desperation. She didn't wait for my response, her hands trembling as they reached for my hips, her touch sending a shiver up my spine. I could feel my resolve weakening.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L389"
+  },
+  {
+    "key": "but1_54eab216",
+    "original": "Just… be careful, okay? You can’t get the dewblossom without me.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L390"
+  },
+  {
+    "key": "but1_e766d8ac",
+    "original": "She nodded, her breath hot against my skin. Slowly, she sank to her knees before me, my cock casting a shadow over her face. The sight of her, so vulnerable and yet so powerful.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L410"
+  },
+  {
+    "key": "but1_527c28eb",
+    "original": "I could barely keep my voice steady as her tongue started moving, the warmth and wetness of her lips drawing a groan from deep within my chest. She moved with a kind of desperate grace, each motion sending waves of pleasure coursing through me.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L412"
+  },
+  {
+    "key": "but1_4b0fb391",
+    "original": "Mmhh! Oh, god, that’s good.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L413"
+  },
+  {
+    "key": "but1_b5b00c49",
+    "original": "Her mouth and fingers worked expertly, the need in her eyes never diminishing. She was hungry, starving for my energy, and yet there was a tenderness in her movements, a careful precision that kept me on the edge of bliss without tipping over into pain.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L415"
+  },
+  {
+    "key": "but1_9275a2f0",
+    "original": "The cave seemed to spin around us, the world narrowing to the point of contact between us. Her mouth, her tongue, the way she moved—it was overwhelming. I could feel the pressure building, the inevitable release drawing closer with each passing second.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L416"
+  },
+  {
+    "key": "but1_3b62d51a",
+    "original": "[but], I’m getting close…",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L417"
+  },
+  {
+    "key": "but1_4b774459",
+    "original": "She hummed around me, the vibration sending a shockwave of pleasure through my body. I couldn't hold back any longer, my climax hitting me with the force of an earthquake – actually, there might have been an earthquake too.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L419"
+  },
+  {
+    "key": "but1_254f048d",
+    "original": "I cried out, the sound echoing off the cave walls as she pulled out and let my cum release all over her face and backside.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L424"
+  },
+  {
+    "key": "but1_bd032d31",
+    "original": "She didn't stop, her lips and tongue working my shaft to milk every last drop from me. The intensity of the sensation was almost too much, but she was relentless, determined to take everything I had to give.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L429"
+  },
+  {
+    "key": "but1_cf7c2499",
+    "original": "My orgasm lasted an unnaturally long amount of time, its strength enhanced by her powers, and eventually the pleasure turned to discomfort.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L434"
+  },
+  {
+    "key": "but1_8d41f667",
+    "original": "Ngghh, [but] that’s… that’s enough!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L435"
+  },
+  {
+    "key": "but1_3e3cd240",
+    "original": "I pulled her away, a satisfied smile on her lips as she swallowed.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L443"
+  },
+  {
+    "key": "but1_622631d7",
+    "original": "The hunger in her eyes had dimmed, replaced by a calm, almost serene expression.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L445"
+  },
+  {
+    "key": "but1_8b12b821",
+    "original": "She wiped her mouth free from cum, her cheeks flushed with exertion and the lingering effects of the alraune’s pollen.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L446"
+  },
+  {
+    "key": "but1_f1c6e448",
+    "original": "Thank you. I feel much better now.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L448"
+  },
+  {
+    "key": "but1_027482cf",
+    "original": "I could only nod, my body still shivering from the aftershocks of our encounter.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L449"
+  },
+  {
+    "key": "but1_77f03d00",
+    "original": "I look around and spot a potential solution. A nearby, underground well of water, and a bucket placed next to it.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L452"
+  },
+  {
+    "key": "but1_243f7de5",
+    "original": "I dash over to the well and buck up the bucket of water. It's already full, fantastic!",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L455"
+  },
+  {
+    "key": "but1_5e98d1aa",
+    "original": "Just as [but] turns around to question my eratic actions, she gets a sudden face full of cold water.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L456"
+  },
+  {
+    "key": "but1_a2d89644",
+    "original": "W-W-Whaaat the fuck was that?!",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L458"
+  },
+  {
+    "key": "but1_fb3b66e2",
+    "original": "{i}Phew{/i} I bet that'll cool you down.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L459"
+  },
+  {
+    "key": "but1_e1da5946",
+    "original": "How did you even get a bucket down here?!",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L460"
+  },
+  {
+    "key": "but1_4f695b08",
+    "original": "If you're focused on that, I think that means we exceeded.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L461"
+  },
+  {
+    "key": "but1_363d6fea",
+    "original": "With an exasperated sigh, [but] squeezes some water out of her hair.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L462"
+  },
+  {
+    "key": "but1_0c2cfcd5",
+    "original": "I'm not thanking you, but... I do feel better.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L463"
+  },
+  {
+    "key": "but1_0b0e0605",
+    "original": "We continued deeper into the cave, [but] clutching a clump of leaves in her hand.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L468"
+  },
+  {
+    "key": "but1_ba4c87e7",
+    "original": "That alraune—it wasn’t a monster girl?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L469"
+  },
+  {
+    "key": "but1_325c8c04",
+    "original": "No, just a regular monster. You won’t find any feral monster girls around here. We're next to a city; it's too urbanized for them to thrive.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L471"
+  },
+  {
+    "key": "but1_cb8b3d10",
+    "original": "Disappointed there’s no cute plant pussy for you to slide your cock in?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L473"
+  },
+  {
+    "key": "but1_af570bc4",
+    "original": "I’d prefer to avoid the topic of sex right now.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L474"
+  },
+  {
+    "key": "but1_3e4995c5",
+    "original": "Your loss~ The dewblossoms are just up ahead. If I step out of line, you can give me a poke with one of them to give me a nasty jolt!",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L476"
+  },
+  {
+    "key": "but1_ca7c7fa2",
+    "original": "As I stepped into the dewblossom area, the sight was more lush than before. There were significantly more dewblossoms than last time, so I decided to gather a bundle.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L478"
+  },
+  {
+    "key": "but1_60b72aec",
+    "original": "Out of the corner of my eye, I saw [but] experimenting with one of the flowers, getting a taste of the jolt she’d mentioned.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L481"
+  },
+  {
+    "key": "but1_e59764d1",
+    "original": "{i}Sigh{/i} This potion is going to be a real bitch to drink, isn’t it? I wonder if…",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L482"
+  },
+  {
+    "key": "but1_00faf7aa",
+    "original": "She turned to me, a frown creasing her face as if she’d just had an epiphany.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L483"
+  },
+  {
+    "key": "but1_72eab7b8",
+    "original": "Did you know my other self?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L486"
+  },
+  {
+    "key": "but1_e1014fe5",
+    "original": "In a way, you could say that. She’s the one who taught me this recipe.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L487"
+  },
+  {
+    "key": "but1_53c17d72",
+    "original": "And here I was calling you a kid. Guess that makes you an old man.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L489"
+  },
+  {
+    "key": "but1_ce2c99b3",
+    "original": "Hey, I’m not old either!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L490"
+  },
+  {
+    "key": "but1_41414183",
+    "original": "The other me, the ‘original’ self, if you will… She couldn’t come to terms with what happened.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L492"
+  },
+  {
+    "key": "but1_54e7772a",
+    "original": "When you were afflicted by the succubus curse?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L493"
+  },
+  {
+    "key": "but1_5bb8e769",
+    "original": "That’s right. Before then, I was a different person. Loving, motherly innocent… She was tricked, betrayed, twisted.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L495"
+  },
+  {
+    "key": "but1_3d094d0a",
+    "original": "She rejected reality and buried herself deep inside.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L497"
+  },
+  {
+    "key": "but1_a40ff816",
+    "original": "Now I’m… this. And I’ve been like this far longer than I was ever my original self…",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L498"
+  },
+  {
+    "key": "but1_0c11df38",
+    "original": "This… new me… is it a ‘succubus’ side, or just a new personality created to distance her from the monster she’d become?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L500"
+  },
+  {
+    "key": "but1_2953bd2b",
+    "original": "Why did you refuse to tell me earlier?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L501"
+  },
+  {
+    "key": "but1_fa51c59d",
+    "original": "{i}Sigh{/i} It’s just… I’m not sure if she’s there anymore…",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L503"
+  },
+  {
+    "key": "but1_97e7cd93",
+    "original": "A part of me feels like she might be lost forever. It’s not that I was hiding it from you; it’s just… I might be all that’s left.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L504"
+  },
+  {
+    "key": "but1_acba5f9e",
+    "original": "I mourn for her. I always have.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L506"
+  },
+  {
+    "key": "but1_6a0403ec",
+    "original": "I drop the dewblossom and pull [but] into a tight hug. She clung to me like she never wanted to let go.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L509"
+  },
+  {
+    "key": "but1_70e18626",
+    "original": "Hugging a succubus… You’re a stupid kind of brave.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L515"
+  },
+  {
+    "key": "but1_cfc5a03c",
+    "original": "You needed one. Doesn’t matter what you are.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L516"
+  },
+  {
+    "key": "but1_699a7055",
+    "original": "Now come on, we’re almost there. We’ve only got one ingredient left to find.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L518"
+  },
+  {
+    "key": "but1_c91f5427",
+    "original": "Right, let’s get that gelatine.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L520"
+  },
+  {
+    "key": "but1_04f3ae85",
+    "original": "I led us deeper into the cave, toward a damp, shadowy section where an underground lake lay hidden. It was the perfect habitat for the elusive slimes. It may take a while to find one hidden in this darkness.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L524"
+  },
+  {
+    "key": "but1_aa5b4d67",
+    "original": "Got one.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L528"
+  },
+  {
+    "key": "but1_4ff64fbb",
+    "original": "[but] glides into view and lifts up a blue blob.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L529"
+  },
+  {
+    "key": "but1_5fc88986",
+    "original": "Wha— but we just got here!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L530"
+  },
+  {
+    "key": "but1_6d34ac02",
+    "original": "Yeah, while you were busy marveling at the view, I went ahead and grabbed some.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L532"
+  },
+  {
+    "key": "but1_0a949d2b",
+    "original": "Wow, alright then! Let’s head back to your cottage!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L533"
+  },
+  {
+    "key": "but1_929ccbe5",
+    "original": "Right… Let’s go.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L535"
+  },
+  {
+    "key": "but1_d51e66b3",
+    "original": "[but] guided me back to her house. Despite the fact that [but] had been so different for so long, the cabin’s interior was brimming with familiarity and nostalgia.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L537"
+  },
+  {
+    "key": "but1_2f2bce14",
+    "original": "Quietly, [but] brushed past me, her demeanor subdued as she began to prepare her equipment. Since we got the gelatine, the chatter and banter had all but disappeared.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L539"
+  },
+  {
+    "key": "but1_750d35c9",
+    "original": "You can prepare the dewblossom for me.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L541"
+  },
+  {
+    "key": "but1_ab87bfb1",
+    "original": "Could you show me how?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L542"
+  },
+  {
+    "key": "but1_5a071d31",
+    "original": "Oh, you don’t know that part? I thought you knew everything.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L544"
+  },
+  {
+    "key": "but1_34cec937",
+    "original": "Is something wrong?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L545"
+  },
+  {
+    "key": "but1_ea104ef9",
+    "original": "How did you know I had a house here? I can tell you knew the way. Hell, the interior of the caves too. You often wouldn’t even wait for my directions.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L547"
+  },
+  {
+    "key": "but1_861dbc40",
+    "original": "I was focused on gathering ingredients, so I let you get away with vague answers, but too much has built up. I told you who I am; now I need to know who or what you really are.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L549"
+  },
+  {
+    "key": "but1_3416a576",
+    "original": "I’ve never been particularly good at lying, so I’ll give you the complete truth.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L550"
+  },
+  {
+    "key": "but1_11a496ce",
+    "original": "It’s because… I did know the way. I’ve been here countless times, hunting for ingredients in those very caves, all with a different you in another universe.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L551"
+  },
+  {
+    "key": "but1_10f79e58",
+    "original": "That’s the craziest thing I’ve ever heard, and yet, I’d be a fool to doubt it.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L553"
+  },
+  {
+    "key": "but1_22cea222",
+    "original": "Even knowing the risks, you really came here to help me?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L555"
+  },
+  {
+    "key": "but1_af77e969",
+    "original": "How could I not? You’re [but], one of my best friends.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L556"
+  },
+  {
+    "key": "but1_fd564542",
+    "original": "Nnghh… You’re going to make me blush…",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L558"
+  },
+  {
+    "key": "but1_5bf1aa60",
+    "original": "The me in the other universe—she was my ‘other self,’ wasn’t she? Can you tell me what she was like?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L560"
+  },
+  {
+    "key": "but1_fce11ed7",
+    "original": "You already know, perhaps better than I do. Because you are her; innocent, caring, motherly.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L561"
+  },
+  {
+    "key": "but1_5e91f761",
+    "original": "This house, it’s a mirror image of hers. You have a lot more in common with your original self than you realize.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L562"
+  },
+  {
+    "key": "but1_2bdb994a",
+    "original": "[but] began to brew the potion, gesturing for me to drop the dewblossoms in whole.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L565"
+  },
+  {
+    "key": "but1_cc84f976",
+    "original": "Mmhh… I guess we’ll find out~",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L567"
+  },
+  {
+    "key": "but1_04df3048",
+    "original": "It’ll take a few hours to brew this, and even longer for it to take effect once I’ve drunk it.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L568"
+  },
+  {
+    "key": "but1_06de0563",
+    "original": "But you’ll come back, won’t you?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L570"
+  },
+  {
+    "key": "but1_70dd0222",
+    "original": "To get my ‘balls completely drained’? Wouldn’t miss that for the world.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L571"
+  },
+  {
+    "key": "but1_bef8371b",
+    "original": "Thank you so much, [mc]. I better hurry up and escort you out before I lose control again~",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L573"
+  },
+  {
+    "key": "but1_94afc9b5",
+    "original": "Ten minutes later, I stepped outside the forest, passing through the guarded gate once again.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L576"
+  },
+  {
+    "key": "but1_8b93ecaa",
+    "original": "Well, I’ll be damned. You actually made it back.",
+    "context": "说话人: misc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L577"
+  },
+  {
+    "key": "but1_2d299b61",
+    "original": "The stories are overrated, man. The forest isn’t that bad.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L578"
+  },
+  {
+    "key": "but1_81d66af2",
+    "original": "Guess you didn’t run into any giant bears.",
+    "context": "说话人: misc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L579"
+  },
+  {
+    "key": "but1_543e5827",
+    "original": "Giant wha?!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L580"
+  },
+  {
+    "key": "but1_3f7f25c2",
+    "original": "Back in [mox]’s apartment…",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L583"
+  },
+  {
+    "key": "but1_629807eb",
+    "original": "Yep, there are giant, nocturnal bears in the Nevermore Forest. I can’t believe you went in there alone!",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L585"
+  },
+  {
+    "key": "but1_602d59db",
+    "original": "Luckily, I only walked a few minutes in before I made contact with [but].",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L586"
+  },
+  {
+    "key": "but1_2c50494d",
+    "original": "Ah, you were just at the city outskirts, then. Phew! The Nevermore Forest stretches for miles. You’d have to walk a considerable distance before you encountered anything truly dangerous.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L588"
+  },
+  {
+    "key": "but1_f9e2faea",
+    "original": "But I’ve heard that the real danger lies in the forest’s heart—an independent section of ‘dark lands’, where an ancient castle lies in ruins.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L589"
+  },
+  {
+    "key": "but1_0b9b53a8",
+    "original": "More about these ‘Dark Lands’? I’m still trying to wrap my head around it. Would it be alright if I asked a few questions?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L590"
+  },
+  {
+    "key": "but1_394d93d2",
+    "original": "I lost my village to it, so I can give you an accurate account, though not a pleasant one.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L592"
+  },
+  {
+    "key": "fo1m1_aab4c464",
+    "original": "The Dark Lands is like a creeping blight, a corruption slowly devouring the country. It covers about 10%% of the globe, and roughly 33%% of our island. The west is completely lost—cities like Maplewood and Cloud Harbor.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L596"
+  },
+  {
+    "key": "fo1m1_67c7a2b6",
+    "original": "Right now, the darkness is encroaching further west across the seas, threatening other countries, and gradually moving towards Arcadia, which sits at the centre of the country, also called Arcadia – confusing, I know.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L597"
+  },
+  {
+    "key": "fo1m1_1bdea631",
+    "original": "[aur] pours a significant amount of her power into holding it back, but this only slows its advance. It’s like trying to stop an avalanche with a shovel.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L598"
+  },
+  {
+    "key": "fo1m1_e802736d",
+    "original": "Tensions are sky-high. The country is practically at war, and we’re even receiving international aid from the Dragon Lands.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L599"
+  },
+  {
+    "key": "fo1m1_7b6ef766",
+    "original": "The first thing that hits you is a suffocating darkness. It’s like a night that drags on forever, but not just any night. It’s an unnatural void that defies the sun.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L603"
+  },
+  {
+    "key": "fo1m1_6c584e0d",
+    "original": "And within those shadows, hostile nightmares appear and attack on sight.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L604"
+  },
+  {
+    "key": "fo1m1_c077b243",
+    "original": "If you die in the shadow lands, you become one of those nightmares, twisted and...",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L605"
+  },
+  {
+    "key": "fo1m1_d71cd5a0",
+    "original": "[mox] faltered, breaking out in a cold sweat. She took a moment to compose herself.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L607"
+  },
+  {
+    "key": "fo1m1_3660710d",
+    "original": "Sorry. I can’t describe it properly.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L609"
+  },
+  {
+    "key": "fo1m1_c72c155d",
+    "original": "Just know this: all those nightmares were once living beings—ponies, unicorns, pegasi.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L610"
+  },
+  {
+    "key": "fo1m1_a21e0f1c",
+    "original": "Yeah, about ten miles in. For the past year, pegasi flying overhead have reported that the ruins of Old Arcadia are cloaked in darkness.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L614"
+  },
+  {
+    "key": "fo1m1_d84aab62",
+    "original": "It’s supposed to be a secret, but [pen] told me that it’s become a focal point for Arcadian scientists trying to understand this darkness.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L615"
+  },
+  {
+    "key": "fo1m1_5cb34a5a",
+    "original": "Why it’s there, of all places, I can’t say. But if they can eliminate it there, perhaps they can remove it everywhere.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L616"
+  },
+  {
+    "key": "fo1m1_87a97e8f",
+    "original": "I don’t want to place any burdens on you, but I sincerely hope that the power of these virtues is enough to push back the darkness.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L621"
+  },
+  {
+    "key": "fo1m1_2c291eac",
+    "original": "I’m with you on that. All I can do is put my faith in those who place their faith in me.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L622"
+  },
+  {
+    "key": "fo1m1_335ccd5b",
+    "original": "[sel], I hope you can help this world.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L624"
+  },
+  {
+    "key": "fo1m1_a20cefa7",
+    "original": "...",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L625"
+  },
+  {
+    "key": "forest2_dc2fbaf9",
+    "original": "The trees whisper in the wind, their leaves casting fleeting shadows in the pale light of the moon. There’s a solace in the solitude, a familiarity in the way the path snakes through the woods.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L640"
+  },
+  {
+    "key": "forest2_056a2d4f",
+    "original": "There’s nothing to fear this close to the bustling city. No creatures lying in wait, only the steady beat of my heart, the rhythm of my steps on the ground. Or so I tell yourself.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L641"
+  },
+  {
+    "key": "forest2_9c32de5b",
+    "original": "Last time, I ventured into the caves, those dark, damp places where actual monsters lurk. But this is different. This is the forest. This is safe.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L642"
+  },
+  {
+    "key": "forest2_00d721d0",
+    "original": "The cabin comes into view, a warmth etched against the skeletal trees. The sight of it brings a small sense of relief.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L644"
+  },
+  {
+    "key": "forest2_fb1935c0",
+    "original": "[but] is waiting. Last time I saw her, she was still brewing that potion. For her sake, I hope it worked.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L645"
+  },
+  {
+    "key": "forest2_a33af32e",
+    "original": "I push open the door and step inside. The cabin is lit by the warm glow of candles, the air thick with the scent of herbs and something darker, sweeter.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L647"
+  },
+  {
+    "key": "forest2_3399c4fd",
+    "original": "Following the scent, I find her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L652"
+  },
+  {
+    "key": "forest2_51de00e2",
+    "original": "She lies while toying with her hair, a lazy smile curling her lips. The potion must have worked, because she looks different now. There’s a glow to her, a vitality. Her eyes—deep, crimson—sparkle with something new. Hunger. Lust.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L653"
+  },
+  {
+    "key": "forest2_e3418dcf",
+    "original": "She’s brimming with life, with energy, and when she looks at me, it’s like I’m the only thing that matters in all the world.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L654"
+  },
+  {
+    "key": "forest2_3cdad243",
+    "original": "Well, well... Look who’s finally come back. I was starting to think you’d forgotten about me~",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L655"
+  },
+  {
+    "key": "forest2_440377f4",
+    "original": "She purred; her voice smooth as honey.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L656"
+  },
+  {
+    "key": "forest2_3d81abc1",
+    "original": "There’s no way I’d forget after what you promised last time. But more than that, I needed to see if the potion worked.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L657"
+  },
+  {
+    "key": "forest2_b2d88903",
+    "original": "Oh, it worked. Better than I ever could have dreamed.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L658"
+  },
+  {
+    "key": "forest2_76f1e7cf",
+    "original": "She shifted on the bed, her body moving with a grace that was near feline. The firelight from the candles flickered across her curves, casting shadows that played on the texture of her fur, her pink locks spilling over her shoulders like liquid.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L659"
+  },
+  {
+    "key": "forest2_2d88da01",
+    "original": "So… you’re finally free?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L660"
+  },
+  {
+    "key": "forest2_ea990ab1",
+    "original": "Her smile wavered, just a flicker, and I caught a glimpse of hunger in her eyes.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L661"
+  },
+  {
+    "key": "forest2_e26287c3",
+    "original": "Free? Not quite. But I’m not dangerous anymore. I can finally… indulge.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L662"
+  },
+  {
+    "key": "forest2_425eca61",
+    "original": "You must’ve waited a long time for this.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L663"
+  },
+  {
+    "key": "forest2_99bf63b7",
+    "original": "Mmhhmm. Fifty years. Fifty years of waiting, starving, holding it all back.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L664"
+  },
+  {
+    "key": "forest2_7d3e3d6d",
+    "original": "But now…",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L665"
+  },
+  {
+    "key": "forest2_2774e54c",
+    "original": "She sat up, quick and sure in the darkness, her form a silhouette of curves along with dramatically flaring wings and a coiled tail.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L673"
+  },
+  {
+    "key": "forest2_96d55558",
+    "original": "Now, I can’t wait any longer.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L674"
+  },
+  {
+    "key": "forest2_e579b7c3",
+    "original": "She reached out and touched me, her body heat searing through my skin like a brand.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L675"
+  },
+  {
+    "key": "forest2_4a3ecbab",
+    "original": "[but]…",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L676"
+  },
+  {
+    "key": "forest2_50caf9ce",
+    "original": "I tried to speak, but she silenced me with a finger to my lips.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L677"
+  },
+  {
+    "key": "forest2_a8737f46",
+    "original": "Shh…",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L679"
+  },
+  {
+    "key": "forest2_c107e154",
+    "original": "She leaned in close, her breath warm against my ear.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L680"
+  },
+  {
+    "key": "forest2_eb8ded4c",
+    "original": "I’ve waited long enough. I want you, and I’m going to have you. Every. Last. Drop.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L682"
+  },
+  {
+    "key": "forest2_e05031be",
+    "original": "There was no resisting her. She was a succubus, after all. She knew every trick, every way to make a man fall to his knees.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L683"
+  },
+  {
+    "key": "forest2_fe455d44",
+    "original": "Her lips found mine, and I was lost. She was all heat and fire, her body pressed tight against me, her hands moving over me like she could never have enough.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L684"
+  },
+  {
+    "key": "forest2_0ae0946b",
+    "original": "She led me to the bed, and I followed, already beguiled and helpless to do anything else. She pushed me down, her body moving over mine with undeniable strength. She wasn’t cursed anymore, but she was still a succubus, and she was starving.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L687"
+  },
+  {
+    "key": "forest2_f99cfc7d",
+    "original": "Turning away from me, she lowered herself onto the bed, her back arched, her head down, and her glorious bubble butt raised high. It was an offering as old as time, a posture both submissive and demanding in equal measure.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L735"
+  },
+  {
+    "key": "forest2_351edb15",
+    "original": "Take me~",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L736"
+  },
+  {
+    "key": "forest2_a5b00c52",
+    "original": "Her voice was a whisper, soft and urgent. There was no command in it. Only need. A deep, primordial need that rippled through the air between us, thick and heavy as smoke.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L737"
+  },
+  {
+    "key": "forest2_0cb09918",
+    "original": "The words were on the tip of your tongue, but they don’t come.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L742"
+  },
+  {
+    "key": "forest2_f043edef",
+    "original": "{i}You walked into the home of a succubus, knowing full well what that meant. There’s no leaving now!{i}",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L743"
+  },
+  {
+    "key": "forest2_183289e1",
+    "original": "The words echoed through me, and I felt something. A sudden pull of her magic, creeping in, quiet at first, then swelling like a tide that could not be turned.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L744"
+  },
+  {
+    "key": "forest2_7f71c8bf",
+    "original": "It wasn’t just desire. It was something deeper, something that reached into the core, took hold, and refused to let go. My thoughts grew cloudy, and my body moved of its own accord, as if guided by a will that wasn’t my own.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L745"
+  },
+  {
+    "key": "forest2_7189921f",
+    "original": "Her succubus magic entwined with my mind, pushing, pulling, until there was no distinction between what I wanted and what she demanded.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L746"
+  },
+  {
+    "key": "forest2_33f29e2f",
+    "original": "Mmm… Good boy.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L747"
+  },
+  {
+    "key": "forest2_b6326cb3",
+    "original": "I moved towards her, my hands finding the curve of her ass, and she shivered under my touch. It was like she’d been waiting an eternity for this, holding back for so long that now it was like a dam breaking, inevitable and unstoppable.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L748"
+  },
+  {
+    "key": "forest2_454d42aa",
+    "original": "Her body responded to mine with an eagerness that bordered on desperation, and she pushed back against me, urging me forward with unsubtle movements. Each second, her magic wound itself tighter around my mind, binding me to her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L749"
+  },
+  {
+    "key": "forest2_1280c271",
+    "original": "Now, slide it in~",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L750"
+  },
+  {
+    "key": "forest2_9f2e1d5c",
+    "original": "Almost as if watching myself from the third person, I saw my hand wrap around my cock and align it with her pussy. She was initially very tight, but with enough force, her folds parted, and I pushed inside.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L753"
+  },
+  {
+    "key": "forest2_df22db8e",
+    "original": "As my shaft sank into her depths, and the world seemed to fall away. There was nothing but the feel of her, the heat of her, the way her pussy clenched around my cock, her insides pulling me deeper, urging me on.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L754"
+  },
+  {
+    "key": "forest2_f99959af",
+    "original": "Uuoohhh, I’ve waited so long for this… It’s perfect, just like I dreamt.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L755"
+  },
+  {
+    "key": "forest2_b8075afd",
+    "original": "Don’t you worry, I’m going to make all your dreams come true.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L756"
+  },
+  {
+    "key": "forest2_e0a74add",
+    "original": "I began thrusting immediately – wouldn’t have been able to stop myself if I tried, and it was more than just the magic that contributed to that. The feeling of her pussy was euphoric, gracing every inch of my shaft with unparalleled bliss.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L763"
+  },
+  {
+    "key": "forest2_78877077",
+    "original": "Yes, just like that! Let me feel every inch of you~",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L764"
+  },
+  {
+    "key": "forest2_f01e12d3",
+    "original": "Heh, I won’t stop until you’ve had your fill.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L765"
+  },
+  {
+    "key": "forest2_8501eb5c",
+    "original": "Now deep inside, her magic flared, a rush of energy that coursed through me, heightening everything, making every touch, every movement, more intense, more powerful. I could feel her guiding me, controlling the rhythm, the pace, until it was just the two of us, lost in that dark, consuming dance.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L766"
+  },
+  {
+    "key": "forest2_a8c680dd",
+    "original": "Nngghh, you’re so close… I can almost taste it! Keep going, my love~",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L767"
+  },
+  {
+    "key": "forest2_0337a830",
+    "original": "Ooohhh, take it all, [but]! I’m all yours.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L768"
+  },
+  {
+    "key": "forest2_e931f7de",
+    "original": "The first time I came, it was like an explosion, a release of everything I had, everything I was. It was raw and primal, a wave of pleasure that crashed over me, left me gasping, trembling.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L775"
+  },
+  {
+    "key": "forest2_1a1cb78e",
+    "original": "And she took it all, every last drop, her body drinking it in, pulling far more from me than I’d ever release in an ordinary orgasm.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L780"
+  },
+  {
+    "key": "forest2_0b53ba41",
+    "original": "But she wasn’t done. Not by a long shot. Her power surged again, filling me with a renewed vigor, pushing me forward, demanding more.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L784"
+  },
+  {
+    "key": "forest2_c6dba05f",
+    "original": "Don’t stop now, I need more. I need everything you’ve got. Feed me, until there’s nothing left to give.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L785"
+  },
+  {
+    "key": "forest2_661d18ee",
+    "original": "I’m not stopping until you’ve drained me dry. You asked for it, and you’ll get it!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L786"
+  },
+  {
+    "key": "forest2_6113dd32",
+    "original": "And I gave it to her, again and again. Each time, she took it all, draining me until I thought there was nothing left. Only for her to push me further, to pull more from me, her body a vessel of insatiable need.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L788"
+  },
+  {
+    "key": "forest2_e5dc5c41",
+    "original": "The room was filled with the sounds of sex, the soft moans and gasps, cries of pleasure that spilled from our lips. It was endless, a cycle of give and take, of pleasure and pain, and I was lost in it, drowning in the sensation, in the feel of her, in the magic that held me in its grip.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L791"
+  },
+  {
+    "key": "forest2_bd3d5e0a",
+    "original": "We’re not done, not even close. You’re mine, all mine, until we’re both too far gone to care.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L794"
+  },
+  {
+    "key": "forest2_f7732f85",
+    "original": "{i}Pant, pant{/i} I’m right here with you, every second of it.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L795"
+  },
+  {
+    "key": "forest2_dc6f2290",
+    "original": "She came, again and again, each climax pushing me closer to another of mine, each release a fresh surge of energy that pulled me along with her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L798"
+  },
+  {
+    "key": "forest2_f0fe9414",
+    "original": "I was caught in that endless spiral, lost to the world, to everything but the feel of her, the taste of her, the way she moved beneath me, around me, consuming me. Her body trembled with each wave of pleasure, and I could feel her magic pulling at me, taking everything I had to give.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L799"
+  },
+  {
+    "key": "forest2_a74829b4",
+    "original": "And then, finally, it was too much. The last climax hit me like a freight train, a rush of pleasure so intense that I felt myself slipping, the world growing dim, as I gave her the last of what I had.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L805"
+  },
+  {
+    "key": "forest2_0c78173f",
+    "original": "The last thing I felt was her body, warm and soft beneath mine, her magic still wrapped around me, holding me close, pulling me deeper into a soothing sleep.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L812"
+  },
+  {
+    "key": "forest2_ce617998",
+    "original": "…",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L813"
+  },
+  {
+    "key": "forest2_9a601713",
+    "original": "I awoke to the soft creak of floorboards. My body was heavy after being wrung out let a wet rag. I was completely empty.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L814"
+  },
+  {
+    "key": "forest2_eba08835",
+    "original": "As my eyes adjusted, the room came into focus. The candle fire had burned low, casting a dull glow across the walls. I was still in the bed, the sheets tangled around my legs.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L816"
+  },
+  {
+    "key": "forest2_897e6b43",
+    "original": "I shifted, and the dull throb in my groin told me all I needed to know. My balls were drained, completely fuckin' drained.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L817"
+  },
+  {
+    "key": "forest2_1b673a58",
+    "original": "But there was no fear, no regret. Just a strange sort of contentment.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L818"
+  },
+  {
+    "key": "forest2_d3bd7a1a",
+    "original": "The door creaked open, and I turned my head. [but] stood there, framed by the doorway, the light from the hall casting her in shadow.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L821"
+  },
+  {
+    "key": "forest2_fc648ce6",
+    "original": "She wasn’t the same as before, though. Her silhouette lacked wings and the additional tail. There was something different about her now, something softer, more familiar…",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L822"
+  },
+  {
+    "key": "forest2_4de61e7f",
+    "original": "She was no longer the succubus who had drained me hours ago. She was the ‘normal’ [but] again, or at least a gentler version of her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L823"
+  },
+  {
+    "key": "forest2_ff0b6d76",
+    "original": "Hello there.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L825"
+  },
+  {
+    "key": "forest2_c6e583ce",
+    "original": "Her voice was soft, carrying a warmth that eased some of the weariness in my bones. She stepped into the room, a steaming cup in her hands.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L826"
+  },
+  {
+    "key": "forest2_908ff640",
+    "original": "I thought you may need this.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L828"
+  },
+  {
+    "key": "forest2_c366929b",
+    "original": "I lifted myself up on the bed, wincing slightly as the movement stirred the soreness in my body.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L829"
+  },
+  {
+    "key": "forest2_def0ad19",
+    "original": "What is it?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L830"
+  },
+  {
+    "key": "forest2_b88c7bfd",
+    "original": "A little remedy I brewed. Should help restore your strength, and maybe get your... uhm, manhood back in working order. That part is untested, because I don’t… you know, hehe, here you go.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L832"
+  },
+  {
+    "key": "forest2_96d9f0cf",
+    "original": "Ha, I’m sure the other women in my life will appreciate that. I was half-expecting to be shooting blanks for the rest of the week.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L833"
+  },
+  {
+    "key": "forest2_ec4681c8",
+    "original": "I took the cup from her, the warmth of it seeping into my fingers. I brought it to my lips, the aroma of herbs filling my nose. It tasted earthy and I could feel it working almost immediately, a slow warmth spreading through me.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L834"
+  },
+  {
+    "key": "forest2_75548b97",
+    "original": "[but] sat on the edge of the bed, observing with a quiet patience. There was a softness to her gaze, a tenderness that hadn’t been there before.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L835"
+  },
+  {
+    "key": "forest2_83818156",
+    "original": "Looks like the potion worked! What a relief.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L837"
+  },
+  {
+    "key": "forest2_d87709fa",
+    "original": "I nodded, taking another sip of the tea. The weariness in my muscles was dissipating so actively I could feel them tingle.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L838"
+  },
+  {
+    "key": "forest2_31081b1d",
+    "original": "Might be stating the obvious, but you seem different.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L839"
+  },
+  {
+    "key": "forest2_a023f9be",
+    "original": "She smiled, wistful smile that spoke of long years.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L840"
+  },
+  {
+    "key": "forest2_04e7d749",
+    "original": "I am different. I’m the original [but].",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L842"
+  },
+  {
+    "key": "forest2_8d5d65a3",
+    "original": "The introspection you gave me, combined with the potion… it’s helped me reconnect with an old part of myself. Though it’s strange, I don’t have all the memories—just shards, fragments.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L843"
+  },
+  {
+    "key": "forest2_abf7c744",
+    "original": "So you’re back to sharing the same body with another self.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L844"
+  },
+  {
+    "key": "forest2_56298e86",
+    "original": "Two parts of a whole, yet not entirely the same. The memories don’t align perfectly, and sometimes it feels like I’m missing something.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L846"
+  },
+  {
+    "key": "forest2_fc59d14c",
+    "original": "But there’s one thing that’s clear. When I gave myself over to my other side, I saw it as a monster. I thought it would destroy everything I’d built.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L847"
+  },
+  {
+    "key": "forest2_68414d82",
+    "original": "That’s why I fled, abandoning my past life and all the connections that came with it. She didn’t have full access to my memories, so I shut myself away forever to protect my loved ones.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L848"
+  },
+  {
+    "key": "forest2_ed090834",
+    "original": "But… it didn’t hurt anyone.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L849"
+  },
+  {
+    "key": "forest2_51fbd3c6",
+    "original": "I set the cup down on the bedside table, leaning back against the headboard.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L850"
+  },
+  {
+    "key": "forest2_fae21e52",
+    "original": "So, what does that mean to you?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L851"
+  },
+  {
+    "key": "forest2_8b5d5bab",
+    "original": "It means that she wasn’t a monster at all…",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L853"
+  },
+  {
+    "key": "forest2_633cb7bd",
+    "original": "She was still me. Just… more intense. But the love, the compassion, the care—they were still there.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L854"
+  },
+  {
+    "key": "forest2_26bf4d38",
+    "original": "I agree. Sure, she may have been a succubus, but your core, the part that defines who you are, hadn’t changed one bit.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L855"
+  },
+  {
+    "key": "forest2_82f2e577",
+    "original": "If you ask me, you never really left. You were just wearing a different mask.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L856"
+  },
+  {
+    "key": "forest2_2f4c824f",
+    "original": "You’re right, and I’m not in denial anymore. I buried myself for so long, hidden behind the trauma of what I was forced to become. But with this… this gift you’ve given me, I can see it now. I can see what I was missing.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L858"
+  },
+  {
+    "key": "forest2_06714218",
+    "original": "I was reckless. I tried to shut myself out, pretend I wasn’t there, to hide from what I’d become. And I wouldn’t blame her if she harbored hatred towards me because of that.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L859"
+  },
+  {
+    "key": "forest2_bfd147ea",
+    "original": "I shook my head, turning to face her fully.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L860"
+  },
+  {
+    "key": "forest2_ffd64ff4",
+    "original": "But she didn’t, [but]. Not once did your succubus side show any bitterness towards you. If anything, there was a longing, like she knew something vital was missing. Like she was incomplete without you.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L861"
+  },
+  {
+    "key": "forest2_ce811742",
+    "original": "She took a deep breath, absorbing the words.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L862"
+  },
+  {
+    "key": "forest2_99711e23",
+    "original": "I’ve felt it too… That emptiness, that sense of something lost.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L864"
+  },
+  {
+    "key": "forest2_4bad01e8",
+    "original": "But now, seeing it clearly, I can’t help but wonder why I didn’t embrace her sooner. We could have helped each other, made each other whole.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L865"
+  },
+  {
+    "key": "forest2_8440ffa6",
+    "original": "Now you can. Together, you can be more than just fragments of a life lost to circumstance. You can be whole again.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L866"
+  },
+  {
+    "key": "forest2_fc320372",
+    "original": "Together! We can achieve so much more. I can use my ordinary form to visit the city again, to shop, to meet people like [lil] and the Virtues you spoke of.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L868"
+  },
+  {
+    "key": "forest2_b0ed5014",
+    "original": "With my succubus form, I can defend myself, gather ingredients, even fly.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L869"
+  },
+  {
+    "key": "forest2_3b25ee59",
+    "original": "And let’s not forget the many other perks of being a succubus! {i}Wiiink{/i}",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L870"
+  },
+  {
+    "key": "forest2_7458518b",
+    "original": "There was a light in her eyes now, a spark that hadn’t been there before.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L871"
+  },
+  {
+    "key": "forest2_cd4d6e7e",
+    "original": "I don’t have to be a hermit witch, deep in the woods, forgotten by the world.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L873"
+  },
+  {
+    "key": "forest2_1b30ce82",
+    "original": "You can live again, [but]. Truly live.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L874"
+  },
+  {
+    "key": "forest2_400ffc2d",
+    "original": "Reaching out, her hand found mine and squeezed it with a loving passion.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L875"
+  },
+  {
+    "key": "forest2_0ade8d1c",
+    "original": "It sounds absurd, doesn’t it?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L877"
+  },
+  {
+    "key": "forest2_bff788fb",
+    "original": "She said with a small, self-deprecating smile tugging at the corner of her lips.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L878"
+  },
+  {
+    "key": "forest2_343774bc",
+    "original": "Wanting to sell potions and function in society like a normal person. But to me, connection with others is everything.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L879"
+  },
+  {
+    "key": "forest2_71804bda",
+    "original": "And you... you’ve brought me back to life, [mc]. You’ve given me that chance.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L880"
+  },
+  {
+    "key": "forest2_bfa821ca",
+    "original": "Hey, you know my name. So, do you remember a few things from the other side?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L881"
+  },
+  {
+    "key": "forest2_17b6b343",
+    "original": "It’s a bit hazy. I grasp the important parts, but most importantly, I remember how you made me feel.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L883"
+  },
+  {
+    "key": "forest2_6f442764",
+    "original": "[but]’s gaze flickered downward. It was then that we both noticed a bulge under the blankets.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L884"
+  },
+  {
+    "key": "forest2_f31bbff9",
+    "original": "Her eyes widened as she realized the full extent of the effect her tea had on me. A soft blush crept up her cheeks, and she cleared her throat, her fingers moving to the edge the duvet.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L885"
+  },
+  {
+    "key": "forest2_f23a71f7",
+    "original": "I see… It seems my potion may have been a touch more effective than I intended.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L887"
+  },
+  {
+    "key": "forest2_70374795",
+    "original": "First, the power of a succubus, and now this. Quite the workout.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L888"
+  },
+  {
+    "key": "forest2_a770bd50",
+    "original": "Her voice was low, almost playful. Despite the absolutely extraordinary sexual encounter I’d just had with her succubus side, everything was different right now.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L889"
+  },
+  {
+    "key": "forest2_9d56cc0c",
+    "original": "I wondered if, despite her new-found softness, she would still exhibit that same confident, commanding presence.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L890"
+  },
+  {
+    "key": "forest2_eef0c788",
+    "original": "[but] leaned over with curiosity as she unveiled my throbbing shaft.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L891"
+  },
+  {
+    "key": "forest2_061164fe",
+    "original": "T-This thing was {i}inside{/i} me?! But it’s enormous!",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L893"
+  },
+  {
+    "key": "forest2_f7dd4e39",
+    "original": "Haha, I can take handle this myself if you prefer.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L894"
+  },
+  {
+    "key": "forest2_23345d03",
+    "original": "Ah, but I have my own enormous assets to work with!",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L896"
+  },
+  {
+    "key": "forest2_7814c92e",
+    "original": "Her breasts brushed against my hips as she positioned herself below me. Her touch was gentle, almost reverent, and as she moved, her eyes locked onto mine, her expression a mix of focus and tenderness.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L927"
+  },
+  {
+    "key": "forest2_35e7405e",
+    "original": "I think I can help you with this.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L928"
+  },
+  {
+    "key": "forest2_11842963",
+    "original": "Her voice was a soft murmur, a contrast to the intense heat between us. She adjusted herself, making sure my cock was completely snug between her breasts, and then began to use her hands to smother my shaft in them.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L938"
+  },
+  {
+    "key": "forest2_2d884b94",
+    "original": "The sensation was exquisite, the warmth and softness enveloping my shaft as her breasts moved. The rhythm was unpracticed, but that was easily made up for by enthusiasm and motherly care. She took her time, each motion calculated to maximize the pleasure.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L939"
+  },
+  {
+    "key": "forest2_a41d1be8",
+    "original": "However, perhaps due to her time as a succubus, it didn’t take long for her movements to become fluid and experienced. Her gaze remained steady, watching my reactions with a mix of curiosity and affection.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L941"
+  },
+  {
+    "key": "forest2_25d417f7",
+    "original": "You look so cute right now… Mmhh… C-Could you call me mommy?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L942"
+  },
+  {
+    "key": "forest2_4b517e49",
+    "original": "Mmhhh… That’s so sweet on the ears~",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L948"
+  },
+  {
+    "key": "forest2_1dd8ebb5",
+    "original": "Her movements grew faster and visibly more excited.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L949"
+  },
+  {
+    "key": "forest2_5ee76f14",
+    "original": "That’s fine with me~",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L952"
+  },
+  {
+    "key": "forest2_ddab0a8b",
+    "original": "The room was filled with the sound of her soft, steady breathing and the occasional murmur of satisfaction. My own moans were almost involuntary, escaping with each push and pull of her breasts. Succubus [but] had always been skilled in her craft, but now, there was an added layer of her affection and care that uniquely elevated the experience.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L953"
+  },
+  {
+    "key": "forest2_3c17743a",
+    "original": "Just relax. Let [gent1] take care of you.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L955"
+  },
+  {
+    "key": "forest2_b54a7f26",
+    "original": "My shaft grew tense, the intensity growing with each passing second until finally, with a shuddering breath, I was on the edge of cumming.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L956"
+  },
+  {
+    "key": "forest2_1340444f",
+    "original": "That’s it, good boy. Just let it all cum out for [gent1].",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L957"
+  },
+  {
+    "key": "forest2_79b76800",
+    "original": "[but]’s movements became more fervent, her focus absolute as she guided me through the final stages. Her soft, encouraging whispers filled the air, and as I finished, the relief was profound, almost cathartic.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L962"
+  },
+  {
+    "key": "forest2_48d758ff",
+    "original": "As the last waves of pleasure subsided, [but] returned her gaze to me, her expression one of quiet satisfaction. She looked at me with a mixture of affection and amusement.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L968"
+  },
+  {
+    "key": "forest2_f9395540",
+    "original": "There, all better now.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L970"
+  },
+  {
+    "key": "forest2_067f7d8a",
+    "original": "Even with the wild passion of your succubus side, this was something else entirely. A different kind of wonder.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L971"
+  },
+  {
+    "key": "forest2_6a6cb0cd",
+    "original": "Hehe, I’m glad we’re not competing for the same genre, then~",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L972"
+  },
+  {
+    "key": "forest2_47ef29c4",
+    "original": "She moved to retrieve a cloth, her movements calm and unhurried. When she finished cleaning up, she settled back beside me.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L978"
+  },
+  {
+    "key": "forest2_0c8e20b8",
+    "original": "I hope that was good~! I know we're still somewhat strangers, but I’d like for us to become very close.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L980"
+  },
+  {
+    "key": "forest2_7e433d99",
+    "original": "Her voice was calm, yet still carrying that trace of playful confidence.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L981"
+  },
+  {
+    "key": "forest2_352620e2",
+    "original": "That was more than good, [but]. It was exactly what I needed, and I can’t wait to see what else you can do.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L982"
+  },
+  {
+    "key": "forest2_9d578fef",
+    "original": "Oh my, you’re not just interested in my succubus side?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L984"
+  },
+  {
+    "key": "forest2_32468802",
+    "original": "You’re offer something different. With her, it’s intense and raw. With you, it’s loving and serene. Both are great in their own ways.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L985"
+  },
+  {
+    "key": "forest2_088be510",
+    "original": "Fuhuhu, is that how you see me? I can’t claim to have the experience to judge, but we’ll discover that together, won’t we?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L987"
+  },
+  {
+    "key": "forest2_c6121533",
+    "original": "Absolutely! By the way, how long was I out?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L988"
+  },
+  {
+    "key": "forest2_d81dc14b",
+    "original": "You’ve been asleep for a while and it's quite late now. Are you going to return home?",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L990"
+  },
+  {
+    "key": "forest2_791d5beb",
+    "original": "Ack, nearly 2AM! [mox] will get worried if I don't check myself in.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L991"
+  },
+  {
+    "key": "forest2_8c0b368d",
+    "original": "Thank you, for everything. You’ve done more than you know. I’ll get in touch with [lil] soon. And remember, you’re always welcome here. Anytime.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L993"
+  },
+  {
+    "key": "forest2_78662079",
+    "original": "Goodnight, [but].",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L994"
+  },
+  {
+    "key": "forest2_e53b738b",
+    "original": "Goodnight, sweetie! Safe travels.",
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L996"
+  },
+  {
+    "key": "forest2_147e0804",
+    "original": "I step out into the night, the cool air a sharp contrast to the warmth of her cabin. The forest outside is silent, the stars hanging low and heavy in the sky. My thoughts drift as I make my way back to the city.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1000"
+  },
+  {
+    "key": "forest2_77891d54",
+    "original": "Back in the apartment, the city’s distant, ever-present hum is barely audible through the windows. [mox] is lounging on the couch, a book in her lap.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1002"
+  },
+  {
+    "key": "forest2_9f4aa234",
+    "original": "Late night for you too?",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1005"
+  },
+  {
+    "key": "forest2_8760a751",
+    "original": "Yup. Another trip into the woods. How’d your show go?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1006"
+  },
+  {
+    "key": "forest2_389c8717",
+    "original": "Today was a smaller audience, so I took the opportunity to test some new tricks. They really enjoyed them! I’ll definitely weave them into my regular routine.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1008"
+  },
+  {
+    "key": "forest2_877b3906",
+    "original": "How was your adventure into the forest?",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1009"
+  },
+  {
+    "key": "forest2_2aeb93a3",
+    "original": "Well… [mox], have you ever heard of a succubus?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1010"
+  },
+  {
+    "key": "forest2_5ae8262e",
+    "original": "They’re seductive demonesses that drain energy from men in sex, right? Don’t tell me you met one!",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1012"
+  },
+  {
+    "key": "forest2_611c0fdc",
+    "original": "Kind of. [but] is a succubus, but I helped her brew a potion to stave off the deadly energy drain.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1013"
+  },
+  {
+    "key": "forest2_2d006353",
+    "original": "So, I take it you being alive means the plan worked? Sounds like it was a hell of a gamble.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1015"
+  },
+  {
+    "key": "forest2_fcf651c1",
+    "original": "The potion we used has always been reliable for me in the past. I had no reason to doubt its power.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1016"
+  },
+  {
+    "key": "forest2_50ba26f2",
+    "original": "Now, she’s not only capable of having sex again, but she can retract her succubus wings and tail and pass as a normal pony. She’ll be joining us with the other virtues.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1017"
+  },
+  {
+    "key": "forest2_665ecce1",
+    "original": "Hmm… Does she still retain all her succubus abilities? You know, like... her prowess in the bedroom?",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1019"
+  },
+  {
+    "key": "forest2_a466e5be",
+    "original": "Ehehe… She’s still got all the moves. Hypnosis, a pheromonal aura, seductive whispers, pleasure enhancement...",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1020"
+  },
+  {
+    "key": "forest2_66f03602",
+    "original": "Yikes! Sounds like I need to up my game to keep up with the likes of her!",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1022"
+  },
+  {
+    "key": "forest2_c822d582",
+    "original": "Don’t worry about that. My body can only handle her once every few weeks at most.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1023"
+  },
+  {
+    "key": "forest2_2c09a5e9",
+    "original": "[mox] and I drifted into talk of demons as the night wore on. The conversation made me realize that I hadn’t thought much about their existence and origin.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1025"
+  },
+  {
+    "key": "forest2_d63e1382",
+    "original": "Demons just casually existing… Just what kind of secrets does this universe hold beyond my understanding?",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.4%20-%20Forest%20Route.rpy#L1026"
+  }
+]

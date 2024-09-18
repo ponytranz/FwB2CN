@@ -1,107 +1,177 @@
 [
   {
-    "key": "game/1 - Init.rpy_L46_0",
-    "original": "[mcname]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L46"
-  },
-  {
-    "key": "game/1 - Init.rpy_L48_0",
-    "original": "[moxie]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L48"
-  },
-  {
-    "key": "game/1 - Init.rpy_L50_0",
-    "original": "[penelope]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L50"
-  },
-  {
     "key": "game/1 - Init.rpy_L52_0",
-    "original": "[lily]",
+    "original": "[mcname]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L52"
   },
   {
     "key": "game/1 - Init.rpy_L54_0",
-    "original": "[honeycrisp]",
+    "original": "[moxie]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L54"
   },
   {
     "key": "game/1 - Init.rpy_L56_0",
-    "original": "[blossom]",
+    "original": "[penelope]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L56"
   },
   {
     "key": "game/1 - Init.rpy_L58_0",
-    "original": "[ruby]",
+    "original": "[lily]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L58"
   },
   {
     "key": "game/1 - Init.rpy_L60_0",
-    "original": "[melody]",
+    "original": "[honeycrisp]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L60"
   },
   {
     "key": "game/1 - Init.rpy_L62_0",
-    "original": "[cream]",
+    "original": "[blossom]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L62"
   },
   {
     "key": "game/1 - Init.rpy_L64_0",
-    "original": "[blackcurrant]",
+    "original": "[ruby]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L64"
   },
   {
     "key": "game/1 - Init.rpy_L66_0",
-    "original": "[riku]",
+    "original": "[melody]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L66"
   },
   {
     "key": "game/1 - Init.rpy_L68_0",
-    "original": "[butters]",
+    "original": "[cream]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L68"
   },
   {
     "key": "game/1 - Init.rpy_L70_0",
-    "original": "[aurora]",
+    "original": "[blackcurrant]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L70"
   },
   {
     "key": "game/1 - Init.rpy_L72_0",
-    "original": "[selene]",
+    "original": "[riku]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L72"
   },
   {
     "key": "game/1 - Init.rpy_L74_0",
-    "original": "[midnight]",
+    "original": "[butters]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L74"
   },
   {
     "key": "game/1 - Init.rpy_L76_0",
-    "original": "[misc]",
+    "original": "[aurora]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L76"
   },
   {
     "key": "game/1 - Init.rpy_L78_0",
-    "original": "[rosa]",
+    "original": "[selene]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L78"
   },
   {
     "key": "game/1 - Init.rpy_L80_0",
-    "original": "[chloe]",
+    "original": "[midnight]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L80"
   },
   {
     "key": "game/1 - Init.rpy_L82_0",
-    "original": "[hilda]",
+    "original": "[misc]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L82"
   },
   {
     "key": "game/1 - Init.rpy_L84_0",
-    "original": "[bastet]",
+    "original": "[rosa]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L84"
   },
   {
     "key": "game/1 - Init.rpy_L86_0",
-    "original": "[lil2]",
+    "original": "[claire]",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L86"
+  },
+  {
+    "key": "game/1 - Init.rpy_L88_0",
+    "original": "[hilda]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L88"
+  },
+  {
+    "key": "game/1 - Init.rpy_L90_0",
+    "original": "[bastet]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L90"
+  },
+  {
+    "key": "game/1 - Init.rpy_L92_0",
+    "original": "[lil2]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L92"
+  },
+  {
+    "key": "game/1 - Init.rpy_L95_0",
+    "original": "[skye]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L95"
+  },
+  {
+    "key": "game/1 - Init.rpy_L529_0",
+    "original": "Rename [rik]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L529"
+  },
+  {
+    "key": "game/1 - Init.rpy_L529_1",
+    "original": "Rename [but]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L529"
+  },
+  {
+    "key": "game/1 - Init.rpy_L529_2",
+    "original": "Rename [cre]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L529"
+  },
+  {
+    "key": "game/1 - Init.rpy_L529_3",
+    "original": "Rename [aur]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L529"
+  },
+  {
+    "key": "game/1 - Init.rpy_L529_4",
+    "original": "Rename [sel]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L529"
+  },
+  {
+    "key": "game/1 - Init.rpy_L532_0",
+    "original": "Default: Riku",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L532"
+  },
+  {
+    "key": "game/1 - Init.rpy_L532_1",
+    "original": "Alternative: Prisma",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L532"
+  },
+  {
+    "key": "game/1 - Init.rpy_L546_0",
+    "original": "Default: Butters",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L546"
+  },
+  {
+    "key": "game/1 - Init.rpy_L558_0",
+    "original": "Default: Cream",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L558"
+  },
+  {
+    "key": "game/1 - Init.rpy_L570_0",
+    "original": "What was the name of the Sun Queen?",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L570"
+  },
+  {
+    "key": "game/1 - Init.rpy_L570_1",
+    "original": "Default: Aurora",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L570"
+  },
+  {
+    "key": "game/1 - Init.rpy_L582_0",
+    "original": "What was the name of the Moon Princess?",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L582"
+  },
+  {
+    "key": "game/1 - Init.rpy_L582_1",
+    "original": "Default: Selene",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L582"
   }
 ]

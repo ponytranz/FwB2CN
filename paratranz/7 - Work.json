@@ -1,127 +1,317 @@
 [
   {
+    "key": "farmwork_0ec6604d",
+    "original": "So glad decided to work here! Let me show you the ropes!",
+    "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L7"
+  },
+  {
+    "key": "farmwork_6e354c59",
+    "original": "(Working at the farm is simple. All you need to do is plant some seeds, they'll take three days to grow.)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L8"
+  },
+  {
+    "key": "farmwork_b363d508",
+    "original": "(Once grown, you'll see a notification on the map, you can then come and collect the plants and plant new ones.)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L9"
+  },
+  {
+    "key": "farmwork_f0981a7e",
+    "original": "(The base sell price of the plants is $40, but you can water the plants once per day to earn an additional 5%% for each plant.)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L10"
+  },
+  {
+    "key": "farmwork_f88d5b48",
+    "original": "It's very simple once you get the hang of it. Good luck, stud!",
+    "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L11"
+  },
+  {
+    "key": "farmworkmenu2_53b6b6b7",
+    "original": "You planted these extra seeds a little late, but I'm sure peer pressure will help it catch up. (+1 Days Left Added)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L41"
+  },
+  {
+    "key": "farmworkmenu2_ce4a8c56",
+    "original": "[pots] seeds have been planted. Don't forget to water them.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L46"
+  },
+  {
+    "key": "farmworkmenu2_0ba35e66",
+    "original": "Earned $[gen1] for a successful harvest!",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L66"
+  },
+  {
+    "key": "farmworkmenu2_b39cdd9f",
+    "original": "After working for a few hours, I return home.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L73"
+  },
+  {
+    "key": "farmworkmenu2_c6bfa519",
+    "original": "Thanks to the sprinklers, I'm in and out in only a few minutes.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L76"
+  },
+  {
     "key": "brothelworkmenu_82049757",
     "original": "Today's customer is...",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L6"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L213"
+  },
+  {
+    "key": "brothelworkmenu_8c9dfa7a",
+    "original": "Uhm, this place isn't exactly my comfort zone, but it's like I said, I'm trying to branch out.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L217"
+  },
+  {
+    "key": "brothelworkmenu_6ba93a89",
+    "original": "Show me what you've got, darling, and I'll put in a good word for you to the boss~",
+    "context": "说话人: rub \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L224"
+  },
+  {
+    "key": "brothelworkmenu_4b7cf519",
+    "original": "Thought I'd give this place a try! Imagine my surprise when I find out y'all work here, sugarcube!",
+    "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L231"
   },
   {
     "key": "brothelworkmenu_1ad0a4d8",
     "original": "You're my host? Maybe I'll let myself have even more fun than planned~",
-    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L10"
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L238"
   },
   {
     "key": "brothelworkmenu_fe80d757",
     "original": "Oh my. Do take care of me, cutie.",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L16"
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L245"
   },
   {
     "key": "brothelworkmenu_ade3f8b8",
     "original": "What will you talk about?",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L20"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L250"
   },
   {
     "key": "randomtopicrr_282a237c",
     "original": "Now let's see how well you know your customer!",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L41"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L271"
   },
   {
     "key": "randomtopicrr_adf34008",
     "original": "Finally, let's take her to a private booth... How are you going to please your customer?",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L46"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L276"
   },
   {
-    "key": "sexpositionrr_b8ccdab4",
+    "key": "sexpositionrr_a4a46a83",
+    "original": "Hold on, stud. I feel like trying something else tonight.",
+    "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L308"
+  },
+  {
+    "key": "sexpositionrr_c8eb523b",
+    "original": "W-Wait a second! There's no way I'm having sex here! I'm still a virgin!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L311"
+  },
+  {
+    "key": "sexpositionrr_a9967a91",
+    "original": "You and [customer] tried [gent2]",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L329"
+  },
+  {
+    "key": "bskipsex_b8ccdab4",
     "original": "That was excellent! Thank you for your service, [mc]!",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L71"
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L339"
   },
   {
-    "key": "sexpositionrr_d219ce36",
+    "key": "bskipsex_d219ce36",
     "original": "(All characters have special abilities when you're hosting them, but you'll only be able to discover what they are by purchasing information from the bartender.)",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L74"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L342"
   },
   {
-    "key": "sexpositionrr_b4a1c6b5",
+    "key": "bskipsex_b4a1c6b5",
     "original": "(But here's a freebie! [mox]'s special ability: For you, it's impossible to not satisfy [mox]. Minimum satisfaction increased to 50.)",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L75"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L343"
   },
   {
-    "key": "sexpositionrr_72913031",
+    "key": "bskipsex_72913031",
     "original": "I'll see you back at home, alright?",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L80"
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L346"
   },
   {
-    "key": "sexpositionrr_907d01e8",
+    "key": "bskipsex_907d01e8",
     "original": "This has been a pretty interesting experience! I'm glad you were my host.",
-    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L83"
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L350"
   },
   {
-    "key": "sexpositionrr_a338506a",
+    "key": "bskipsex_d0bcb8b2",
+    "original": "Y'all sure know how to show a gal a good time! Might just come back if I get the chance!",
+    "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L354"
+  },
+  {
+    "key": "bskipsex_0e52c952",
+    "original": "A delightful experience as always, darling. If you weren't here, I wouldn't have left the office at all.",
+    "context": "说话人: rub \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L358"
+  },
+  {
+    "key": "bskipsex_41daeaa9",
+    "original": "My head is still spinning! Don't tell anyone I was here, o-okay?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L363"
+  },
+  {
+    "key": "bskipsex_a338506a",
     "original": "(Customer Satisfaction: [satis]/[maxsatis])",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L85"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L367"
   },
   {
-    "key": "sexpositionrr_943b25ed",
+    "key": "bskipsex_943b25ed",
     "original": "(Earned $[gen1] in tips for your shift!)",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L89"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L371"
   },
   {
-    "key": "sexpositionrr_090aa75e",
-    "original": "(You've gained a rank! New customer and upgrades unlocked!)",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L94"
+    "key": "bskipsex_d5f9ecf5",
+    "original": "(Rank Up! [pen] is now available as a customer, and two new upgrades are available!)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L377"
   },
   {
-    "key": "sexpositionrr_80902f53",
-    "original": "(The next rank is currently in development!)",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L96"
+    "key": "bskipsex_e9c4adb9",
+    "original": "(Rank Up! You're now a Junior Host. [hon] and [rub] are now available as a customers, and a new upgrade is available!)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L383"
   },
   {
-    "key": "sexpositionrr_341d71b1",
+    "key": "bskipsex_f85c3b92",
+    "original": "(Rank Up! You're now a Rising Host. [lil] is now available as a customer (in a later update, this rank will be replaced with two other characters) and a new upgrade is available!)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L389"
+  },
+  {
+    "key": "bskipsex_2aa098d4",
+    "original": "(Next rank is in development!)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L392"
+  },
+  {
+    "key": "bskipsex_2aa098d4_1",
+    "original": "(Next rank is in development!)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L395"
+  },
+  {
+    "key": "bskipsex_341d71b1",
     "original": "After a four-hour shift, I return home.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L98"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L397"
   },
   {
     "key": "brothelworkugprades_366c5c0a",
     "original": "I've been keeping a close eye on your customers. Let me know if you want any information.",
-    "context": "说话人: misc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L143"
+    "context": "说话人: misc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L465"
   },
   {
     "key": "moxinfo_d778b94e",
     "original": "[mox]: The {i}Great and Powerful{/i} [mox] loves talking about 'Cooking', 'Cuisine', and 'Accomplishments'.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L149"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L474"
   },
   {
     "key": "moxinfo_ed0142b6",
     "original": "The first day you met her, she could have given you a blowjob, and you ate pizza together. She sold her wagon to [rosa]. Her most sensitive body part are her nipples, she doesn't need to masturbate because you're around, and she's turned on by loving sex.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L150"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L475"
   },
   {
     "key": "moxinfo_1f0565cb",
     "original": "Her favourite sexual acts are vanilla, romantic positions, particularly ones with eye contact, because she likes to look at you. Highlights include 'Missionary', 'Cowgirl', 'Spooning'.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L151"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L476"
   },
   {
     "key": "moxinfo_4717f0ce",
     "original": "Finally, her special ability: She likes you so much that her satisfaction won't go lower than 50.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L152"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L477"
   },
   {
     "key": "peninfo_f3f742a2",
     "original": "[pen]: Loves talking about 'Books', 'TV', 'Concerts', and 'Philosophy'.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L158"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L488"
   },
   {
     "key": "peninfo_b2e3f496",
     "original": "This girl was a morphling in your previous universe, and she studies enchantments here too. Her favourite genre of music is indie, and she can play the bass guitar. She's a kinky one, the first sex act she could perform on you here was a blowjob. She loves being choked, and consistently masturbates three times a day even outside of heat.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L159"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L489"
   },
   {
     "key": "peninfo_bdf30998",
     "original": "Her favourite sex acts are rough ones, including: 'Edging', 'BSDM', 'FFM Threesome', 'Deep Throat', 'Spanking', 'Bondage', 'Giving/Receiving Pain', and 'Pet Play'. I told you she liked a lot of them.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L160"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L490"
   },
   {
     "key": "peninfo_95a3ce73",
     "original": "Finally, her special ability: Not only does she love a lot of sex acts, but selecting one she loves will give an additional 10 satisfaction.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L161"
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L491"
+  },
+  {
+    "key": "honinfo_6d861293",
+    "original": "[hon]: Loves talking about 'Fitness', 'Gardening', and 'DIY'.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L502"
+  },
+  {
+    "key": "honinfo_92927a46",
+    "original": "This apple farmer, in your universe, was the virtue of loyalty, when you met her, she injured her hand by punching a tree.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L503"
+  },
+  {
+    "key": "honinfo_24227106",
+    "original": "In this universe, she greeted you with a potential thighjob, but what would really turn her on is milking her tits and treating her like a cow.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L504"
+  },
+  {
+    "key": "honinfo_8e8b948d",
+    "original": "Some fun facts about her, her hat is called Talluhah, and she has a bottomless appetite for apple fritters.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L505"
+  },
+  {
+    "key": "honinfo_e760d5be",
+    "original": "She has strong feelings about sex acts, and it can be hard to get a read on what she does or doesn't like. But what she does love are: 'Cowgirl', 'MMF Threesome', 'Rope' and 'Bimboification'.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L506"
+  },
+  {
+    "key": "honinfo_e605a743",
+    "original": "Finally, her special ability: If you select a sex scene that she's not interested in, she'll reset your options and make you choose again.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L507"
+  },
+  {
+    "key": "rubinfo_fe772271",
+    "original": "[rub]: Loves talking about 'Travel', 'Holidays', 'Fashion' and 'Philosophy'.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L518"
+  },
+  {
+    "key": "rubinfo_ec65faa5",
+    "original": "This cat loving mare also secretly has a crush on dragon boys. Not that it matters, because you stole her heart and she let you have vaginal sex the first time you met, and I bet she can't wait to try some roleplay with you next time. I hope you remember her safe word, 'Opal'!",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L519"
+  },
+  {
+    "key": "rubinfo_f0f129b5",
+    "original": "Some fun facts about [rub]: She has a glasses prescription, but always wears lenses. She was once abducted by gemstone dogs many years ago for her magic, she escaped unharmed.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L520"
+  },
+  {
+    "key": "rubinfo_b5c13f0c",
+    "original": "She's picky about sex acts, but it's fairly obvious what she does and doesn't like. In particular, she loves: 'Doggy style', 'Roleplay', 'Erotic Massage' and 'Non-Con'.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L521"
+  },
+  {
+    "key": "rubinfo_2cb7ba40",
+    "original": "Finally, her special ability: Gains to your rank goes up by +20%% after serving [rub].",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L522"
+  },
+  {
+    "key": "lilinfo_40a23c3e",
+    "original": "[lil]: Loves talking about exactly what you'd expect: 'Books', 'Education', 'Science' and 'Sci-Fi'. Other than those topics, it can be pretty hard to get through to her,",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L533"
+  },
+  {
+    "key": "lilinfo_30e498bd",
+    "original": "This snake and goddess fearing unicorn loves turned based strategy and energy drinks a little too much.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L534"
+  },
+  {
+    "key": "lilinfo_3e62cc9e",
+    "original": "When you first met her, you discovered that she has a pink dildo and then offered you a buttjob. Of course, what she truly wants is to be filled up with some hot, virile cum of an interspecies man.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L535"
+  },
+  {
+    "key": "lilinfo_a2442f5a",
+    "original": "She's still shy and exploring her sex options, but anything she's already explored with you, she seems really into: 'Missionary', 'FFM Threesome', 'Sex Toys' and 'Cuckoldry'.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L536"
+  },
+  {
+    "key": "lilinfo_4daf344c",
+    "original": "Finally, her special ability: Selecting a conversation topic she loves will give an additional 10 satisfaction.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L537"
   }
 ]

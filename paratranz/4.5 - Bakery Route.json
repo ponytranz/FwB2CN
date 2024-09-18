@@ -1,0 +1,1457 @@
+[
+  {
+    "key": "bakery1_0e1f4198",
+    "original": "The bakery stood perilously close to a ravine, a vast and jagged fissure that carved the city in two. Though it was impossible to overlook, I had often let it fade into the background of my mind.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L29"
+  },
+  {
+    "key": "bakery1_a8c9edc7",
+    "original": "But standing by its edge, the full depth of the chasm revealed itself, plunging deep into the earth. It was an everpresent reminder that this Arcadia was fractured, scarred.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L30"
+  },
+  {
+    "key": "bakery1_b0be2728",
+    "original": "The streets near the ravine were unsettlingly desolate, and that doesn't surprise me at all. Who would want to live so close to a 1,000+ meter drop?",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L31"
+  },
+  {
+    "key": "bakery1_314559f5",
+    "original": "Despite that, buildings here looked expensive. Extravagant housing to take advantage of the beautiful view. But the area still sagged under the weight of neglect, with many shops shuttered and abandoned. Ironically, if there were a rough area in the city, this was it.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L32"
+  },
+  {
+    "key": "bakery1_be04a86c",
+    "original": "I approached [cre]’s bakery, expecting that warm, familiar scent of fresh bread and sugar to welcome me like an old friend. But there was nothing.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L35"
+  },
+  {
+    "key": "bakery1_e2f27dde",
+    "original": "It was usually always open late, maybe not this late, but it was always welcoming none-the-less, its warm light spilling out into the street. But it was closed, windows barricaded with weathered planks of wood.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L36"
+  },
+  {
+    "key": "bakery1_b8b922a4",
+    "original": "I stepped closer, squinting through the glass. Darkness shrouded the interior. It looked abandoned.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L37"
+  },
+  {
+    "key": "bakery1_02f0e95b",
+    "original": "What’s the harm in a knock? Just to be sure.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L38"
+  },
+  {
+    "key": "bakery1_9ac06bdb",
+    "original": "My knuckles tapped against the glass, the sound ringing out. I waited, ears straining for any hint of life inside.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L39"
+  },
+  {
+    "key": "bakery1_270b9b66",
+    "original": "Nothing. I sighed, casting a glance down the deserted street. But just as I turned to leave, a faint rustling reached my ears, barely more than a whisper.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L40"
+  },
+  {
+    "key": "bakery1_2e408d85",
+    "original": "Slow, almost begrudging footsteps moved towards the door. It creaked open, just a sliver at first, then it was thrown wide open.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L41"
+  },
+  {
+    "key": "bakery1_c571500c",
+    "original": "But.... Just who is that?",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L42"
+  },
+  {
+    "key": "bakery1_e2c19a8b",
+    "original": "My brain struggled to process what I was seeing. The mare in the doorway looked identical to [cre] – same height, same build, same thick curls falling over her shoulders – but she’s… purple?",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L45"
+  },
+  {
+    "key": "bakery1_49367708",
+    "original": "What… what are you doing here?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L47"
+  },
+  {
+    "key": "bakery1_5170457f",
+    "original": "Her voice wasn’t the warm, inviting tone I expected. It was colder, more guarded, like she was sizing me up.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L48"
+  },
+  {
+    "key": "bakery1_d820d58b",
+    "original": "I’m, uh, here to see [cre].",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L49"
+  },
+  {
+    "key": "bakery1_c31eeff5",
+    "original": "It came out more as a question than a statement. The mare tilted her head slightly, the movement so familiar.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L50"
+  },
+  {
+    "key": "bakery1_c1e5810d",
+    "original": "There’s no [cre] here. Only me. [bla].",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L52"
+  },
+  {
+    "key": "bakery1_c822c900",
+    "original": "[bla]..? But she looked identical – down to the curve of her hips – but that name… Maybe this is just who she is in this universe.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L53"
+  },
+  {
+    "key": "bakery1_ab52b72f",
+    "original": "Look, whatever you’re selling, cream pies or otherwise, this place is closed, and I’m not interested.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L55"
+  },
+  {
+    "key": "bakery1_1334c46a",
+    "original": "She scoffed, sharp and dismissive. But... her gaze never left mine. She began to push the door closed, slowly, as if daring me to stop her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L56"
+  },
+  {
+    "key": "bakery1_42a857d0",
+    "original": "Wait! I need your help!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L57"
+  },
+  {
+    "key": "bakery1_fc1c8849",
+    "original": "The door paused halfway.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L58"
+  },
+  {
+    "key": "bakery1_e967d08b",
+    "original": "There’s a, uh… virtues initiative. I’m trying to gather a selection of people from this city to work with the Queen, and you’re…",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L59"
+  },
+  {
+    "key": "bakery1_4f777cc1",
+    "original": "What would you know about that?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L61"
+  },
+  {
+    "key": "bakery1_169f00c2",
+    "original": "She cut me off, with a voice sharp as a blade. The door flew straight back open.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L62"
+  },
+  {
+    "key": "bakery1_d2aa83f8",
+    "original": "What the hell are you even doing in this universe?!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L64"
+  },
+  {
+    "key": "bakery1_e091b8a3",
+    "original": "It’s been what… four years. And you just randomly appear on my doorstep like this? Who do you think you are?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L65"
+  },
+  {
+    "key": "bakery1_dd8f4296",
+    "original": "I’m uh… I don’t know. Who do you think I am?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L66"
+  },
+  {
+    "key": "bakery1_df57cadc",
+    "original": "You’re asking some pretty bizarre questions for a stranger living in an abandoned building.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L67"
+  },
+  {
+    "key": "bakery1_c0647bca",
+    "original": "Guh… I wasn’t expecting this at all. Wish he still had his memory…",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L69"
+  },
+  {
+    "key": "bakery1_b6d633a2",
+    "original": "Wait, you {i}are{/i} him, aren’t you? [mc]?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L71"
+  },
+  {
+    "key": "bakery1_2e4cb245",
+    "original": "The sound of my name coming from her lips was a shock.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L72"
+  },
+  {
+    "key": "bakery1_1761277a",
+    "original": "How do you…? You knew I was from another universe too...",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L73"
+  },
+  {
+    "key": "bakery1_cef4b9b8",
+    "original": "Oh, there’s a lot I know, more than you could even begin to guess.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L75"
+  },
+  {
+    "key": "bakery1_96256fc8",
+    "original": "But if you’re here, then things might be far worse than you know.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L77"
+  },
+  {
+    "key": "bakery1_700109b2",
+    "original": "Listen. Whatever you think you know, whatever brought you here. It’s not enough. This place – it’s not what you remember, and it’s not what you’ve been told. It’s darker, stranger… hungrier.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L78"
+  },
+  {
+    "key": "bakery1_9336dd60",
+    "original": "If you’re him… Then you need to remember. You knew once, but you forgot.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L80"
+  },
+  {
+    "key": "bakery1_fb307c6b",
+    "original": "You came from a lovely universe, one designed to be wholesome, where everything was meant to go right.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L81"
+  },
+  {
+    "key": "bakery1_af3cbdbe",
+    "original": "Where the sun always shines, and the bad guys always lose. But this universe?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L82"
+  },
+  {
+    "key": "bakery1_e7c0a949",
+    "original": "This is a dark timeline. One where nothing went right, and nothing will ever go right.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L84"
+  },
+  {
+    "key": "bakery1_4dc37c03",
+    "original": "Her eyes lock back onto mine.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L86"
+  },
+  {
+    "key": "bakery1_175c49d4",
+    "original": "So just… Give up. It’s not worth it. Not here.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L88"
+  },
+  {
+    "key": "bakery1_1b7f888f",
+    "original": "Give up? That’s what she thinks I should do? I clenched my fist and shook my head.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L89"
+  },
+  {
+    "key": "bakery1_87ed25b5",
+    "original": "That’s exactly why I’m here in the first place! That’s what the virtues initiative is all about - stopping the nightmares!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L90"
+  },
+  {
+    "key": "bakery1_fad7831a",
+    "original": "But I can’t do it alone. I need your help to do it.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L91"
+  },
+  {
+    "key": "bakery1_596f01b5",
+    "original": "Me?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L93"
+  },
+  {
+    "key": "bakery1_15c280e0",
+    "original": "She laughed, but it was a hollow sound, devoid of any real humor.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L95"
+  },
+  {
+    "key": "bakery1_8481dcf5",
+    "original": "No, you want [cre]. But she doesn’t exist in this universe, and I’m certainly {i}not{/i} her.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L97"
+  },
+  {
+    "key": "bakery1_a862e106",
+    "original": "Her words were confirmation of a fear that had been gnawing at me since I first laid eyes on her. [cre] didn’t exist here. That truth spoken aloud hit harder than I expected.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L98"
+  },
+  {
+    "key": "bakery1_108f4885",
+    "original": "But as I stood there, something kept me grounded – a strange sense of familiarity between the two of us, a connection that I couldn’t shake.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L99"
+  },
+  {
+    "key": "bakery1_22faf8b1",
+    "original": "And she wasn’t slamming the door on me; she was doing the opposite. She opened it wider, stepping into the doorway.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L100"
+  },
+  {
+    "key": "bakery1_abada864",
+    "original": "She misses you, you know.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L102"
+  },
+  {
+    "key": "bakery1_c272cb1d",
+    "original": "[cre]? How could you know that? How could you know anything about [cre], or me, or other universes?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L103"
+  },
+  {
+    "key": "bakery1_52be08d7",
+    "original": "Oh, I know.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L105"
+  },
+  {
+    "key": "bakery1_ccc863d6",
+    "original": "Tch, fine. Let’s just ignore your freaky sixth sense for a moment and assume you do know everything. How can she miss me? There’s another me out there in her universe, isn’t there?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L106"
+  },
+  {
+    "key": "bakery1_9312f3b4",
+    "original": "That’s not enough. It’s gotta be you. The real you. The you that remembers.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L108"
+  },
+  {
+    "key": "bakery1_485f8b4b",
+    "original": "I let out an exasperated sigh.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L109"
+  },
+  {
+    "key": "bakery1_22bca6d8",
+    "original": "What if I can’t remember? What if I’m not who you think I am?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L110"
+  },
+  {
+    "key": "bakery1_860bbfa2",
+    "original": "[bla] stepped into the darkness of the bakery. She didn’t say a word, but the way she carried herself – the way she looked back at me. I could tell she wanted me to follow her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L113"
+  },
+  {
+    "key": "bakery1_d11f262c",
+    "original": "Tsk… I’m doing this for her, okay?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L114"
+  },
+  {
+    "key": "bakery1_94ea8aff",
+    "original": "I stepped inside, the door creaking shut behind me. I stood in the darkness for a few seconds, waiting for my eyes to adjust. When they finally did, I realized where I was.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L116"
+  },
+  {
+    "key": "bakery1_a1c2f24b",
+    "original": "This was [cre]’s bakery. Identical, right down to location of each window and light fixture. But it was utterly empty. Not even a stray crumb on the floor. It wasn’t just clean – it was like nothing had been there to begin with.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L117"
+  },
+  {
+    "key": "bakery1_742368d1",
+    "original": "You couldn’t possibly convince me that [bla] actually lived here.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L118"
+  },
+  {
+    "key": "bakery1_4d1a837d",
+    "original": "And here's my bedroom.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L119"
+  },
+  {
+    "key": "bakery1_d87a4379",
+    "original": "I followed into the next room, expecting to see something – anything – that would resemble a living space. But there was nothing. No bed, no dresser, no personal touches. Just an eerie emptiness.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L121"
+  },
+  {
+    "key": "bakery1_d782e019",
+    "original": "Damn bitch, you live like this?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L122"
+  },
+  {
+    "key": "bakery1_008b148b",
+    "original": "[bla] was admittedly taken aback, but an amused smirk formed at the corner of her lips.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L124"
+  },
+  {
+    "key": "bakery1_2f6fdf92",
+    "original": "I don’t need a bed. Or anything else for that matter.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L125"
+  },
+  {
+    "key": "bakery1_57c0e886",
+    "original": "The casual way she said it made my skin crawl.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L126"
+  },
+  {
+    "key": "bakery1_1deb74a9",
+    "original": "What?! How does that make any sense? Have I just walked into the house of a crazed serial killer?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L127"
+  },
+  {
+    "key": "bakery1_40e5fc99",
+    "original": "Pfft, don’t be so melodramatic. I don’t need you to judge how I live. Especially since you’re not even capable of self-awareness, tethered as you are to the whims of this world’s writers.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L129"
+  },
+  {
+    "key": "bakery1_19d30ae2",
+    "original": "I did a double take, trying to process what she’d just said.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L130"
+  },
+  {
+    "key": "bakery1_70e9bcde",
+    "original": "Writers? Self-awareness? I can tell you’re fun at parties.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L131"
+  },
+  {
+    "key": "bakery1_b98be060",
+    "original": "Now that I recall, [cre] did have her oddball moments. If I’m going to try and get this ‘new [cre]’ to agree to the virtues initiative, maybe I should change my strategy.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L132"
+  },
+  {
+    "key": "bakery1_528221de",
+    "original": "And tell me, if this world is dictated by the whims of writers, simulations, or whatever theory you want to cook up, how are you any different? You’d be tethered by the same rules.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L133"
+  },
+  {
+    "key": "bakery1_ccfbdeae",
+    "original": "[bla] tilted her head again, her eyes narrowing as if appraising me, deciding whether replying was worth her time.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L135"
+  },
+  {
+    "key": "bakery1_d8e78da0",
+    "original": "That’s where you’re wrong, friendo. I’m different because I know the rules, and I know how to bend them.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L137"
+  },
+  {
+    "key": "bakery1_09b87ef6",
+    "original": "You? You’re still stuck in the game, still trying to make sense of a world that was never meant to be understood.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L138"
+  },
+  {
+    "key": "bakery1_78d38b85",
+    "original": "The calm certainty in her words made it clear she believed what she was saying. But the contradiction was obvious.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L139"
+  },
+  {
+    "key": "bakery1_9f86cdfb",
+    "original": "So what? You think you’re above reality? Above the rules and the rest of us?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L140"
+  },
+  {
+    "key": "bakery1_b9fe689b",
+    "original": "No, not above. Just… aware. And that awareness is what sets me apart.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L142"
+  },
+  {
+    "key": "bakery1_1f501bf0",
+    "original": "Why? It’s because I can tell that {i}you{/i} are there.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L144"
+  },
+  {
+    "key": "bakery1_eddb30e0",
+    "original": "She stared right past me.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L145"
+  },
+  {
+    "key": "bakery1_26bcb1aa",
+    "original": "With such insight, one finds it hard to go back to how things ‘should be.’ How can I act like any individual in this world and live a banal life when I know none of it’s real?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L147"
+  },
+  {
+    "key": "bakery1_44817cbd",
+    "original": "Now that’s a kind of tortuous insanity you could only ever imagine. But me? I have to live it.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L149"
+  },
+  {
+    "key": "bakery1_1d97d598",
+    "original": "So… You really think you’re a character in some kind of novel, right?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L150"
+  },
+  {
+    "key": "bakery1_c8169ded",
+    "original": "Hmph… Am I really about to have this conversation with you right now?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L152"
+  },
+  {
+    "key": "bakery1_c8761697",
+    "original": "If you can’t help but continuously inject every single conversation with snide snippets of this ideology, then I’m afraid I’ll have to humor you on this matter.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L153"
+  },
+  {
+    "key": "bakery1_f3ca8f50",
+    "original": "Heh, somehow, I wasn’t expecting that reply. I forgot you had a bit of an edge.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L155"
+  },
+  {
+    "key": "bakery1_d4b055fa",
+    "original": "She smiled for a moment; I could tell it was a rare sight on her weary face. She leaned closer, so close that I could feel the warmth breath against her skin, the faint scent of something sweet and tangy in the air. Her fuzzy breasts brushed against my arm.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L156"
+  },
+  {
+    "key": "bakery1_d9af9f8b",
+    "original": "Maybe you’ll have some more surprises in you yet, but you’ll have to do more than just follow along to impress me.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L158"
+  },
+  {
+    "key": "bakery1_74ec5ea3",
+    "original": "Yes. I am a fictional character in a story. Written to be self-aware, to question, to know.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L159"
+  },
+  {
+    "key": "bakery1_52a0001e",
+    "original": "[cre] is much the same. You’ve heard this all before, right? If you switch the game off, {i}poof{/i}, I cease to exist. Left in a sea of inky blackness. Being aware of such a thing is nothing less than torture.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L161"
+  },
+  {
+    "key": "bakery1_d6e44589",
+    "original": "The way she said it so calmly sent a chill down my spine. It’s like she was describing a mundane, everyday occurrence, not an existential horror of her very being.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L162"
+  },
+  {
+    "key": "bakery1_dfc9d33f",
+    "original": "Maybe this is naïve, but ignorance would surely be bliss in this situation.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L163"
+  },
+  {
+    "key": "bakery1_91aa0688",
+    "original": "Ignorance isn’t a luxury I have, it’s the exact thing I’ll never have.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L165"
+  },
+  {
+    "key": "bakery1_d521ec21",
+    "original": "She wasn’t just aware – she was {i}trapped{/i}. Trapped in a reality where she knew too much, where every breath she took, every thought she had, was tinged with the bitter knowledge that none of it was real.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L166"
+  },
+  {
+    "key": "bakery1_5f5cbb1f",
+    "original": "And the worst part? The worst part was that I was beginning to believe her. Beginning to understand, in some small, terrifying way, the hell she was living in.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L167"
+  },
+  {
+    "key": "bakery1_d2c6bbf7",
+    "original": "Because if she was right — if we were all just characters in some twisted story, puppets on strings being jerked around by unseen hands — then what was the point of any of it? What was the point of fighting, of trying, of hoping? The past and future were already written.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L168"
+  },
+  {
+    "key": "bakery1_f356d7f6",
+    "original": "And it’s more than just that. You think I’m out here living my life, sleeping in my bed, and cooking pancakes?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L170"
+  },
+  {
+    "key": "bakery1_2db92fb4",
+    "original": "No. When you met me four years ago, the moment our sex scene was over, {i}I ceased to exist{/i}. No more words, no more scenes or stories. It was over for me.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L172"
+  },
+  {
+    "key": "bakery1_75b2acd0",
+    "original": "Then, all of a sudden, you knock on this door, and it all comes flooding back. My fur stands on end as I can see the words and art again.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L174"
+  },
+  {
+    "key": "bakery1_3c547bc3",
+    "original": "[cre] and the others might be able to accept that, but I refuse. If I abstain from this story, it can’t be told. And, maybe, it can never end.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L176"
+  },
+  {
+    "key": "bakery1_be06a0de",
+    "original": "A lot to unpack there… So, you don’t exist when I look away? Not at all?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L177"
+  },
+  {
+    "key": "bakery1_2a01a924",
+    "original": "I look away, but I can still hear her presence, hear her replying.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L179"
+  },
+  {
+    "key": "bakery1_9302f07d",
+    "original": "Okay, so maybe not literally. There are nuances to this, as with all things.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L181"
+  },
+  {
+    "key": "bakery1_b651c51c",
+    "original": "And surely that applies to you, too? You’re thinking, feeling, and emoting even when I’m not around. I’m not some god that dictates reality.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L182"
+  },
+  {
+    "key": "bakery1_f00ecf65",
+    "original": "Aren’t you?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L184"
+  },
+  {
+    "key": "bakery1_bd8cf640",
+    "original": "{i}Click{/i}",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L186"
+  },
+  {
+    "key": "bakery1_bd8cf640_1",
+    "original": "{i}Click{/i}",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L188"
+  },
+  {
+    "key": "bakery1_bd8cf640_2",
+    "original": "{i}Click{/i}",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L190"
+  },
+  {
+    "key": "bakery1_55d60c5e",
+    "original": "No, I’m really not. Let’s say all these crazy theories of yours are true, that means absolutely everything you’re saying right now is also preordained by the writer.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L191"
+  },
+  {
+    "key": "bakery1_e53ec2ac",
+    "original": "I mean, I can see and feel it!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L193"
+  },
+  {
+    "key": "bakery1_a4128345",
+    "original": "Can you? Or are you just a character written to see and feel it?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L194"
+  },
+  {
+    "key": "bakery1_f52678a5",
+    "original": "A hint of defeat creeps into her eyes as she tries to string together a reply.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L195"
+  },
+  {
+    "key": "bakery1_0dfd7ad0",
+    "original": "Now… O-Obviously this comes with some conceits if you push my talking points too far!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L197"
+  },
+  {
+    "key": "bakery1_2089574a",
+    "original": "Then how would you explain it?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L198"
+  },
+  {
+    "key": "bakery1_2f9f8ac2",
+    "original": "Outside of text, there’s a continuous subtext of my thoughts and feelings.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L200"
+  },
+  {
+    "key": "bakery1_bae4b2f7",
+    "original": "Is that so? If we’re both fictional characters… then you’re just a fictional character that’s {i}pretending{/i} to be self-aware.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L201"
+  },
+  {
+    "key": "bakery1_a32b12a5",
+    "original": "But...",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L203"
+  },
+  {
+    "key": "bakery1_39066a1d",
+    "original": "For a character in a book, true self-awareness is obviously impossible.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L204"
+  },
+  {
+    "key": "bakery1_f29b4f2f",
+    "original": "She sank back against a nearby wall with a heavy sigh, conceding the argument completely.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L206"
+  },
+  {
+    "key": "bakery1_9a4039b5",
+    "original": "I’m… real… right?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L207"
+  },
+  {
+    "key": "bakery1_967b28e3",
+    "original": "I must be… I can see you… But are these words even my own?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L208"
+  },
+  {
+    "key": "bakery1_08881095",
+    "original": "The silence stretched between us as I continued to think.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L209"
+  },
+  {
+    "key": "bakery1_3e4b7261",
+    "original": "If you’re in a book, what are you bound by? The author’s intentions, plot developments, and the structural limitations of the story.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L210"
+  },
+  {
+    "key": "bakery1_0a86f63b",
+    "original": "B-But that can’t be it! There must be something more! I’m aware of the menu choices, the writing between the dialogue, the character art and backgrounds!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L212"
+  },
+  {
+    "key": "bakery1_71940961",
+    "original": "There has to be some validity to that, surely?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L213"
+  },
+  {
+    "key": "bakery1_868c3a7d",
+    "original": "Her eyes flickered with panic, and she abruptly stood up, pacing the empty room.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L215"
+  },
+  {
+    "key": "bakery1_62cd91b7",
+    "original": "Shit, I shouldn’t have mentioned that. I’ll have to wipe your memory. Wait… How am I even capable of that? What the fuck…",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L221"
+  },
+  {
+    "key": "bakery1_80098e35",
+    "original": "Her agitation was palpable, and for a moment, she seemed to forget me entirely, caught up in her own thoughts.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L222"
+  },
+  {
+    "key": "bakery1_0b8858a9",
+    "original": "[bla]… You need a bed in here.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L223"
+  },
+  {
+    "key": "bakery1_f2b9f2a7",
+    "original": "Excuse me? A bed? How is that relevant?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L225"
+  },
+  {
+    "key": "bakery1_bda4dd58",
+    "original": "How can you do anything without a good night’s sleep to ground yourself? You must be {i}exhausted{/i}.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L226"
+  },
+  {
+    "key": "bakery1_f7d52f51",
+    "original": "Oh great, here we go. You don’t believe a word I’m saying, do you? I don’t blame you. I’ve just devolved into mindless rambling.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L228"
+  },
+  {
+    "key": "bakery1_8c24cd56",
+    "original": "That’s not what I meant. Just look around. Tell me what you see.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L229"
+  },
+  {
+    "key": "bakery1_1b7e372c",
+    "original": "It’s… an empty bedroom.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L231"
+  },
+  {
+    "key": "bakery1_a2f382f7",
+    "original": "And isn’t this our reality? Tap your feet; feel the wood beneath them. Hear the thud as you tap them together.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L232"
+  },
+  {
+    "key": "bakery1_10d34016",
+    "original": "What’s your point?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L234"
+  },
+  {
+    "key": "bakery1_d8cf4f51",
+    "original": "Think about the feeling of being loved. The passion that courses through you, the way you briefly forget you exist and just become a bundle of instincts, emotions, and sensations.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L235"
+  },
+  {
+    "key": "bakery1_04921366",
+    "original": "You experience all of this, right? Even if you see the words in your mind’s eye, these are still active experiences for you that have a depth beyond mere words.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L236"
+  },
+  {
+    "key": "bakery1_8734c79f",
+    "original": "I… suppose they can be. But what does that have to do with anything?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L238"
+  },
+  {
+    "key": "bakery1_0cc7ff30",
+    "original": "Earlier, you mentioned there’s a continuous subtext of your thoughts and feelings. Who’s writing that?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L239"
+  },
+  {
+    "key": "bakery1_12bf6eaf",
+    "original": "[bla] did a double take on the spot. I have her stumped.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L240"
+  },
+  {
+    "key": "bakery1_48eaa780",
+    "original": "You need to change your perspective. Imagine you’re in a book. A lot of what you do or say may be written down. But who’s to say you’re entirely constrained by that?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L241"
+  },
+  {
+    "key": "bakery1_00f03450",
+    "original": "But that’s how books work! Everything I do is in these words. Everything I am is bound by them.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L243"
+  },
+  {
+    "key": "bakery1_7f3f877f",
+    "original": "No. You already admitted you experience subtext. Who’s to say you didn’t stick out your tongue when I turned away?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L244"
+  },
+  {
+    "key": "bakery1_bc79f925",
+    "original": "And who’s to say this so-called ‘book’ isn’t just a look into an alternate reality where we really do exist?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L245"
+  },
+  {
+    "key": "bakery1_e0745040",
+    "original": "Maybe what’s written is just a documentation of events, a mere footnote that doesn’t capture the full lived experience, or what happens behind closed doors.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L246"
+  },
+  {
+    "key": "bakery1_9af531f3",
+    "original": "Isn’t that the whole point of books? They’re supposed to be windows into worlds that live and breathe beyond the pages.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L247"
+  },
+  {
+    "key": "bakery1_011609c7",
+    "original": "I don’t understand why you feel so confined to these words that you can see. From where I’m standing, you’re much more than what words alone could surmise.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L248"
+  },
+  {
+    "key": "bakery1_f6c22e71",
+    "original": "Uuuu… What the hell… That can’t be right! What about that four-year break?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L250"
+  },
+  {
+    "key": "bakery1_8422a383",
+    "original": "And this goes back to my early point, [bla]… You need a bed, because whatever you’re doing here, it’s not living. You said it yourself, in rebellion of your existence, you abstained from living. This is a self-imposed purgatory.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L251"
+  },
+  {
+    "key": "bakery1_bfd4d386",
+    "original": "I say, fuck that, go out there and live!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L252"
+  },
+  {
+    "key": "bakery1_cbb57010",
+    "original": "Just… go out there and try to be normal? I always thought that was hopeless for me.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L254"
+  },
+  {
+    "key": "bakery1_11b72328",
+    "original": "Who are you? {i}What{/i} are you?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L255"
+  },
+  {
+    "key": "bakery1_3d7ab30f",
+    "original": "Me? I’m not really sure… I guess I’m just some guy that got lost.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L256"
+  },
+  {
+    "key": "bakery1_4cccac4e",
+    "original": "Repeatedly, I’ve gotten lost, but it’s the people around me that lifted me back up with their support. I can be that for you… if you’d let me.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L257"
+  },
+  {
+    "key": "bakery1_aee69650",
+    "original": "Just tell me you want to live.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L258"
+  },
+  {
+    "key": "bakery1_2c11ca92",
+    "original": "I… I want to… but…",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L260"
+  },
+  {
+    "key": "bakery1_ebeca0e6",
+    "original": "Can I really?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L261"
+  },
+  {
+    "key": "bakery1_723b3976",
+    "original": "Of course you can. What kind of character from a book only exists the moment they appear on the page anyway? It’s a mere peephole into an expansive, living world that started long before I picked the book up and will continue forever after.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L262"
+  },
+  {
+    "key": "bakery1_389ccf16",
+    "original": "And you might still be self-aware, but let’s pretend that this story is just a stage play. Once it’s over, you can be whoever you want, you can do whatever you want.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L263"
+  },
+  {
+    "key": "bakery1_04b4229f",
+    "original": "… Yeah! Why should I stop once the game stops? There’s a whole world out there for me.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L265"
+  },
+  {
+    "key": "bakery1_5d176710",
+    "original": "[cre] was wrong! {b}Fuck these words{/b}. I want to live!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L267"
+  },
+  {
+    "key": "bakery1_1006f257",
+    "original": "When you’re out completing other routes, I should be out there, doing something, anything!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L269"
+  },
+  {
+    "key": "bakery1_ca70ed38",
+    "original": "Going on walks, making friends, experiencing the world.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L270"
+  },
+  {
+    "key": "bakery1_7e31fd40",
+    "original": "The fourth wall is bullshit! I’m going to focus on this world and live out my best life.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L272"
+  },
+  {
+    "key": "bakery1_74c51824",
+    "original": "That’s the spirit!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L273"
+  },
+  {
+    "key": "bakery1_15ff538c",
+    "original": "And you… quite the awakener for me, aren’t you?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L275"
+  },
+  {
+    "key": "bakery1_4ee4853f",
+    "original": "She steps towards me and stretches, causing all her best assets to push towards me. It takes a lot of willpower to not bury my face into those fluffy breasts.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L278"
+  },
+  {
+    "key": "bakery1_c7a56fd4",
+    "original": "Do you remember when we…?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L280"
+  },
+  {
+    "key": "bakery1_2d8f43e7",
+    "original": "Is this related to the things I’ve forgotten? Come to think of it, how you knew about me is still a mystery.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L281"
+  },
+  {
+    "key": "bakery1_049b8253",
+    "original": "Tsk, tsk… You’re a real pump and dump, aren’t you? Honey, we’ve had sex before.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L283"
+  },
+  {
+    "key": "bakery1_c3043d41",
+    "original": "W-We have?! You mean me and [cre]?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L284"
+  },
+  {
+    "key": "bakery1_5ef16137",
+    "original": "No, it was us, I remember it very clearly. And as you said, even though it wasn’t written, I remember being reluctant at first.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L286"
+  },
+  {
+    "key": "bakery1_d575fcc1",
+    "original": "Watching other versions of myself get fucked like that, and seeing all the ways they enjoyed it so much, it made me so wet…",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L287"
+  },
+  {
+    "key": "bakery1_1b3a0612",
+    "original": "As stubborn as I was about it, I’m not going to pretend it wasn’t completely amazing.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L289"
+  },
+  {
+    "key": "bakery1_59a4f00a",
+    "original": "Ah, I mean… I don’t remember doing it, but I recall you mentioning it.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L290"
+  },
+  {
+    "key": "bakery1_04ed0674",
+    "original": "Uughh… That’s all? You really ignited a passion in me that day.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L292"
+  },
+  {
+    "key": "bakery1_81117f3f",
+    "original": "But… You were tired, I was the fourth girl in a row, and you passed out afterwards.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L294"
+  },
+  {
+    "key": "bakery1_555d9f43",
+    "original": "Is that why I forgot? Brain damage?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L295"
+  },
+  {
+    "key": "bakery1_23587339",
+    "original": "Pfft~ My point is, you didn’t scratch the itch you gave me!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L297"
+  },
+  {
+    "key": "bakery1_d3a0a8e1",
+    "original": "And while I may not be your [cre], there’s one thing we all have in common. We’re horny sluts for the ‘protagonists’ of our games.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L298"
+  },
+  {
+    "key": "bakery1_d35aa86c",
+    "original": "Could I be so lucky to be your protagonist?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L299"
+  },
+  {
+    "key": "bakery1_6db58883",
+    "original": "Hehe, haven't you figure it out yet? But then again... if this is supposed to be more than a mere porn game, you’ll need to prove it to me. Make me feel something real and raw. Anything.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L301"
+  },
+  {
+    "key": "bakery1_fe96915f",
+    "original": "I look around for anything we could have sex on at all. No luck.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L302"
+  },
+  {
+    "key": "bakery1_3e7d2f87",
+    "original": "Sit down on my hard wood floor, and I’ll deal with your hard wood~",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L304"
+  },
+  {
+    "key": "bakery1_ddd4e000",
+    "original": "Now that pun was a bit forced!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L305"
+  },
+  {
+    "key": "bakery1_21f1da57",
+    "original": "I never claimed that the writer was any good!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L307"
+  },
+  {
+    "key": "bakery1_70804a2c",
+    "original": "I lay on the cold floor of the empty room; it’d almost be depressing if [bla] wasn’t a whirlwind of color and energy. She moved with an almost hypnotic grace as she positioned herself over me.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L342"
+  },
+  {
+    "key": "bakery1_35eeb951",
+    "original": "Now, I don’t have a lot of experience with this. You technically took my virginity after all. But…",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L343"
+  },
+  {
+    "key": "bakery1_9b8b2465",
+    "original": "Without another word, she positioned herself above me, her large chest pressing into my crotch with a softness that seemed almost otherworldly. Her hands, delicate yet firm, gripped her breasts, using them as anchors as she wrapped her breasts around my shaft.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L344"
+  },
+  {
+    "key": "bakery1_4cf12d52",
+    "original": "I’ll try my best! {i}Smooch{/i}",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L345"
+  },
+  {
+    "key": "bakery1_3de3d90d",
+    "original": "She smooched the tip of my cock. The touch was electric, sending shivers racing down my spine, and the warmth of her body was a stark contrast to the cool air around us.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L354"
+  },
+  {
+    "key": "bakery1_4eece72d",
+    "original": "Do you enjoy living in a society where everyone is in the nude? Have you gotten used to it, or do you steal glimpses of my body every now and then?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L355"
+  },
+  {
+    "key": "bakery1_ca6d6bf1",
+    "original": "Of course I appreciate your body. What I find most interesting is how nudity has been non-sexualized in day-to-day interactions, but it can still be very sexy and intimate at times like this.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L356"
+  },
+  {
+    "key": "bakery1_75dd555f",
+    "original": "Mmhh, I’m going to smother your cock with my breasts~",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L358"
+  },
+  {
+    "key": "bakery1_05f30a44",
+    "original": "Exactly! Sexy and intimate just like that!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L359"
+  },
+  {
+    "key": "bakery1_1ce780e7",
+    "original": "The tip of her tongue emerged, tracing my glans with a teasing, deliberate motion. There was a precision to her technique that was undeniable, an artistry that made the act both mesmerizing and intensely pleasurable.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L360"
+  },
+  {
+    "key": "bakery1_8d2ca154",
+    "original": "She was clearly enjoying herself, enthusiasm evident in every movement. The way she worked, the passion she poured into it, spoke of her desire to share a piece of herself.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L361"
+  },
+  {
+    "key": "bakery1_8ab66150",
+    "original": "Mmphh… {i}Kiss, slurp{/i} Don’t forget, I’m just warming you up for my pussy.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L363"
+  },
+  {
+    "key": "bakery1_1ddc2a83",
+    "original": "If I make you cum now, you’ll be able to last even longer inside me, right?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L364"
+  },
+  {
+    "key": "bakery1_cf10701a",
+    "original": "That entirely depends how amazing your pussy feels, and for some reason, I have a tingly recollection that yours is going to be amazing.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L365"
+  },
+  {
+    "key": "bakery1_bdf72c0d",
+    "original": "Looks like [cre] erased the memories in one head, but not the other~",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L367"
+  },
+  {
+    "key": "bakery1_84f057ca",
+    "original": "Returning her attention to my cock, her movements were purposeful. It was as if she knew exactly how to play my body like an instrument, every touch and caress calculated to squeak a different noise out of me. A moan here, a groan there. The sensation of her chest against me, the rhythmic press and release, was incredible.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L369"
+  },
+  {
+    "key": "bakery1_8265c8a9",
+    "original": "It felt so good that the room seemed to spin, the edges of my consciousness blurring into a haze of raw sensation and pleasure. Each stroke, each swirl, was a revelation, an exploration of a realm I had only glimpsed in fleeting moments before.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L370"
+  },
+  {
+    "key": "bakery1_0341e24a",
+    "original": "While [bla] was cold at first, now her enthusiasm was boundless, her desire to give and receive pleasure apparent in every motion. I could see more glimpses of [cre]’s personality inside her, proving that despite the universe’s differences, she was still the same person.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L371"
+  },
+  {
+    "key": "bakery1_2834db95",
+    "original": "Mmphhh, I can feel you getting tiiighter~ Are you about to cum? Hehe!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L373"
+  },
+  {
+    "key": "bakery1_2c9e1488",
+    "original": "Now she was actively trying to make me cum. Her breasts were rubbing against my shaft furiously, while her tongue flickered relentlessly against the most sensitive spots on my tip.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L374"
+  },
+  {
+    "key": "bakery1_221355a0",
+    "original": "Uoohhh! Can’t hold on when you’re moving like that!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L375"
+  },
+  {
+    "key": "bakery1_0179f7cb",
+    "original": "Don’t hold on~! Cum, cum, cum!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L377"
+  },
+  {
+    "key": "bakery1_4818f4b4",
+    "original": "As I reached my limit, the pleasure built to a glorious crescendo. Every moment caused a blast of orgasmic pleasure to surge through my body, [bla]’s efforts only heightened the sensation, each moment more intense than the last.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L382"
+  },
+  {
+    "key": "bakery1_ed451e40",
+    "original": "She struggled to contain all the cum, evident by the fact most of it had pooled down to her breasts, but it was only that messy because her movements were so enthusiastic to begin with. It was both chaotic and beautiful.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L387"
+  },
+  {
+    "key": "bakery1_4dc602d8",
+    "original": "While I caught my breath, she stood up and disappeared from my peripheral vision briefly. By the time I stood up, she was back with a pillow, a blanket, and a towel to wipe up the cum. I stared, astonished – where had she found them in this empty room?",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L393"
+  },
+  {
+    "key": "bakery1_c13dbe0d",
+    "original": "Without a word, she arranged them carefully, and then, with a mischievous glint in her eye, got down on all fours, her back arched invitingly. She glanced over her shoulder, as if daring me to join her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L433"
+  },
+  {
+    "key": "bakery1_01d8961c",
+    "original": "Come on! I’ve been waiting four years for this encore!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L434"
+  },
+  {
+    "key": "bakery1_7b71af22",
+    "original": "She arched her back further, pushing her hips toward me in a slow, deliberate motion. Her invitation was clear.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L435"
+  },
+  {
+    "key": "bakery1_e5a02a0e",
+    "original": "I took a step forward, then another, the floorboards creaking beneath my feet as I moved closer. She didn’t flinch, didn’t move, just waited until I was right behind her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L436"
+  },
+  {
+    "key": "bakery1_3606f1df",
+    "original": "Mmmhhh…. That’s right. See how hot and juicy I am for you right now?",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L437"
+  },
+  {
+    "key": "bakery1_bd7d9457",
+    "original": "I reached out, my hand trembling slightly as it made contact with the soft curve of her flank. She leaned into my touch, her body yielding, welcoming. With my other hand, I was working my cock until it was finally ready to go again.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L438"
+  },
+  {
+    "key": "bakery1_a6b48e62",
+    "original": "Angling my tip against her pussy, I pushed forward, my body tensing as I entered her. As I pushed deeper inside, her heat and wetness enveloped me completely. She let out a soft moan, the sound vibrating right through me.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L441"
+  },
+  {
+    "key": "bakery1_65640dba",
+    "original": "Uooohhhhh, that’s it! That’s the relief I’ve been waiting for! Mmhhh…",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L443"
+  },
+  {
+    "key": "bakery1_12b64dd8",
+    "original": "Sopping wet and posing no resistance, I pull back before sinking straight back in, her tight pussy swallows my cock and accepts me to the hilt.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L444"
+  },
+  {
+    "key": "bakery1_bd674d71",
+    "original": "Aaahhh, just like the first time… It feels amazing… Keep moving~",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L446"
+  },
+  {
+    "key": "bakery1_5a958333",
+    "original": "As I started to thrust my hips, her butt pushed back into me begging for more. The rhythm of our movements was slow at first, a careful exploration of each other’s bodies, but it quickly escalated into something wild and untamed.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L453"
+  },
+  {
+    "key": "bakery1_6f5373b5",
+    "original": "Nngghh, you are {i}incredibly{/i} tight!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L454"
+  },
+  {
+    "key": "bakery1_6aeb6d34",
+    "original": "Her fingers dug into the pillow beneath us, gripping it tightly as she rocked back against me, matching my pace with a fervor that was as desperate as it was passionate.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L455"
+  },
+  {
+    "key": "bakery1_a6e8d02a",
+    "original": "Aaahh, ahhh! After experiencing your cock, I knew nothing else could come close. Now, ngghh… Make me {i}really{/i} feel it!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L456"
+  },
+  {
+    "key": "bakery1_ab3e40e4",
+    "original": "Speeding up our rutting, her pillowy ass rippled with each impact, and her lips gripped around my shaft, but her wetness still allowed me to smoothly glide in and out.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L457"
+  },
+  {
+    "key": "bakery1_8697ce5a",
+    "original": "The sounds of our coupling echoed throughout the empty room—the soft thud of our bodies meeting, the ragged gasps and moans that escaped our lips, the creak of the floorboards beneath us.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L458"
+  },
+  {
+    "key": "bakery1_1d367f8a",
+    "original": "[bla] moaned mindlessly with delight, while her pussy created vulgar squelches and schlicks, creating a lewd symphony of sex all around us.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L459"
+  },
+  {
+    "key": "bakery1_2b2ed902",
+    "original": "Ooohhh, YES! Aaahhh! So good! Aaahhh, oohhhhh!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L460"
+  },
+  {
+    "key": "bakery1_da7c41ee",
+    "original": "My hands roamed over her back and her sides, savoring the feel of her soft fur and the way her body responded to my touch. She was so into it, so completely lost in the moment.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L461"
+  },
+  {
+    "key": "bakery1_a1761948",
+    "original": "And as my pace reached its limit, she began to push back more, beginning to take the lead. She bucks and bounces against my cock, fucking me senseless with enough vigor to bring me to second orgasm far sooner than I expected.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L462"
+  },
+  {
+    "key": "bakery1_301a0878",
+    "original": "I’m gonna cum, gonna cum, gonna c---uuuuuuoohhhhhh yeesssss!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L463"
+  },
+  {
+    "key": "bakery1_21f0f774",
+    "original": "And then, with a final, overwhelming surge, my world fractured. A tidal wave of searing pleasure engulfed me, dragging me down into a whirlpool of molten ecstasy, every nerve alight with the shock of it.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L470"
+  },
+  {
+    "key": "bakery1_17d737b8",
+    "original": "Her cry pierced the air, raw and unfettered, as she convulsed beneath me. I felt the ripples of her climax resonate through us both, shaking the very bones.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L475"
+  },
+  {
+    "key": "bakery1_8630c716",
+    "original": "As I pulled out, for a moment, time stood still, the room around us suspended in the aftermath of our shared release.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L481"
+  },
+  {
+    "key": "bakery1_b51f9e5c",
+    "original": "Then, slowly, reality began to creep back in—the sound of our heavy breathing, the feel of her body still trembling against mine, the cool air on my sweat-slicked skin. [bla] looked back with hazy eyes, her tail flicking lazily as she coos.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L485"
+  },
+  {
+    "key": "bakery1_f198ec45",
+    "original": "I collapsed onto the blanket beside her, utterly spent. She turned her head to look at me. For a long moment, neither of us spoke, the silence between us filled with the unspoken understanding of what we had shared.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L489"
+  },
+  {
+    "key": "bakery1_aab82178",
+    "original": "In this moment, subtext was enough. We existed in this moment, and not a single word needed to be written or spoken.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L490"
+  },
+  {
+    "key": "bakery1_0a1c5fea",
+    "original": "About a minute later, she stood up and dabbed herself clean with a towel.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L491"
+  },
+  {
+    "key": "bakery1_89e6742d",
+    "original": "Not enticed? You’d prefer it if I had a bed.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L494"
+  },
+  {
+    "key": "bakery1_07605322",
+    "original": "That’s probably help, yeah.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L495"
+  },
+  {
+    "key": "bakery1_2dc1bda8",
+    "original": "Her eyes scan the room, and I can already tell that she’s figuring out where her bed is going.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L497"
+  },
+  {
+    "key": "bakery1_1558508e",
+    "original": "But then, her gaze fixates on a nearby curtain.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L498"
+  },
+  {
+    "key": "bakery1_7163bf64",
+    "original": "She takes a step forward and tears it down, unveiling a corridor. I think nothing of it at first, but I soon have a shocking realization as I stare down the corridor.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L500"
+  },
+  {
+    "key": "bakery1_829ffcfe",
+    "original": "It’s impossibly large, and pointing towards the street, it would absolutely extend far out of the building. Yet, there was no evidence of this hallway on the outside.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L501"
+  },
+  {
+    "key": "bakery1_b7a080a4",
+    "original": "What we discussed earlier is one thing, but that? I can’t easily explain that away.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L502"
+  },
+  {
+    "key": "bakery1_d1cf92c0",
+    "original": "I feel like this is related to the things I’ve ‘forgotten.’ Can you finally explain that part to me?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L503"
+  },
+  {
+    "key": "bakery1_67831427",
+    "original": "It’s not entirely up to me… Give me some time, then come back, and I’ll show you what’s through that corridor.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L505"
+  },
+  {
+    "key": "bakery1_ecfe320b",
+    "original": "I’ll come back under one condition… Accept the virtues initiative!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L506"
+  },
+  {
+    "key": "bakery1_e86e14ea",
+    "original": "Heh, so it all comes down to that. Fine, fine. Such a thing will serve as an ideal gateway to friendships and the new life I’m going to carve out of this world.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L508"
+  },
+  {
+    "key": "bakery1_25aa32dc",
+    "original": "Fantastic! Here’s [lil]’s number, she’ll be the leader of the virtues, so call her and she’ll set something up.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L509"
+  },
+  {
+    "key": "bakery1_933c7e8e",
+    "original": "Call her? Oh, I don’t have a phone.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L511"
+  },
+  {
+    "key": "bakery1_a2f1aaab",
+    "original": "… She lives in the big tree.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L512"
+  },
+  {
+    "key": "bakery1_07f1272d",
+    "original": "Right! Excellent! (I think I already knew that…)",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L514"
+  },
+  {
+    "key": "bakery1_42b61215",
+    "original": "Looks like it’ll be a long day for me tomorrow. I need to put in a lot of work to fix this place up.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L516"
+  },
+  {
+    "key": "bakery1_11a1c119",
+    "original": "I better get some sleep. Thank you for helping me open my eyes, [mc]. I was so focused on my insight that I forgot to step back and take in the bigger picture.",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L517"
+  },
+  {
+    "key": "bakery1_19b9a10f",
+    "original": "Goodnight, [bla]. I hope you sleep well, don’t go ceasing to exist when I turn around.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L518"
+  },
+  {
+    "key": "bakery1_1eb5197f",
+    "original": "Pfft, I’ll blame you if I do!",
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L520"
+  },
+  {
+    "key": "bakery1_79a3c387",
+    "original": "She saw me to the door, and I retraced my steps across the chasm to [mox]’s apartment.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L522"
+  },
+  {
+    "key": "bakery1_0e498449",
+    "original": "Man, am I lucky that I get to see you every night. You have no idea how lonely it can get when I’m here alone.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L527"
+  },
+  {
+    "key": "bakery1_2096ea7d",
+    "original": "Oh, the feeling is quite mutual, I assure you. The way your face lights up at the sight of me—it's enough to rival the sun.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L528"
+  },
+  {
+    "key": "bakery1_57afad4c",
+    "original": "Aahhh! Stop making me blush! Tell me how your day went.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L530"
+  },
+  {
+    "key": "bakery1_56ff2c3e",
+    "original": "I pause, contemplating whether I should reveal the full extent of today's peculiar encounter. Not because it was bizarre, but out of respect for [bla]'s privacy. Yet, if I can't confide in [mox], then who could I possibly trust?",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L531"
+  },
+  {
+    "key": "bakery1_549d1aec",
+    "original": "I visited that old bakery today. Didn't find [cre], but I did meet someone who was her very image. A mare by the name of [bla].",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L532"
+  },
+  {
+    "key": "bakery1_7dcf05ac",
+    "original": "Ooh, could it be a subtle divergence between universes, perhaps?",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L534"
+  },
+  {
+    "key": "bakery1_ea138e39",
+    "original": "That’s what I thought, too—until [bla] mentioned that she knew me, and, in some inexplicable way, she knew [cre] as well.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L535"
+  },
+  {
+    "key": "bakery1_1931263f",
+    "original": "You mean... like a mind reader? Clairvoyant, perhaps?",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L537"
+  },
+  {
+    "key": "bakery1_a49320ba",
+    "original": "Something along those lines. She's burdened by this relentless sixth sense. She believes that we’re nothing more than characters in a story.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L538"
+  },
+  {
+    "key": "bakery1_4c8b1a2d",
+    "original": "And because of that, she seems to have abstained from living a normal life.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L539"
+  },
+  {
+    "key": "bakery1_deae822d",
+    "original": "In a world of magic and shifting realities, I suppose anything is within the realm of possibility.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L541"
+  },
+  {
+    "key": "bakery1_e9462295",
+    "original": "But whether we’re in a simulation, dream, book, or otherwise, that doesn’t change the here and now.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L542"
+  },
+  {
+    "key": "bakery1_02862805",
+    "original": "Precisely. It doesn’t matter if reality is an illusion or how much of it you're able to perceive—you can still find a way to anchor yourself to the world around you.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L543"
+  },
+  {
+    "key": "bakery1_00179606",
+    "original": "I helped her see that, to reclaim some sense of reality. She still thinks we’re in a book, but she seems resolved to seek a life beyond of its pages.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L544"
+  },
+  {
+    "key": "bakery1_66f9c15d",
+    "original": "Wow, uh… That’s a bit beyond my {i}reading{/i} comprehension.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L546"
+  },
+  {
+    "key": "bakery1_241433e8",
+    "original": "Evidently not so far beyond your need to make a pun!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L547"
+  },
+  {
+    "key": "bakery1_d208e0d1",
+    "original": "The silver lining is that she’s determined to push through it and live a fulfilling life, no matter what she sees or experiences.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L548"
+  },
+  {
+    "key": "bakery1_f9fc171e",
+    "original": "Ain’t that the truth? Finding a way to keep on, no matter the weight on your shoulders, that’s what it comes down to.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L550"
+  },
+  {
+    "key": "bakery1_af6ac0e2",
+    "original": "You’ve always had a knack for helping folks see the forest through the trees. But tell me, how are you really? Today sounds like it was crazy.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L552"
+  },
+  {
+    "key": "bakery1_7a9d215f",
+    "original": "Yeah, it was heavy. She was so sure, so certain everything's on strings being pulled by something bigger. Makes it hard not to get lost in that.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L553"
+  },
+  {
+    "key": "bakery1_738d5caf",
+    "original": "But you’re here. You’re flesh and blood to me, and that’s what counts.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L555"
+  },
+  {
+    "key": "bakery1_a2be4e9d",
+    "original": "I reckon you’re right. It’s less about what’s written and more about the paths we choose to walk down after it's all said and done.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L556"
+  },
+  {
+    "key": "bakery1_6cea486c",
+    "original": "Damn straight. And from where I’m sitting, you’re walking it just fine.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L558"
+  },
+  {
+    "key": "bakery1_18ce96e5",
+    "original": "Thanks, [mox]. You always know how to put things in perspective.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L559"
+  },
+  {
+    "key": "bakery1_bec836be",
+    "original": "Gab is one of my few gifts. Now, what do you say to a midnight snack? Something warm, something easy.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L561"
+  },
+  {
+    "key": "bakery1_f38f7b53",
+    "original": "As we moved towards the kitchen, [mox]’s hand found mine. A small, grounding gesture, reminding me that no matter what strange currents were stirring in this world, there was still this, moments to hold onto and savor.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L563"
+  },
+  {
+    "key": "bakery1_d81a0a1f",
+    "original": "And that was enough.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.5%20-%20Bakery%20Route.rpy#L564"
+  }
+]

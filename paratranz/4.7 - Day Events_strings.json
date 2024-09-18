@@ -6,12 +6,12 @@
   },
   {
     "key": "game/4.7 - Day Events.rpy_L10_1",
-    "original": "Hand the beggar 20 Monies",
+    "original": "Hand the beggar $20",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L10"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L10_2",
-    "original": "Give the beggar 2 Monies",
+    "original": "Give the beggar $2",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L10"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "key": "game/4.7 - Day Events.rpy_L205_0",
-    "original": "Keep the extra change (+15 M)",
+    "original": "Keep the extra change (+$15)",
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L205"
   },
   {
@@ -60,13 +60,13 @@
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L205"
   },
   {
-    "key": "game/4.7 - Day Events.rpy_L232_0",
-    "original": "Return the Wallet",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L232"
+    "key": "game/4.7 - Day Events.rpy_L230_0",
+    "original": "Return the Bag",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L230"
   },
   {
-    "key": "game/4.7 - Day Events.rpy_L232_1",
-    "original": "Keep the Wallet (+50 M)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L232"
+    "key": "game/4.7 - Day Events.rpy_L230_1",
+    "original": "Keep the Bag (+$100)",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L230"
   }
 ]

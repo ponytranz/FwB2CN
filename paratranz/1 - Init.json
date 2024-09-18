@@ -1,0 +1,22 @@
+[
+  {
+    "key": "v3renames_87888219",
+    "original": "Hey, there! Sorry to bother you, but I noticed you're using a savefile from 0.2, and there are a few things that need to be cleaned up before you can continue.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L525"
+  },
+  {
+    "key": "v3renames_470a7b4f",
+    "original": "Specifically, I'm going to give you the opportunity to rename [rik], [but], [cre], [aur] and [sel].",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L526"
+  },
+  {
+    "key": "v3renames_b70418c0",
+    "original": "If you need a reminder on which characters are who, just click on the option and an image of them will appear. Although keep in mind that these characters are WIP, so the art you'll see are placeholders.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L527"
+  },
+  {
+    "key": "v3renamem_1a4009c3",
+    "original": "Excellent! Thank you so much. Please enjoy the rest of the update.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/1%20-%20Init.rpy#L594"
+  }
+]
