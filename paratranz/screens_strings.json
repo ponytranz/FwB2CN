@@ -1,0 +1,1127 @@
+[
+  {
+    "key": "game/screens.rpy_L82_0",
+    "original": "Unread: [unread]\\nRead: [read]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L82"
+  },
+  {
+    "key": "game/screens.rpy_L82_1",
+    "original": "[hon] ([unreadhon])",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L82"
+  },
+  {
+    "key": "game/screens.rpy_L82_2",
+    "original": "[blo] ([unreadblo])",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L82"
+  },
+  {
+    "key": "game/screens.rpy_L82_3",
+    "original": "[mel] ([unreadmel])",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L82"
+  },
+  {
+    "key": "game/screens.rpy_L82_4",
+    "original": "[rub] ([unreadrub])",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L82"
+  },
+  {
+    "key": "game/screens.rpy_L82_5",
+    "original": "[lil] ([unreadlil])",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L82"
+  },
+  {
+    "key": "game/screens.rpy_L82_6",
+    "original": "[pen] ([unreadpen])",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L82"
+  },
+  {
+    "key": "game/screens.rpy_L82_7",
+    "original": "[mox] ([unreadmox])",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L82"
+  },
+  {
+    "key": "game/screens.rpy_L82_8",
+    "original": "Back",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L82"
+  },
+  {
+    "key": "game/screens.rpy_L85_0",
+    "original": "Messages from [hon]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L85"
+  },
+  {
+    "key": "game/screens.rpy_L90_0",
+    "original": "Messages from [blo]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L90"
+  },
+  {
+    "key": "game/screens.rpy_L90_1",
+    "original": "i did it!",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L90"
+  },
+  {
+    "key": "game/screens.rpy_L90_2",
+    "original": "{i}i did it! (Read){/i}",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L90"
+  },
+  {
+    "key": "game/screens.rpy_L122_0",
+    "original": "Messages from [mel]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L122"
+  },
+  {
+    "key": "game/screens.rpy_L122_1",
+    "original": "Thanks",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L122"
+  },
+  {
+    "key": "game/screens.rpy_L122_2",
+    "original": "{i}Thanks (Read){/i}",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L122"
+  },
+  {
+    "key": "game/screens.rpy_L139_0",
+    "original": "Messages from [rub]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L139"
+  },
+  {
+    "key": "game/screens.rpy_L144_0",
+    "original": "Messages from [lil]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L144"
+  },
+  {
+    "key": "game/screens.rpy_L144_1",
+    "original": "xxx",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L144"
+  },
+  {
+    "key": "game/screens.rpy_L144_2",
+    "original": "{i}xxx (Read){/i}",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L144"
+  },
+  {
+    "key": "game/screens.rpy_L164_0",
+    "original": "Zoom Out",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L164"
+  },
+  {
+    "key": "game/screens.rpy_L164_1",
+    "original": "Scroll Up",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L164"
+  },
+  {
+    "key": "game/screens.rpy_L164_2",
+    "original": "Scroll Down",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L164"
+  },
+  {
+    "key": "game/screens.rpy_L164_3",
+    "original": "(Finish Appreciating)",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L164"
+  },
+  {
+    "key": "game/screens.rpy_L190_0",
+    "original": "Messages from [pen]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L190"
+  },
+  {
+    "key": "game/screens.rpy_L190_1",
+    "original": "Threesome?",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L190"
+  },
+  {
+    "key": "game/screens.rpy_L190_2",
+    "original": "{i}Threesome? (Read){/i}",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L190"
+  },
+  {
+    "key": "game/screens.rpy_L199_0",
+    "original": "Currently Busy",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L199"
+  },
+  {
+    "key": "game/screens.rpy_L199_1",
+    "original": "Accept",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L199"
+  },
+  {
+    "key": "game/screens.rpy_L199_2",
+    "original": "Decline",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L199"
+  },
+  {
+    "key": "game/screens.rpy_L224_0",
+    "original": "Messages from [mox]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L224"
+  },
+  {
+    "key": "game/screens.rpy_L224_1",
+    "original": "hope u slept well",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L224"
+  },
+  {
+    "key": "game/screens.rpy_L224_2",
+    "original": "{i}hope u slept well (Read){/i}",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L224"
+  },
+  {
+    "key": "game/screens.rpy_L224_3",
+    "original": "Hiya!",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L224"
+  },
+  {
+    "key": "game/screens.rpy_L224_4",
+    "original": "{i}Hiya! (Read){/i}",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L224"
+  },
+  {
+    "key": "game/screens.rpy_L260_0",
+    "original": "Game Completion: [completionpercent:.02f]%\\nSuggestion: [todosuggestion]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L260"
+  },
+  {
+    "key": "game/screens.rpy_L260_1",
+    "original": "Treehouse ([magiccompletion]/1)",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L260"
+  },
+  {
+    "key": "game/screens.rpy_L260_2",
+    "original": "Brothel ([brothelcompletion]/2)",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L260"
+  },
+  {
+    "key": "game/screens.rpy_L260_3",
+    "original": "Farm ([farmcompletion]/1)",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L260"
+  },
+  {
+    "key": "game/screens.rpy_L263_0",
+    "original": "First Visit ([magicroute1]/1)",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L263"
+  },
+  {
+    "key": "game/screens.rpy_L263_1",
+    "original": "Second Visit (In Development)",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L263"
+  },
+  {
+    "key": "game/screens.rpy_L272_0",
+    "original": "First Visit ([brothelroute1]/1)",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L272"
+  },
+  {
+    "key": "game/screens.rpy_L272_1",
+    "original": "Second Visit ([brothelroute2]/1)",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L272"
+  },
+  {
+    "key": "game/screens.rpy_L281_0",
+    "original": "First Visit ([farmroute1]/1)",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L281"
+  },
+  {
+    "key": "game/screens.rpy_L281_1",
+    "original": "Second Visit (In Dev)",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L281"
+  },
+  {
+    "key": "game/screens.rpy_L317_0",
+    "original": "This is a CG gallery, to replay entire scenes, you can visit characters at their homes.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L317"
+  },
+  {
+    "key": "game/screens.rpy_L317_1",
+    "original": "Intro",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L317"
+  },
+  {
+    "key": "game/screens.rpy_L317_2",
+    "original": "Treehouse",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L317"
+  },
+  {
+    "key": "game/screens.rpy_L317_3",
+    "original": "Brothel",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L317"
+  },
+  {
+    "key": "game/screens.rpy_L317_4",
+    "original": "Farm",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L317"
+  },
+  {
+    "key": "game/screens.rpy_L317_5",
+    "original": "Bakery",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L317"
+  },
+  {
+    "key": "game/screens.rpy_L317_6",
+    "original": "Forest",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L317"
+  },
+  {
+    "key": "game/screens.rpy_L317_7",
+    "original": "Bar",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L317"
+  },
+  {
+    "key": "game/screens.rpy_L317_8",
+    "original": "Castle",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L317"
+  },
+  {
+    "key": "game/screens.rpy_L317_9",
+    "original": "Extra",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L317"
+  },
+  {
+    "key": "game/screens.rpy_L320_0",
+    "original": "[mox] & [pen] Double Blowjob",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L320"
+  },
+  {
+    "key": "game/screens.rpy_L320_1",
+    "original": "[lil] Buttjob",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L320"
+  },
+  {
+    "key": "game/screens.rpy_L320_2",
+    "original": "[mox] & [pen] Threesome",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L320"
+  },
+  {
+    "key": "game/screens.rpy_L320_3",
+    "original": "[mox]'s First Time Marathon",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L320"
+  },
+  {
+    "key": "game/screens.rpy_L401_0",
+    "original": "[lil] Clone Handjob",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L401"
+  },
+  {
+    "key": "game/screens.rpy_L401_1",
+    "original": "[lil] Clone Threesome",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L401"
+  },
+  {
+    "key": "game/screens.rpy_L401_2",
+    "original": "[pen] Pet-Play Paizuri",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L401"
+  },
+  {
+    "key": "game/screens.rpy_L401_3",
+    "original": "[pen] Tied From Behind",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L401"
+  },
+  {
+    "key": "game/screens.rpy_L452_0",
+    "original": "[mel] Footjob",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L452"
+  },
+  {
+    "key": "game/screens.rpy_L452_1",
+    "original": "[mel] Blowjob",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L452"
+  },
+  {
+    "key": "game/screens.rpy_L452_2",
+    "original": "[mel] Handjob",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L452"
+  },
+  {
+    "key": "game/screens.rpy_L452_3",
+    "original": "[mel] Cowgirl and Reverse Cowgirl",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L452"
+  },
+  {
+    "key": "game/screens.rpy_L452_4",
+    "original": "[rub] Bathrobe",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L452"
+  },
+  {
+    "key": "game/screens.rpy_L452_5",
+    "original": "[rub] Couch Missionary",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L452"
+  },
+  {
+    "key": "game/screens.rpy_L452_6",
+    "original": "[rub] From Behind",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L452"
+  },
+  {
+    "key": "game/screens.rpy_L452_7",
+    "original": "[rub] Legs Up",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L452"
+  },
+  {
+    "key": "game/screens.rpy_L549_0",
+    "original": "[blo] Butt from Below",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L549"
+  },
+  {
+    "key": "game/screens.rpy_L549_1",
+    "original": "[blo] Butt from the Side",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L549"
+  },
+  {
+    "key": "game/screens.rpy_L549_2",
+    "original": "[blo] Butt from a MSG",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L549"
+  },
+  {
+    "key": "game/screens.rpy_L549_3",
+    "original": "[hon] Shower",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L549"
+  },
+  {
+    "key": "game/screens.rpy_L549_4",
+    "original": "[hon] Thighjob",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L549"
+  },
+  {
+    "key": "game/screens.rpy_L549_5",
+    "original": "[hon] Butt Tease",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L549"
+  },
+  {
+    "key": "game/screens.rpy_L608_0",
+    "original": "[rosa] Missionary",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L608"
+  },
+  {
+    "key": "game/screens.rpy_L636_0",
+    "original": "Select a post to read more.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L636"
+  },
+  {
+    "key": "game/screens.rpy_L636_1",
+    "original": "{color=#0077ff}{b}[rub]{/b}:{/color} Now Hiring! {color=#00ff62}(43 Likes){/color}",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L636"
+  },
+  {
+    "key": "game/screens.rpy_L636_2",
+    "original": "{color=#0077ff}{b}[mox]{/b}:{/color} Thank you everyone! {color=#00ff62}(5,430 Likes){/color}",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L636"
+  },
+  {
+    "key": "game/screens.rpy_L636_3",
+    "original": "{color=#0077ff}{b}[pen]{/b}:{/color} Ice Cream {color=#00ff62}(1 Like){/color}",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L636"
+  },
+  {
+    "key": "game/screens.rpy_L664_0",
+    "original": "Money: [money]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L664"
+  },
+  {
+    "key": "game/screens.rpy_L664_1",
+    "original": "Unique Outfits",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L664"
+  },
+  {
+    "key": "game/screens.rpy_L664_2",
+    "original": "Self-Repairing Pantyhose and Fishnets - $125 - Owned: [pantyhose]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L664"
+  },
+  {
+    "key": "game/screens.rpy_L664_3",
+    "original": "Personalized Lingerie - $250 - Owned: [lingerie]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L664"
+  },
+  {
+    "key": "game/screens.rpy_L667_0",
+    "original": "[mox] Punk for Facesitting - $100 - Owned: [punk]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L667"
+  },
+  {
+    "key": "game/screens.rpy_L667_1",
+    "original": "[mox] Bunny Girl for Missionary - $100 - Owned: [bunnygirl]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L667"
+  },
+  {
+    "key": "game/screens.rpy_L667_2",
+    "original": "[lil] Goth for Handjob and Threesome - $200 - Owned: [goth]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L667"
+  },
+  {
+    "key": "game/screens.rpy_L720_0",
+    "original": "Performance Boosters - $100 - Increases Max Energy by 1",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L720"
+  },
+  {
+    "key": "game/screens.rpy_L720_1",
+    "original": "Secret Formula - $500 - Increases Max Energy by 1",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L720"
+  },
+  {
+    "key": "game/screens.rpy_L720_2",
+    "original": "Buttplugs for All - $125",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L720"
+  },
+  {
+    "key": "game/screens.rpy_L720_3",
+    "original": "Bottomless Anal Lubrication - $300",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L720"
+  },
+  {
+    "key": "game/screens.rpy_L720_4",
+    "original": "Lewd Spellbook - $500",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L720"
+  },
+  {
+    "key": "game/screens.rpy_L720_5",
+    "original": "Insta-Futa Pills - $1500 - In Development. Futa planned, hard to implement for a lot of scenes tho",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L720"
+  },
+  {
+    "key": "game/screens.rpy_L720_6",
+    "original": "'Milky' Potion - $1500 - In Development. Pregnancy/Breast Inflation/Lactation planned",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L720"
+  },
+  {
+    "key": "game/screens.rpy_L778_0",
+    "original": "Now playing: [gent1]\\n{size=*0.6}Pro Tip: Long menus can be scrolled or dragged.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_1",
+    "original": "[blo]'s Theme - Discovery by Purrple Cat",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_2",
+    "original": "Casual 1 - Quiet Ocean by Peritune",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_3",
+    "original": "Casual 2 - Firmament Calm by Peritune",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_4",
+    "original": "City - Sparkle by Peritune",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_5",
+    "original": "Club - delirium dreams by Mindvacy",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_6",
+    "original": "Comical - Larry by Purgatory Garden",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_7",
+    "original": "[hon]'s Theme - Meteorites by Purrple Cat",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_8",
+    "original": "Intro - microcosm by Mindvacy",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_9",
+    "original": "Lily's Theme - Aether by Purrple Cat",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_10",
+    "original": "Melody's Theme - lorncloudshit by Sewerslvt",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_11",
+    "original": "Moxie's Theme - Abstract Foilage by Artificial Music",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_12",
+    "original": "Penelope's Theme - Going With The Flow by Purrple Cat",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_13",
+    "original": "Rainy Day - Cold & Rainy by Purrple Cat",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_14",
+    "original": "Ruby's Theme - Toe Wizard by Sewerslvt",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_15",
+    "original": "Sad - hopelessness by Sewerslvt",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L778_16",
+    "original": "Sex - Glowing Tides by Purrple Cat",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L778"
+  },
+  {
+    "key": "game/screens.rpy_L846_0",
+    "original": "+/- Money",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L846"
+  },
+  {
+    "key": "game/screens.rpy_L846_1",
+    "original": "+/- Energy",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L846"
+  },
+  {
+    "key": "game/screens.rpy_L846_2",
+    "original": "Change Names/Styles",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L846"
+  },
+  {
+    "key": "game/screens.rpy_L854_0",
+    "original": "You, [mc]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L854"
+  },
+  {
+    "key": "game/screens.rpy_L854_1",
+    "original": "[mox] Style [moxb]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L854"
+  },
+  {
+    "key": "game/screens.rpy_L854_2",
+    "original": "[pen] Style [penb]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L854"
+  },
+  {
+    "key": "game/screens.rpy_L854_3",
+    "original": "[hon] Style [honb]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L854"
+  },
+  {
+    "key": "game/screens.rpy_L854_4",
+    "original": "[rub] Style [rubb]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L854"
+  },
+  {
+    "key": "game/screens.rpy_L854_5",
+    "original": "[lil] Style [lilb]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L854"
+  },
+  {
+    "key": "game/screens.rpy_L854_6",
+    "original": "[mel] Style [melb]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L854"
+  },
+  {
+    "key": "game/screens.rpy_L854_7",
+    "original": "[blo] Style [blob]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L854"
+  },
+  {
+    "key": "game/screens.rpy_L864_0",
+    "original": "What was her name?",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L864"
+  },
+  {
+    "key": "game/screens.rpy_L864_1",
+    "original": "Default: Moxie",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L864"
+  },
+  {
+    "key": "game/screens.rpy_L864_2",
+    "original": "Custom",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L864"
+  },
+  {
+    "key": "game/screens.rpy_L877_0",
+    "original": "Default: Penelope",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L877"
+  },
+  {
+    "key": "game/screens.rpy_L877_1",
+    "original": "Alternate: Sundowner",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L877"
+  },
+  {
+    "key": "game/screens.rpy_L892_0",
+    "original": "Default: Honeycrisp",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L892"
+  },
+  {
+    "key": "game/screens.rpy_L905_0",
+    "original": "Default: Ruby",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L905"
+  },
+  {
+    "key": "game/screens.rpy_L918_0",
+    "original": "Default: Lily",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L918"
+  },
+  {
+    "key": "game/screens.rpy_L918_1",
+    "original": "(Custom Name)",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L918"
+  },
+  {
+    "key": "game/screens.rpy_L931_0",
+    "original": "Default: Melody",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L931"
+  },
+  {
+    "key": "game/screens.rpy_L944_0",
+    "original": "Default: Blossom",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L944"
+  },
+  {
+    "key": "game/screens.rpy_L965_0",
+    "original": "Change Phone Background",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L965"
+  },
+  {
+    "key": "game/screens.rpy_L967_0",
+    "original": "Default BG",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L967"
+  },
+  {
+    "key": "game/screens.rpy_L967_1",
+    "original": "Under the Sea",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L967"
+  },
+  {
+    "key": "game/screens.rpy_L967_2",
+    "original": "Ominous Moon",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L967"
+  },
+  {
+    "key": "game/screens.rpy_L967_3",
+    "original": "Grand Journey",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L967"
+  },
+  {
+    "key": "game/screens.rpy_L1270_0",
+    "original": "History",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1270"
+  },
+  {
+    "key": "game/screens.rpy_L1271_0",
+    "original": "Skip",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1271"
+  },
+  {
+    "key": "game/screens.rpy_L1272_0",
+    "original": "Auto",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1272"
+  },
+  {
+    "key": "game/screens.rpy_L1273_0",
+    "original": "Save",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1273"
+  },
+  {
+    "key": "game/screens.rpy_L1274_0",
+    "original": "Settings",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1274"
+  },
+  {
+    "key": "game/screens.rpy_L1316_0",
+    "original": "New Game",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1316"
+  },
+  {
+    "key": "game/screens.rpy_L1324_0",
+    "original": "Load",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1324"
+  },
+  {
+    "key": "game/screens.rpy_L1330_0",
+    "original": "End Replay",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1330"
+  },
+  {
+    "key": "game/screens.rpy_L1334_0",
+    "original": "Main Menu",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1334"
+  },
+  {
+    "key": "game/screens.rpy_L1347_0",
+    "original": "Quit",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1347"
+  },
+  {
+    "key": "game/screens.rpy_L1526_0",
+    "original": "Return",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1526"
+  },
+  {
+    "key": "game/screens.rpy_L1603_0",
+    "original": "About",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1603"
+  },
+  {
+    "key": "game/screens.rpy_L1610_0",
+    "original": "Version [config.version!t]\\n",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1610"
+  },
+  {
+    "key": "game/screens.rpy_L1616_0",
+    "original": "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\\n\\n[renpy.license!t]",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1616"
+  },
+  {
+    "key": "game/screens.rpy_L1652_0",
+    "original": "Page {}",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1652"
+  },
+  {
+    "key": "game/screens.rpy_L1652_1",
+    "original": "Automatic saves",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1652"
+  },
+  {
+    "key": "game/screens.rpy_L1652_2",
+    "original": "Quick saves",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1652"
+  },
+  {
+    "key": "game/screens.rpy_L1695_0",
+    "original": "%d %B - {#file_time}%H:%M",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1695"
+  },
+  {
+    "key": "game/screens.rpy_L1719_0",
+    "original": "<",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1719"
+  },
+  {
+    "key": "game/screens.rpy_L1722_0",
+    "original": "{#auto_page}A",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1722"
+  },
+  {
+    "key": "game/screens.rpy_L1725_0",
+    "original": "{#quick_page}Q",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1725"
+  },
+  {
+    "key": "game/screens.rpy_L1731_0",
+    "original": ">",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1731"
+  },
+  {
+    "key": "game/screens.rpy_L1735_0",
+    "original": "Upload Sync",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1735"
+  },
+  {
+    "key": "game/screens.rpy_L1739_0",
+    "original": "Download Sync",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1739"
+  },
+  {
+    "key": "game/screens.rpy_L1755_0",
+    "original": "Save Name",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1755"
+  },
+  {
+    "key": "game/screens.rpy_L1766_0",
+    "original": "{u}Save the Game{/u}",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1766"
+  },
+  {
+    "key": "game/screens.rpy_L1843_0",
+    "original": "Preferences",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1843"
+  },
+  {
+    "key": "game/screens.rpy_L1853_0",
+    "original": "Display",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1853"
+  },
+  {
+    "key": "game/screens.rpy_L1854_0",
+    "original": "Window",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1854"
+  },
+  {
+    "key": "game/screens.rpy_L1855_0",
+    "original": "Fullscreen",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1855"
+  },
+  {
+    "key": "game/screens.rpy_L1859_0",
+    "original": "Unseen Text",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1859"
+  },
+  {
+    "key": "game/screens.rpy_L1860_0",
+    "original": "After Choices",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1860"
+  },
+  {
+    "key": "game/screens.rpy_L1864_0",
+    "original": "Quick Menu",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1864"
+  },
+  {
+    "key": "game/screens.rpy_L1865_0",
+    "original": "Enabled",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1865"
+  },
+  {
+    "key": "game/screens.rpy_L1866_0",
+    "original": "Disabled",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1866"
+  },
+  {
+    "key": "game/screens.rpy_L1878_0",
+    "original": "Text Speed",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1878"
+  },
+  {
+    "key": "game/screens.rpy_L1882_0",
+    "original": "Auto-Forward Time",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1882"
+  },
+  {
+    "key": "game/screens.rpy_L1889_0",
+    "original": "Music Volume",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1889"
+  },
+  {
+    "key": "game/screens.rpy_L1896_0",
+    "original": "Sound Volume",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1896"
+  },
+  {
+    "key": "game/screens.rpy_L1902_0",
+    "original": "Test",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1902"
+  },
+  {
+    "key": "game/screens.rpy_L1906_0",
+    "original": "Voice Volume",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1906"
+  },
+  {
+    "key": "game/screens.rpy_L1917_0",
+    "original": "Mute All",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1917"
+  },
+  {
+    "key": "game/screens.rpy_L1928_0",
+    "original": "Text Size ([persistent.text_size]/45)",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1928"
+  },
+  {
+    "key": "game/screens.rpy_L1930_0",
+    "original": "Set to default",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1930"
+  },
+  {
+    "key": "game/screens.rpy_L2046_0",
+    "original": "The dialogue history is empty.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2046"
+  },
+  {
+    "key": "game/screens.rpy_L2105_0",
+    "original": "Help",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2105"
+  },
+  {
+    "key": "game/screens.rpy_L2114_0",
+    "original": "Keyboard",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2114"
+  },
+  {
+    "key": "game/screens.rpy_L2115_0",
+    "original": "Mouse",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2115"
+  },
+  {
+    "key": "game/screens.rpy_L2118_0",
+    "original": "Gamepad",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2118"
+  },
+  {
+    "key": "game/screens.rpy_L2131_0",
+    "original": "Enter",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2131"
+  },
+  {
+    "key": "game/screens.rpy_L2132_0",
+    "original": "Advances dialogue and activates the interface.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2132"
+  },
+  {
+    "key": "game/screens.rpy_L2135_0",
+    "original": "Space",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2135"
+  },
+  {
+    "key": "game/screens.rpy_L2136_0",
+    "original": "Advances dialogue without selecting choices.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2136"
+  },
+  {
+    "key": "game/screens.rpy_L2139_0",
+    "original": "Arrow Keys",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2139"
+  },
+  {
+    "key": "game/screens.rpy_L2140_0",
+    "original": "Navigate the interface.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2140"
+  },
+  {
+    "key": "game/screens.rpy_L2143_0",
+    "original": "Escape",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2143"
+  },
+  {
+    "key": "game/screens.rpy_L2144_0",
+    "original": "Accesses the game menu.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2144"
+  },
+  {
+    "key": "game/screens.rpy_L2147_0",
+    "original": "Ctrl",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2147"
+  },
+  {
+    "key": "game/screens.rpy_L2148_0",
+    "original": "Skips dialogue while held down.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2148"
+  },
+  {
+    "key": "game/screens.rpy_L2151_0",
+    "original": "Tab",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2151"
+  },
+  {
+    "key": "game/screens.rpy_L2152_0",
+    "original": "Toggles dialogue skipping.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2152"
+  },
+  {
+    "key": "game/screens.rpy_L2155_0",
+    "original": "Page Up",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2155"
+  },
+  {
+    "key": "game/screens.rpy_L2156_0",
+    "original": "Rolls back to earlier dialogue.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2156"
+  },
+  {
+    "key": "game/screens.rpy_L2159_0",
+    "original": "Page Down",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2159"
+  },
+  {
+    "key": "game/screens.rpy_L2160_0",
+    "original": "Rolls forward to later dialogue.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2160"
+  },
+  {
+    "key": "game/screens.rpy_L2164_0",
+    "original": "Hides the user interface.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2164"
+  },
+  {
+    "key": "game/screens.rpy_L2168_0",
+    "original": "Takes a screenshot.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2168"
+  },
+  {
+    "key": "game/screens.rpy_L2172_0",
+    "original": "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2172"
+  },
+  {
+    "key": "game/screens.rpy_L2176_0",
+    "original": "Opens the accessibility menu.",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2176"
+  },
+  {
+    "key": "game/screens.rpy_L2182_0",
+    "original": "Left Click",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2182"
+  },
+  {
+    "key": "game/screens.rpy_L2186_0",
+    "original": "Middle Click",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2186"
+  },
+  {
+    "key": "game/screens.rpy_L2190_0",
+    "original": "Right Click",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2190"
+  },
+  {
+    "key": "game/screens.rpy_L2194_0",
+    "original": "Mouse Wheel Up",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2194"
+  },
+  {
+    "key": "game/screens.rpy_L2198_0",
+    "original": "Mouse Wheel Down",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2198"
+  },
+  {
+    "key": "game/screens.rpy_L2205_0",
+    "original": "Right Trigger\\nA/Bottom Button",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2205"
+  },
+  {
+    "key": "game/screens.rpy_L2209_0",
+    "original": "Left Trigger\\nLeft Shoulder",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2209"
+  },
+  {
+    "key": "game/screens.rpy_L2213_0",
+    "original": "Right Shoulder",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2213"
+  },
+  {
+    "key": "game/screens.rpy_L2217_0",
+    "original": "D-Pad, Sticks",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2217"
+  },
+  {
+    "key": "game/screens.rpy_L2221_0",
+    "original": "Start, Guide, B/Right Button",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2221"
+  },
+  {
+    "key": "game/screens.rpy_L2225_0",
+    "original": "Y/Top Button",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2225"
+  },
+  {
+    "key": "game/screens.rpy_L2228_0",
+    "original": "Calibrate",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2228"
+  },
+  {
+    "key": "game/screens.rpy_L2293_0",
+    "original": "Yes",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2293"
+  },
+  {
+    "key": "game/screens.rpy_L2294_0",
+    "original": "No",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2294"
+  },
+  {
+    "key": "game/screens.rpy_L2340_0",
+    "original": "Skipping",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2340"
+  },
+  {
+    "key": "game/screens.rpy_L2652_0",
+    "original": "Menu",
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L2652"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "key": "blomsg1_0ebdc204",
+    "original": "hi i sent your letter to anna. and i have something for you too. (Open Attachment)",
+    "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L98"
+  },
+  {
+    "key": "blomsg1_444df4f8",
+    "original": "{i}Sheesh! The last person I was expecting to get such a raunchy picture from was [blo]!{/i}",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L110"
+  },
+  {
+    "key": "blomsg1_3d9e4b60",
+    "original": "{i}I guess she's someone that's more confident over text than in person. This has me excited to see what she has in store the next time we see each other.{/i}",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L111"
+  },
+  {
+    "key": "blomsg1_b4b250a1",
+    "original": "{i}Let me just save this picture for later...{/i}",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L112"
+  },
+  {
+    "key": "melmsg1_54dcb516",
+    "original": "It was nice talking to someone that feels sane for once. Let's see if I can't win you back from my sister, hm?",
+    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L132"
+  },
+  {
+    "key": "melmsg1_12f75c3d",
+    "original": "Also, you're the nerd.",
+    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L134"
+  },
+  {
+    "key": "lilmsg1_c306d93f",
+    "original": "[lil] 1.0 can't keep me around forever, since it's a big strain on her magic. But before I'm gone, I wanted to share one last picture to commemorate our life together~",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L152"
+  },
+  {
+    "key": "lilmsg1_de68b5a8",
+    "original": "Woah! What a sexy pic!",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L162"
+  },
+  {
+    "key": "lilmsg1_84fa41ff",
+    "original": "Wasn't the language she was using a little dramatic, though?",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L163"
+  },
+  {
+    "key": "penmsg1_d45d902d",
+    "original": "Good evening! I was wondering if you wanted to give that threesome with [mox] and I another try? I'm free tonight, let me know if you're interested.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L198"
+  },
+  {
+    "key": "penmsg1_7c88dccc",
+    "original": "I'm too busy right now. I should wait until I have some free time. (You can only accept [pen]'s proposition from the world map.)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L201"
+  },
+  {
+    "key": "penmsg1_8f5849cb",
+    "original": "I send [pen] a reply saying yes, and within the hour, [mox] and I are in the treehouse with her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L204"
+  },
+  {
+    "key": "penmsg1_fc0e3335",
+    "original": "I'm so glad you could join us! Allow me to show you to my room.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L211"
+  },
+  {
+    "key": "penmsg1_06470d6e",
+    "original": "Some cleaning up later, and we're back home.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L215"
+  },
+  {
+    "key": "moxmsg2_debd3c1d",
+    "original": "Sorry to leave you alone in bed! I trust you not to trash the apartment while im gone ;) \\nIll be back later tonight good luck on your big quest! xx",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L234"
+  },
+  {
+    "key": "moxmsg1_0f18c8c1",
+    "original": "I popped ur msg cherry! :) \\nMaybe u can pop mine later too? xd",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L244"
+  },
+  {
+    "key": "socialmenu_126c3c40",
+    "original": "RUBY's is now looking to hire male talent! You can send me your resumes directly by messaging this account.",
+    "context": "说话人: rub \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L639"
+  },
+  {
+    "key": "socialmenu_d37f4ca7",
+    "original": "{i}Rather than messaging [rub], I should visit her instead.{/i}",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L640"
+  },
+  {
+    "key": "socialmenu_6c04ea20",
+    "original": "Thank you to everyone that saw my biggest show ever at the Grand Theatre!",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L643"
+  },
+  {
+    "key": "socialmenu_ce5a3141",
+    "original": "{i}There are hundreds of comments. Wow, it looks like [mox] is doing extremely well for herself.{/i}",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L644"
+  },
+  {
+    "key": "socialmenu_725b23dc",
+    "original": "Anyone else miss those cherry flavoured ice cream pots they used to sell at MacDairies?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L647"
+  },
+  {
+    "key": "socialmenu_1e77b9ac",
+    "original": "Oh yeah! Those were the bomb!",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L648"
+  },
+  {
+    "key": "socialmenu_e141437e",
+    "original": "Preach, sister.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L649"
+  },
+  {
+    "key": "socialmenu_7bb420a4",
+    "original": "{i}I could go for some ice cream right now.{/i}",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L650"
+  }
+]

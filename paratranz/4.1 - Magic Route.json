@@ -1,0 +1,2022 @@
+[
+  {
+    "key": "treehousemenu_af52a409",
+    "original": "Good evening. I have your city pass somewhere around here.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L15"
+  },
+  {
+    "key": "treehousemenu_a86debfb",
+    "original": "Mmhh... You're back...",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L18"
+  },
+  {
+    "key": "treehousemenu_01f4b2b9",
+    "original": "Good evening. It's nice to see you.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L20"
+  },
+  {
+    "key": "lilmenu_3c8b8da6",
+    "original": "Oh? What did you have in mind?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L28"
+  },
+  {
+    "key": "lilsexmenu_342132b2",
+    "original": "I feel exhausted!",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L32"
+  },
+  {
+    "key": "lilsexmenu_44ee1bcb",
+    "original": "The reason this scene is in development, is because [lil] is currently a virgin, and this scene will have additional sex variants once she's lost her virginity.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L55"
+  },
+  {
+    "key": "lilsexmenu_3dd95d82",
+    "original": "Hum, okay.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L59"
+  },
+  {
+    "key": "lilsexmenu_8202a8d8",
+    "original": "Hiya! Thanks for popping by!",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L75"
+  },
+  {
+    "key": "penmenu_56bf3469",
+    "original": "Ohoho, this is what I've been waiting for!",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L79"
+  },
+  {
+    "key": "pensexmenu_342132b2",
+    "original": "I feel exhausted!",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L83"
+  },
+  {
+    "key": "pensexmenu_8dde96d1",
+    "original": "Meh!",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L93"
+  },
+  {
+    "key": "magic1_3b3a8db5",
+    "original": "'Everything that irritates us about others can lead us to an understanding of ourselves.' - Carl Jung",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L122"
+  },
+  {
+    "key": "magic1_17aa7729",
+    "original": "[lil] appears a bit flustered, her cheeks tinged with a faint blush as she retrieves my city pass from a cluttered desk.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L126"
+  },
+  {
+    "key": "magic1_7e0d8b45",
+    "original": "Here's your city pass...",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L127"
+  },
+  {
+    "key": "magic1_3581988e",
+    "original": "Great, thanks! This is actually the second time you've gotten me a pass.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L128"
+  },
+  {
+    "key": "magic1_43285a04",
+    "original": "I thought so. How's your search going?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L130"
+  },
+  {
+    "key": "m1m1_b3388a20",
+    "original": "I've successfully reached out to [rub]. Has she messaged you yet?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L133"
+  },
+  {
+    "key": "m1m1_17affa12",
+    "original": "Yes, she has. I was pretty shocked to learn that one of the supposed virtues is running a brothel, but apparently, it's a brothel of intellectual curiosities. I'm curious, but I don't think I'd want to be seen anywhere near there.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L135"
+  },
+  {
+    "key": "m1m1_909ee5ed",
+    "original": "I’ve contacted [hon] and given her your number.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L137"
+  },
+  {
+    "key": "m1m1_a4f588ef",
+    "original": "Oh, the farmer! At first, I was unsure about having a farmer on our team, but then I considered that if she owns the farm, she probably has some business acumen.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L139"
+  },
+  {
+    "key": "m1m1_4a7ed48d",
+    "original": "You’re a bit judgmental, aren’t you?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L140"
+  },
+  {
+    "key": "m1m1_b069e68e",
+    "original": "I just find it strange that godlike power would be given to a humble farmer. Maybe that's the point.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L142"
+  },
+  {
+    "key": "m1m1_5f96ec46",
+    "original": "I met with [but], but she's not ready to join us yet. Just give me a bit more time to help her out.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L145"
+  },
+  {
+    "key": "m1m1_3a0d11ec",
+    "original": "I met [but], helped her out, and she’s now able to join us.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L147"
+  },
+  {
+    "key": "m1m1_f91e250f",
+    "original": "I don’t know anything about her. I’ll trust your judgment on this one.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L149"
+  },
+  {
+    "key": "m1m1_a74fcfc8",
+    "original": "She definitely seems interested in our plan.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L151"
+  },
+  {
+    "key": "m1m1_25afa341",
+    "original": "I'm impressed you managed to befriend a celebrity like that. Did your prior knowledge help?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L153"
+  },
+  {
+    "key": "m1m1_04dd6a3e",
+    "original": "Only in finding her. [rik] in this universe is a completely different person circumstantially.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L154"
+  },
+  {
+    "key": "m1m1_76d0a132",
+    "original": "There's some weird stuff happening at that bakery, but I can confirm [cre] will be joining us.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L156"
+  },
+  {
+    "key": "m1m1_3281b439",
+    "original": "Weird? What’s going on?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L158"
+  },
+  {
+    "key": "m1m1_78f57aec",
+    "original": "There’s a… uh… It's something even less believable than me being from another universe. You'll have to see it for yourself.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L159"
+  },
+  {
+    "key": "m1m1_ab79ad94",
+    "original": "Oh…? Now I'm really intrigued! I'll contact her as soon as I can.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L161"
+  },
+  {
+    "key": "m1m1_7c455825",
+    "original": "Perfect. I’ll arrange a time for all of us to meet the Queen as soon as I can.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L167"
+  },
+  {
+    "key": "m1m1p_543f5a6f",
+    "original": "{i}Sigh{/i} I also have your DNA results on my laptop.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L172"
+  },
+  {
+    "key": "m1m1p_bc80b6fa",
+    "original": "[lil] blushes and opens her laptop, quickly navigating to a database that shows my DNA compared to tens of thousands of other citizens.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L173"
+  },
+  {
+    "key": "m1m1p_7434e358",
+    "original": "Zero matches, not even a close match that could be an alternative species version of you.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L175"
+  },
+  {
+    "key": "m1m1p_896a1df8",
+    "original": "As expected, but it was important to check. This is quite different from how you did it last time. Before, you relied solely on magic.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L176"
+  },
+  {
+    "key": "m1m1p_faba4a71",
+    "original": "Based on our conversations and some discussions I've had with [pen], it seems your world is quite rudimentary compared to ours.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L178"
+  },
+  {
+    "key": "m1m1p_6d197ae7",
+    "original": "Well, a little. I wouldn't exactly call it medieval; we still had phones and computers. But the technology was downplayed to keep things cozy and rustic, evoking an idyllic village life blending seamlessly with the countryside.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L179"
+  },
+  {
+    "key": "m1m1p_c9a09df5",
+    "original": "Ugh, that sounds terrible! The synergy between magic and technology has allowed both to reach new heights, and I’ll argue with any purist who says otherwise.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L183"
+  },
+  {
+    "key": "m1m1p_a373f63c",
+    "original": "I wasn't expecting her to react like that.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L184"
+  },
+  {
+    "key": "m1m1p_79d047e9",
+    "original": "You seem really passionate about this. But now that I think of it, I don't know much about you in this world.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L185"
+  },
+  {
+    "key": "m1m1p_600be020",
+    "original": "You're actually interested in me? I'm happy to answer any questions you have.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L187"
+  },
+  {
+    "key": "m1m1p_843431ab",
+    "original": "{i}Any{/i} questions?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L188"
+  },
+  {
+    "key": "m1m1p_e12f0c56",
+    "original": "U-Uhm, yeah… I think so?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L190"
+  },
+  {
+    "key": "m1m2_2137f152",
+    "original": "Where do I even begin? I'm on the cutting edge of DNA and evolution, particularly focusing on sexually compatible creatures.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L195"
+  },
+  {
+    "key": "m1m2_0bd79228",
+    "original": "It's one thing to know that the offspring of two interspecies partners will share the mother's species, but it's entirely different to understand why that happens and what traits, if any, are inherited from the father.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L196"
+  },
+  {
+    "key": "m1m2_86624dc2",
+    "original": "Is a stallion born from a dragon and a mare really just a regular stallion? You can't tell me there's nothing special about that, and it's shocking how little research has been done on this topic. I may even be able to discover the origin of unicorns, pegasi, and earth ponies.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L197"
+  },
+  {
+    "key": "m1m2_461b441d",
+    "original": "Is that why you've been so open and interested in me?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L198"
+  },
+  {
+    "key": "m1m2_93f450e4",
+    "original": "Absolutely! You're another species for me to study, and you actually talk to me! {i}Sigh{/i} Do you know how hard it is to get people to sign up for even basic questionnaires?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L200"
+  },
+  {
+    "key": "m1m2_7934aa05",
+    "original": "It means I was recognized for my intelligence and potential early on. By consistently meeting those expectations, I now have access to resources and influence to pursue my dreams.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L203"
+  },
+  {
+    "key": "m1m2_5754facd",
+    "original": "Naturally, it also means receiving special lessons and guidance from the Queen herself. I’m capable of managing many of her personal and political duties if needed.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L204"
+  },
+  {
+    "key": "m1m2_18a3c760",
+    "original": "However, she hasn’t requested my assistance in a few years, so I’ve been focusing on my own interests. As long as I’m being productive, she’s content to meet with me once a season.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L206"
+  },
+  {
+    "key": "m1m2_9d0300ac",
+    "original": "When she’s not working, she’s the most graceful and loving goddess you could imagine.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L210"
+  },
+  {
+    "key": "m1m2_80092d63",
+    "original": "When she’s working, she’s a ruthless leader who will do whatever it takes to achieve her goals.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L212"
+  },
+  {
+    "key": "m1m2_bdf7df57",
+    "original": "Strangely, knowing how kind and loving she can be makes her other side even more frightening.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L213"
+  },
+  {
+    "key": "m1m2_5a6df48b",
+    "original": "W-What?! What kind of ridiculous question is that? Why would I care about such things?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L218"
+  },
+  {
+    "key": "m1m2_10effde6",
+    "original": "You did say any question was fair game! Surely, you must have some specific preferences in sexual contexts.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L219"
+  },
+  {
+    "key": "m1m2_80235fe7",
+    "original": "I’m a pure lady. Just because I had that one ‘slip up’ last time we met, doesn’t mean I’d… {i}Clears throat{/i}",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L221"
+  },
+  {
+    "key": "m1m2_d61c84da",
+    "original": "My current work involves studying biology, fertilization, and pregnancy, it does cross my mind occasionally… In that sense… I’m a bit curious for work reasons, but it’s a waste of time!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L222"
+  },
+  {
+    "key": "m1m2_fe1ad0cb",
+    "original": "Interesting~",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L223"
+  },
+  {
+    "key": "m1m2_98f5580b",
+    "original": "Hmph!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L225"
+  },
+  {
+    "key": "m1m2_fd42a794",
+    "original": "Ugh! I bet you already know, considering how close you were to my other self. You even knew where my dildo was. I’m embarrassed to even own one; no one was supposed to know.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L228"
+  },
+  {
+    "key": "m1m2_3c53e9ef",
+    "original": "It’s normal and healthy. We all do it. If you give me your answer, I’ll give you mine.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L229"
+  },
+  {
+    "key": "m1m2_7e7e7de1",
+    "original": "Hmm… Fine, just so I can hear your answer… I masturbate twice a day, once in the morning and once in the evening… and sometimes during the day too.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L231"
+  },
+  {
+    "key": "m1m2_13eda1f0",
+    "original": "Now you have to answer!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L233"
+  },
+  {
+    "key": "m1m2_c18e2e11",
+    "original": "Honestly, I don’t remember the last time I masturbated outside of doing it right here with you. I get so much action that I don’t need to do it anymore.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L234"
+  },
+  {
+    "key": "m1m2_b927eeb9",
+    "original": "Ew, that’s gross!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L236"
+  },
+  {
+    "key": "m1m2_41dc8bf4",
+    "original": "Eh?! You’d prefer it if I masturbated more?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L237"
+  },
+  {
+    "key": "m1m2_2d22c194",
+    "original": "That’s not what I meant!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L239"
+  },
+  {
+    "key": "m1m2_dfaa2065",
+    "original": "We were lab partners in college, and she kind of ‘adopted’ me as a close friend.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L242"
+  },
+  {
+    "key": "m1m2_6128b3f1",
+    "original": "'Adopted' is certainly a word choice.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L243"
+  },
+  {
+    "key": "m1m2_23963f10",
+    "original": "Well, I don't really make friends, they make me. At first, I wasn’t fond of [pen], especially with that silly hair, but she eventually won me over. We’ve been very close ever since.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L245"
+  },
+  {
+    "key": "m1m2_77a27cb9",
+    "original": "We became roommates in our final year, and when I decided to move here, it made sense to invite her along. I admit, I don’t leave my part of the tree much, so we don’t chat as often as we used to.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L246"
+  },
+  {
+    "key": "m1m2_acd632e2",
+    "original": "A clown who mocks real magic! I'm here, researching critical aspects of magic to advance society, and she's impressive for making a rabbit disappear in a hat?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L249"
+  },
+  {
+    "key": "m1m2_fc7499a5",
+    "original": "What kind of nonsense is that? I could do that! I've always said this city has too many pegasi and earth ponies because no unicorn would be impressed by such a farce.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L250"
+  },
+  {
+    "key": "m1m2_38b382b5",
+    "original": "Isn't it her performance and theatrics that make the magic show captivating?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L251"
+  },
+  {
+    "key": "m1m2_30a79af8",
+    "original": "Tsk, I don't care much for charisma. I'm interested in the mechanics!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L253"
+  },
+  {
+    "key": "m1m2_6a6329aa",
+    "original": "You seem like the type to focus so much on trying to figure out the trick that you miss the show.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L254"
+  },
+  {
+    "key": "m1m2_15bcbfd4",
+    "original": "But that’s the fun part!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L256"
+  },
+  {
+    "key": "m1m2p_ecf2a0bc",
+    "original": "Well... Enough about me, I wanted to talk about something you did.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L262"
+  },
+  {
+    "key": "m1m2p_7d1d4f9c",
+    "original": "I heard you, [pen] and [mox] going at it like rabbits the last time you were here.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L263"
+  },
+  {
+    "key": "m1m2p_4a72166f",
+    "original": "You’re not seriously planning to do that with every girl you meet, are you?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L264"
+  },
+  {
+    "key": "m1m2p_953ddbbf",
+    "original": "B-But, that’s so…",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L268"
+  },
+  {
+    "key": "m1m2p_41fe5bab",
+    "original": "You’re not even sure?!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L271"
+  },
+  {
+    "key": "m1m2p_3e4b3636",
+    "original": "What’s that supposed to mean?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L274"
+  },
+  {
+    "key": "m1m2p_ae35c23e",
+    "original": "You didn’t? Maybe I was just hearing things…",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L277"
+  },
+  {
+    "key": "m1m2p_d976baff",
+    "original": "Maybe you were hearing what you wanted to hear?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L278"
+  },
+  {
+    "key": "m1m2p_84553197",
+    "original": "Ugh, it’s just… The one time a man comes into my life and displays even a modicum of interest, he also has everyone else vying for him?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L280"
+  },
+  {
+    "key": "m1m2p_014217ed",
+    "original": "Isn’t that how your society has to work? There are three times as many women as men.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L281"
+  },
+  {
+    "key": "m1m2p_504946d8",
+    "original": "I know that! For goodness’ sake, I’ve studied the biology behind it. But that doesn’t mean I can’t be frustrated or jealous when other girls take you away…",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L283"
+  },
+  {
+    "key": "m1m2p_6a6ee2ed",
+    "original": "I’d be an excellent girlfriend! For one: I’m pretty cute. Two: I'm extremely smart! Thirdly, I can do some amazing things that you couldn’t even imagine!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L284"
+  },
+  {
+    "key": "m1m2p_4da1f231",
+    "original": "She’s much more closed-minded than her counterpart. Instead of valuing the foundations of friendship and sharing, she’s quite egotistical and selfish. But…",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L285"
+  },
+  {
+    "key": "m1m2p_ade758be",
+    "original": "We can still make it work. Tell me about those amazing things.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L286"
+  },
+  {
+    "key": "m1m2p_6bfe549c",
+    "original": "Well, uh… I can perform tricks that [mox] could never dream of!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L288"
+  },
+  {
+    "key": "m1m2p_78353fe0",
+    "original": "In fact, I just had a great idea! I won’t dignify myself to performing sexual actions for your affection; I’m too good for that. But what if I summoned a familiar to assist us?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L291"
+  },
+  {
+    "key": "m1m2p_6b6af381",
+    "original": "Go on…",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L292"
+  },
+  {
+    "key": "m1m2p_14e4512a",
+    "original": "It won’t be your ordinary familiar either! It’ll be a perfect copy of me, lasting as long as I want. That’s how powerful my magic is.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L294"
+  },
+  {
+    "key": "m1m2p_3bb02d6e",
+    "original": "And what’s your end goal for this experiment?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L295"
+  },
+  {
+    "key": "m1m2p_4fd346d6",
+    "original": "The usage of the word experiment causes her ears to twitch eagerly.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L296"
+  },
+  {
+    "key": "m1m2p_9b7833c1",
+    "original": "I’ll let you indulge your little sexual fantasies and even document your behavior as an unknown species. All without lifting a finger. I’m a damn genius.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L298"
+  },
+  {
+    "key": "m1m2p_9abb94db",
+    "original": "Before I can reply, her horn is already glowing with magic. She skillfully channels her arcane abilities, weaving intricate threads of magic into the air.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L301"
+  },
+  {
+    "key": "m1m2p_f78fa173",
+    "original": "With a flicker of concentration, she conjures a perfect replica of herself. Every detail, from the mane to the feet, is meticulously mirrored, standing beside her as if born from her very essence. The only difference is the ethereal glow and eyes, radiating pure magic.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L309"
+  },
+  {
+    "key": "m1m2p_60dbf3be",
+    "original": "The clone stepped forward with an exuberant smile, her eyes twinkling with a familiar yet unsettling glint.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L310"
+  },
+  {
+    "key": "m1m2p_148313c3",
+    "original": "Hey there! Wow, this is so cool! I’ve always wanted to see myself from the outside. Guess you could call me ‘[lil] 2.0’! Ready to rock and roll!",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L314"
+  },
+  {
+    "key": "m1m2p_e40b3034",
+    "original": "I’ve literally been cloned before, and this still feels uncanny.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L315"
+  },
+  {
+    "key": "m1m2p_450e3479",
+    "original": "The original [lil] blinked, taken aback by the clone’s enthusiastic demeanor.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L318"
+  },
+  {
+    "key": "m1m2p_e44f7f15",
+    "original": "That’s… definitely not something I would say, is it? I mean… [lil] 2.0? That’s not exactly…",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L319"
+  },
+  {
+    "key": "m1m2p_308dce0d",
+    "original": "Oh, lighten up, me! We’re here to have fun, right? That’s the entire reason you summoned me.",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L321"
+  },
+  {
+    "key": "m1m2p_03a73c14",
+    "original": "We? No, no, no. I’m just here to watch you two go at it like animals.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L323"
+  },
+  {
+    "key": "m1m2p_f1a1b023",
+    "original": "Humph! You need to loosen up. Life’s not all about books and spells, you know!",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L325"
+  },
+  {
+    "key": "m1m2p_58ab5ad3",
+    "original": "[lil] exchanged a bewildered glance with me, and I could only shrug in response.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L327"
+  },
+  {
+    "key": "m1m2p_f45b4a25",
+    "original": "I believe this situation requires extra special examination… [mc], can you do the honors?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L329"
+  },
+  {
+    "key": "m1m2p_bd78dc95",
+    "original": "Me? What am I supposed to be doing?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L330"
+  },
+  {
+    "key": "m1m2p_bbd22031",
+    "original": "Oh come on, cutie. Isn’t it obvious? She wants you to do me~",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L332"
+  },
+  {
+    "key": "m1m2p_c926ef83",
+    "original": "[lil2] kneels before my crotch, and with large, adorable eyes looks up at me patiently as if waiting for my cock.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L377"
+  },
+  {
+    "key": "rockandroll_f4b90838",
+    "original": "Fantastic! Say, why don’t I help you with that? I regret not lending you a proper hand last time.",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L383"
+  },
+  {
+    "key": "rockandroll_c16ee8c8",
+    "original": "[lil2] reached out and wrapped her hand around my cock. The tingling sensation from her touch made me hard within seconds.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L385"
+  },
+  {
+    "key": "rockandroll_f2e7074b",
+    "original": "H-Hey, don’t pretend you were me from back then! You’re way too… enthusiastic about this!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L386"
+  },
+  {
+    "key": "rockandroll_ff3e6a0c",
+    "original": "Sounds like someone needs to be a little more honest with themselves. What do you think, [mc]?",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L388"
+  },
+  {
+    "key": "rockandroll_6e224ed9",
+    "original": "She began to stroke my throbbing member vigorously with one hand, her hips swaying rhythmically with each powerful motion, and her cute chest rising with each breath.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L391"
+  },
+  {
+    "key": "rockandroll_dd05a616",
+    "original": "If this is how you really feel [lil], then damn! This is hot.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L392"
+  },
+  {
+    "key": "rockandroll_405e2fee",
+    "original": "I… N-Not a chance!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L393"
+  },
+  {
+    "key": "rockandroll_1f36b17d",
+    "original": "Mmm… You feel good in my hand.",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L395"
+  },
+  {
+    "key": "rockandroll_bd8e96d4",
+    "original": "She purred before resuming her relentless strokes.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L397"
+  },
+  {
+    "key": "rockandroll_6cfafc97",
+    "original": "The real [lil] watched from the sidelines, her heart racing and cheeks flushing a deep crimson. She couldn’t even focus on writing anything down right now, not when she found herself both aroused and embarrassed by her other self’s brazen actions.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L398"
+  },
+  {
+    "key": "rockandroll_7cbaef07",
+    "original": "Her own marehood tingled with unfulfilled desire as she watched her clone receive and give it so eagerly and openly. The scent and sight made it difficult for her to ignore the building heat in her loins.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L399"
+  },
+  {
+    "key": "rockandroll_29a0c0be",
+    "original": "Ooohhh, you’re getting good at this! You’ve already figured out the best spot to rub.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L400"
+  },
+  {
+    "key": "rockandroll_00521b48",
+    "original": "L-Like fuck she has! There’s no way!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L401"
+  },
+  {
+    "key": "rockandroll_a2a074c9",
+    "original": "It’s simple, my dear! The glans are too sensitive to touch directly, so I use the friction of the foreskin to glide against it, particularly around the crown.",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L403"
+  },
+  {
+    "key": "rockandroll_c153a142",
+    "original": "Uwaaahhhhhhh, what are you even talking about?!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L404"
+  },
+  {
+    "key": "rockandroll_90ea991c",
+    "original": "I groaned in pleasure under the skilled ministrations of the clone. My cock throbbing as precum drips from the tip.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L405"
+  },
+  {
+    "key": "rockandroll_27423910",
+    "original": "You want to cum, don’t you? Cover my face in your hot seed? Mmmhhh…",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L406"
+  },
+  {
+    "key": "rockandroll_15504f50",
+    "original": "She purred seductively before swiftly increasing the pace of her strokes.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L407"
+  },
+  {
+    "key": "rockandroll_0c44d2ba",
+    "original": "Alright – Enough!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L408"
+  },
+  {
+    "key": "rockandroll_180b29bf",
+    "original": "[lil] could no longer idly stand by, trembling slightly; she crouched next to her and made her effort known.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L410"
+  },
+  {
+    "key": "rockandroll_23895eb5",
+    "original": "She tentatively reached out towards my cock, her fingers barely touching the thick shaft. Her touch was soft, lacking her counterpart’s assertiveness. Eventually, she leaned back and rubbed her breasts together as seductively as she knew how.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L411"
+  },
+  {
+    "key": "rockandroll_ca2a659c",
+    "original": "I knew you had it in you. After all, you’re me~",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L413"
+  },
+  {
+    "key": "rockandroll_53dcb85c",
+    "original": "Encouraged by her hesitant participation, the clone glanced back with a triumphant smirk before returning her attention to me. She leaned closer still, her hot breath grazing against my tip.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L414"
+  },
+  {
+    "key": "rockandroll_f632790b",
+    "original": "That’s it… Let me help you cum for both of us.",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L416"
+  },
+  {
+    "key": "rockandroll_3baf647b",
+    "original": "I moaned in ecstasy as I felt myself on the brink of orgasm. My shaft stiffened under the assault of her eager hands, and prepared to unload.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L417"
+  },
+  {
+    "key": "rockandroll_6ec97d7e",
+    "original": "With a roar of pleasure, my tip erupted fiercely. My hot seed spurted forth like a geyser, splattering both the mares’ faces and breasts.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L422"
+  },
+  {
+    "key": "rockandroll_2624bfdf",
+    "original": "Ooohhh yes… It feels just as good as last time, doesn’t it?",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L427"
+  },
+  {
+    "key": "rockandroll_f02dc6b8",
+    "original": "Mmhhh… It does feel… pretty good…",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L428"
+  },
+  {
+    "key": "rockandroll_cb5fb0c6",
+    "original": "Before [lil] could fully process her feelings, she felt her clone’s soft lips pressing against hers in a passionate kiss.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L432"
+  },
+  {
+    "key": "rockandroll_3c9a237e",
+    "original": "The kiss deepened quickly, tongues dancing erotically as their bodies fell onto the bed together. The room seemed to spin around me as I caught my breath, my cock still throbbing from its intense release.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L463"
+  },
+  {
+    "key": "rockandroll_81e479cc",
+    "original": "Aaahhh… What’s the meaning of this?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L464"
+  },
+  {
+    "key": "rockandroll_e3d99832",
+    "original": "Don’t play me for a fool, me… I know exactly what you want and exactly how you like it…",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L465"
+  },
+  {
+    "key": "rockandroll_731ccfd7",
+    "original": "Now, why don’t you spread your legs and put on a good show for [mc]? I bet he’d like that a lot.",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L466"
+  },
+  {
+    "key": "rockandroll_2d157514",
+    "original": "B-But… My pussy…",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L467"
+  },
+  {
+    "key": "rockandroll_dbcdd608",
+    "original": "Remember how much you loved showing your pussy off last time? It turned us on so much~",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L468"
+  },
+  {
+    "key": "rockandroll_743df441",
+    "original": "Her legs gently opened, revealing her glorious pussy to me. That, combined with her clone’s ass, which was purposely raised to show off, the sight was almost too much for my overstimulated brain to process.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L477"
+  },
+  {
+    "key": "rockandroll_2e6a80b0",
+    "original": "[lil2] began kissing and licking [lil] clean; in a shocking amount of time, the girls went from being drenched in my seed to merely damp. Eventually, [lil2] ended up at her lovely breasts, sucking and teasing her nipples.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L478"
+  },
+  {
+    "key": "rockandroll_6c516fbb",
+    "original": "Mmhh… Like what you see, [mc]? Please feel free to touch yourself while you watch.",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L479"
+  },
+  {
+    "key": "rockandroll_a0c31907",
+    "original": "I approached closer; I couldn’t help but reach out and gently squeeze [lil]’s plump ass cheeks, feeling them jiggle slightly underneath my touch. She moaned slightly but didn’t reprimand me – if anything, her body language encouraged me further.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L480"
+  },
+  {
+    "key": "rockandroll_a4071df1",
+    "original": "You two look stunning together.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L481"
+  },
+  {
+    "key": "rockandroll_ad8c0ce1",
+    "original": "I kneeled right behind them, getting a perfect view of their pussies as I began to rub my cock.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L482"
+  },
+  {
+    "key": "rockandroll_27c10d75",
+    "original": "[lil] moaned, surprised by how much she was enjoying this moment. She wrapped her slender legs around my waist, encouraging me closer while rocking her hips.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L483"
+  },
+  {
+    "key": "rockandroll_25911dc3",
+    "original": "The clone eyed me intently as she took the other of [lil]'s firm nipples into her lips. Her warm, long pony tongue flashed across the sensitive bud, eliciting a gasp from deep within [lil].",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L484"
+  },
+  {
+    "key": "rockandroll_d0875104",
+    "original": "Meanwhile, [lil]'s gaze shifted downward to watch as my big cock jerked enticingly between her legs. The thought of me spraying my cum over her was exhilarating, and she wanted more.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L485"
+  },
+  {
+    "key": "rockandroll_4694a419",
+    "original": "She reached over, more confidentially wrapping her slender fingers around my shaft. It throbbed responsively under her touch.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L488"
+  },
+  {
+    "key": "rockandroll_35d16704",
+    "original": "Encouraged by the way her clone moaned into her breast, she began to stroke me slowly at first, but picked up speed as the passionate encounter intensified. ",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L489"
+  },
+  {
+    "key": "rockandroll_49a97ccb",
+    "original": "[lil2] lifted herself up from between [lil]’s chest long enough to look down at us both with lust-filled eyes.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L490"
+  },
+  {
+    "key": "rockandroll_b4f6a5ca",
+    "original": "I want you to cum all over us.",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L491"
+  },
+  {
+    "key": "rockandroll_688d093c",
+    "original": "She panted breathlessly before leaning down again, capturing [lil]’s lips in a passionate kiss, while using her free hand to stimulate her own sensitive clit rhythmically.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L493"
+  },
+  {
+    "key": "rockandroll_cec0b6f5",
+    "original": "[lil] kept stroking my member just inches from her pussy, her hips grinding as though she were pleading for it.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L494"
+  },
+  {
+    "key": "rockandroll_92756848",
+    "original": "Hold on, don’t cum quite yet. I have an even better idea~",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L496"
+  },
+  {
+    "key": "rockandroll_29e4362e",
+    "original": "[lil] laid on her back, eyes closed tightly, heart racing like a runaway train as her body trembled with anticipation.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L544"
+  },
+  {
+    "key": "rockandroll_1369bce6",
+    "original": "I want you to slide it inside, stud~ Take my virginity!",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L545"
+  },
+  {
+    "key": "rockandroll_8f975947",
+    "original": "(It’s finally going to happen, isn’t it? This is it!)",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L546"
+  },
+  {
+    "key": "rockandroll_282e8d5b",
+    "original": "You don’t have to ask twice! But, oh, what about her?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L547"
+  },
+  {
+    "key": "rockandroll_5df73917",
+    "original": "Fear and excitement coursed through her veins as she felt her clone shift on top of her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L548"
+  },
+  {
+    "key": "rockandroll_6c173549",
+    "original": "It’s okay! You don’t need my permission.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L549"
+  },
+  {
+    "key": "rockandroll_02180ddc",
+    "original": "Hehe, I haven’t been this horny my entire life.",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L550"
+  },
+  {
+    "key": "rockandroll_1ade55e7",
+    "original": "I moved in behind [lil2], and angled my cock at her identical virgin pussy, her folds already parting as my tip pressed in slightly.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L551"
+  },
+  {
+    "key": "rockandroll_bc1f9921",
+    "original": "That’s right! Nnghhh, slide that cock right inside me!",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L552"
+  },
+  {
+    "key": "rockandroll_dcf3aa23",
+    "original": "Wait… Inside… {b}you{/b}?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L553"
+  },
+  {
+    "key": "rockandroll_363098de",
+    "original": "Without another word, I plunged myself deep inside the clone’s tight entrance, groaning deeply as I tore through her folds and took her virginity. The sound of her resulting, impassioned moan, echoed through the room, reverberating through both of us, and it was sublime.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L566"
+  },
+  {
+    "key": "rockandroll_494cab34",
+    "original": "The clone’s body arched upwards, her back curving beautifully as she let out a high-pitched whine of pleasure mixed with pain.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L567"
+  },
+  {
+    "key": "rockandroll_88bf2091",
+    "original": "[lil]’s eyes flew open at the sight before her – the sight of me pounding my cock into her clone’s tight pussy – she felt herself growing wetter by the second. She bit down harder on her lip, trying desperately not to whimper in need as she felt every powerful thrust indirectly pressed against her by her clone.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L568"
+  },
+  {
+    "key": "rockandroll_894bed65",
+    "original": "It was torture – exquisite torture – and she couldn’t tear her eyes away from the display unfolding before her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L569"
+  },
+  {
+    "key": "rockandroll_c091c6ef",
+    "original": "Ooohhh, your pussy is so tight, [lil]!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L570"
+  },
+  {
+    "key": "rockandroll_ffb0a099",
+    "original": "Mmphhhh, this is the best feeling ever!",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L571"
+  },
+  {
+    "key": "rockandroll_2e0d0df5",
+    "original": "The clone moaned my name over and over again, fingers digging into the sheets beside [lil] as she met each brutal thrust with equal ferocity – her body moving in perfect sync with mine. It was beautiful chaos – an erotic dance purely fueled by lust and desire - and [lil] felt herself slipping further into the depths of depravity with each passing moment.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L572"
+  },
+  {
+    "key": "rockandroll_a90d7e1b",
+    "original": "She couldn’t take it anymore – she couldn’t just lie there and watch them – and without even thinking about it, she reached down between her legs, finding her own wet folds deeply slick with need. Her fingers brushed against her clit, teasingly circling around the sensitive nub before finally plunging inside her tight entrance.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L573"
+  },
+  {
+    "key": "rockandroll_129ccd04",
+    "original": "She gasped at the sensation – it wasn’t nearly enough – but it helped quell some of the burning desire threatening to consume her entirely.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L574"
+  },
+  {
+    "key": "rockandroll_33efdf8c",
+    "original": "As if sensing her need, the clone glanced over at her – eyes half-lidded with pleasure – and gave her a sultry smile, before returning her attention back to me.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L575"
+  },
+  {
+    "key": "rockandroll_058c8261",
+    "original": "Ooohhh, [lil]… I want you to watch… I want you to see how good he makes me feel.",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L576"
+  },
+  {
+    "key": "rockandroll_41bf39bf",
+    "original": "And feel good, she did – her body arching off the bed as wave after wave of pleasure coursed through her – her walls clenching tightly around me as she approached orgasm. The sight of them – her clone experiencing such raw ecstasy while she lay there, helplessly aroused but still untouched—was almost too much for [lil] to bear.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L577"
+  },
+  {
+    "key": "rockandroll_75492a6f",
+    "original": "Finally, with a shattering cry that echoed through the room like thunder rolling across plains, the clone’s body tightened one last time as it had a full-body orgasm.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L578"
+  },
+  {
+    "key": "rockandroll_48479c59",
+    "original": "My cock followed shortly after, erupting deep inside her for one last time, cum shooting deep into her pussy and womb.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L581"
+  },
+  {
+    "key": "rockandroll_b2eed332",
+    "original": "Uooohhh, that’s right! Fill up my womb with your hot cum!",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L587"
+  },
+  {
+    "key": "rockandroll_6da4e9d3",
+    "original": "Nnghhh! Aaahhhh, so much! Get me pregnant, mmmhhhh!",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L588"
+  },
+  {
+    "key": "rockandroll_9a03444e",
+    "original": "Load after load filled her up, until finally, I pulled out and covered the two of them, hot cum dripping down fluffy thighs.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L596"
+  },
+  {
+    "key": "rockandroll_6ff50647",
+    "original": "Once we’d finally finished, she relaxed back onto the mattress, spent and satisfied.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L597"
+  },
+  {
+    "key": "rockandroll_e3ca0f84",
+    "original": "Her eyes flickered closed for a moment before reopening again and locking onto [lil]’s own hazy gaze.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L598"
+  },
+  {
+    "key": "rockandroll_db8cb27d",
+    "original": "This is what you wanted; don’t deny yourself.",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L600"
+  },
+  {
+    "key": "rockandroll_7defc4aa",
+    "original": "Your turn, [lil]?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L601"
+  },
+  {
+    "key": "rockandroll_93d3ffcf",
+    "original": "I… I…",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L603"
+  },
+  {
+    "key": "rockandroll_e4958a4a",
+    "original": "[lil] stared back at her clone, confusion warring with desire in her eyes – unsure of what she should do next.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L604"
+  },
+  {
+    "key": "rockandroll_351d91be",
+    "original": "Part of her wanted me to turn my attention towards her, to take her virginity as I had taken the clones. But another part of her – the rational part – told her she should push these desires away – that this wasn’t right.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L605"
+  },
+  {
+    "key": "rockandroll_7c9a2929",
+    "original": "However, as her eyes turned to mine and we shared an intense stare down, she realized something profound: she didn’t care about right or wrong anymore. All she cared about was experiencing the same intense pleasure her cloned had just found – even if she had cuckolded herself in the process.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L606"
+  },
+  {
+    "key": "rockandroll_65423597",
+    "original": "But…",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L607"
+  },
+  {
+    "key": "rockandroll_3a1d3ac2",
+    "original": "N-Not right now… {i}Pant, pant{/i} I can tell your pecker is clearly exhausted.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L608"
+  },
+  {
+    "key": "rockandroll_459c17e6",
+    "original": "I look down, and she’s right, my cock will be out of commission for a while after those back-to-back orgasms.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L609"
+  },
+  {
+    "key": "rockandroll_a88637e8",
+    "original": "What was all that about ‘get me pregnant, get me pregnant’! [lil2]?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L620"
+  },
+  {
+    "key": "rockandroll_880a6f4f",
+    "original": "I was just being honest with myself.",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L621"
+  },
+  {
+    "key": "rockandroll_473875e2",
+    "original": "The clone cradles her belly and giggles.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L622"
+  },
+  {
+    "key": "rockandroll_0c9b0f01",
+    "original": "Getting filled up like that, knowing I might get pregnant from this hot stud’s virile seed… Mmpphhh…",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L624"
+  },
+  {
+    "key": "rockandroll_03352644",
+    "original": "W-What are you talking about? I don’t want that…",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L626"
+  },
+  {
+    "key": "rockandroll_0b3cda8c",
+    "original": "Surely you relate to that, [lil]? I mean she’s you.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L627"
+  },
+  {
+    "key": "rockandroll_c49c0c0f",
+    "original": "U-Uhm, n-no! Not at all!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L629"
+  },
+  {
+    "key": "rockandroll_5de0e779",
+    "original": "What’s there to figure out? I think the situation speaks for itself, don’t you?",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L632"
+  },
+  {
+    "key": "rockandroll_11726dc7",
+    "original": "I’m really curious about [lil2]’s behavior right now. Please, [mc]?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L633"
+  },
+  {
+    "key": "rockandroll_bf772477",
+    "original": "Awh! But I wanted your dick!",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L638"
+  },
+  {
+    "key": "rockandroll_b24e7954",
+    "original": "There’s clearly something wrong with this clone, correct?",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L649"
+  },
+  {
+    "key": "rockandroll_34a32f76",
+    "original": "A lot more open and outgoing, I wouldn’t necessarily say it’s ‘wrong’, but she’s not identical to you.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L650"
+  },
+  {
+    "key": "rockandroll_3e04f6e1",
+    "original": "You both make a good point. It seems I didn’t inherit all the intended traits perfectly. This requires further investigation, wouldn’t you agree, me?",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L652"
+  },
+  {
+    "key": "rockandroll_24a9bb10",
+    "original": "Absolutely. My current hypothesis is that your mind was influenced by my reasoning or mental state during your creation.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L654"
+  },
+  {
+    "key": "rockandroll_966ac5ba",
+    "original": "That's a great idea... If you created me for horny purposes, in a self-fulfilling way, I cater towards my purpose?",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L656"
+  },
+  {
+    "key": "rockandroll_1e8cef92",
+    "original": "My thoughts exactly! Goodness, I never imagined how amazing it would be to have a discussion like this with myself. We definitely need to conduct more tests!",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L658"
+  },
+  {
+    "key": "rockandroll_f79705c5",
+    "original": "Uh, you two are geeking me out a bit. Do you mind if I go visit [pen]?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L659"
+  },
+  {
+    "key": "rockandroll_f4208530",
+    "original": "Of course! Thank you so much for coming today, [mc]. I’m looking forward to catching up with you again.",
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L661"
+  },
+  {
+    "key": "rockandroll_b8c97a39",
+    "original": "And me too, hopefully!",
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L663"
+  },
+  {
+    "key": "rockandroll_5d5ce18a",
+    "original": "'And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.' - Anaïs Nin",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L666"
+  },
+  {
+    "key": "rockandroll_e00caa91",
+    "original": "… On the other side of the treehouse, in [pen]’s room.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L673"
+  },
+  {
+    "key": "rockandroll_8c404941",
+    "original": "I’m impressed by how quickly you’ve settled here and started making big moves.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L675"
+  },
+  {
+    "key": "rockandroll_5e12bde2",
+    "original": "It would probably take me a week to wrap my head around all of this, especially in such a grim urban setting.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L676"
+  },
+  {
+    "key": "rockandroll_13627d17",
+    "original": "This isn’t the first time something like this has happened, and you girls have been incredibly accommodating. I couldn’t be here or do this without your help.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L677"
+  },
+  {
+    "key": "rockandroll_62f8f862",
+    "original": "Heh, I’m not great with compliments; you’ll make me blush.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L679"
+  },
+  {
+    "key": "rockandroll_d2e7406b",
+    "original": "I’ve been pondering your situation a bit more, and there’s one point that’s really sticking with me.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L681"
+  },
+  {
+    "key": "rockandroll_289b735f",
+    "original": "What’s on your mind, [pen]?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L682"
+  },
+  {
+    "key": "rockandroll_d2501a26",
+    "original": "It’s just… I find it incredibly unlikely for you to end up in this particular universe. I mean… what are the odds? Who gets thrown into another universe that just happens to have the exact same people? There could be an infinite number of other scenarios, right? Why this one?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L684"
+  },
+  {
+    "key": "rockandroll_0943f623",
+    "original": "I can see your point. Out of countless theoretical universes, why this one with so many similarities to my original.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L685"
+  },
+  {
+    "key": "rockandroll_5820518d",
+    "original": "Even little things, like the atmosphere and biological conditions of the planet being perfectly habitable for you. You lucked out big time.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L687"
+  },
+  {
+    "key": "rockandroll_62a93ca3",
+    "original": "Maybe it wasn’t luck. Perhaps there were other versions of me that ended up in uninhabitable universes, and I happened to be the fortunate one.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L688"
+  },
+  {
+    "key": "rockandroll_402f6d79",
+    "original": "No, that idea doesn’t sit well with me. I prefer not to chalk things up to coincidence in science. I want to break this down into the simplest and most logical possibility.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L690"
+  },
+  {
+    "key": "rockandroll_116065d1",
+    "original": "Let’s begin with how you enter each universe. It’s always a [mox] casting a spell that pulls you from another reality, right?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L692"
+  },
+  {
+    "key": "rockandroll_a44d7ba4",
+    "original": "Yes, based on what I’ve learned, it requires a universe with a [mox] capable of interuniversal magic where I don’t already exist.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L693"
+  },
+  {
+    "key": "rockandroll_52756c07",
+    "original": "That already significantly reduces the number of potential universes.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L695"
+  },
+  {
+    "key": "rockandroll_317198e6",
+    "original": "Only if we assume there aren’t infinite universes.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L696"
+  },
+  {
+    "key": "rockandroll_f4826d63",
+    "original": "As I've said. If that were true, there’d surely be a universe bent on destroying all others.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L698"
+  },
+  {
+    "key": "rockandroll_1d8be1f4",
+    "original": "What if there were only a dozen similar universes, or something?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L699"
+  },
+  {
+    "key": "rockandroll_c1db6505",
+    "original": "There’s absolutely no way I’d accept that twelve universes could somehow remain so similar after trillions of years of development.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L701"
+  },
+  {
+    "key": "rockandroll_b947333b",
+    "original": "Hold on… What you just said reminded me of something important. The mare who first showed me the mirrors in the castle taught me something called ‘boundary’ theory.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L702"
+  },
+  {
+    "key": "rockandroll_d7135d99",
+    "original": "It’s a theory that could challenge yours and consistently explain my existence.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L703"
+  },
+  {
+    "key": "rockandroll_7c531432",
+    "original": "Is that so? Sounds like we should track down this lady of yours.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L705"
+  },
+  {
+    "key": "rockandroll_a0dfd0d4",
+    "original": "That’s tricky. The only connection I had with her was as the Queen’s former student. Other than that, it might be worth checking out for club in the city called ‘The Bed of Chaos.’",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L706"
+  },
+  {
+    "key": "rockandroll_dac36aa4",
+    "original": "Another lead? I’m starting to enjoy investigating all these unique characters of yours. Maybe I’ll try meeting this one myself. But first, could you tell me about this ‘boundary’ theory?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L708"
+  },
+  {
+    "key": "rockandroll_1dcc81db",
+    "original": "I was taught that there’s a boundary coefficient that determines the similarity between two universes. The closer this coefficient is to one, meaning nearly identical, the easier it is for these two universes to interact.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L709"
+  },
+  {
+    "key": "rockandroll_4e476dcf",
+    "original": "Therefore, this universe can only interact with others that are similar. That’s why the same people keep appearing in every universe I visit. I’ve encountered multiple copies of many different people, and without this idea of boundaries, the chances of that happening are nearly nonexistent.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L710"
+  },
+  {
+    "key": "rockandroll_c905a680",
+    "original": "Ah, I see. Does this coefficient fluctuate?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L712"
+  },
+  {
+    "key": "rockandroll_1e69ff70",
+    "original": "Certainly. Universes are constantly evolving and adapting. Two universes might intersect briefly in time before diverging completely, each with its own unique past and future.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L713"
+  },
+  {
+    "key": "rockandroll_ec6ff835",
+    "original": "Like ships passing in the night... I really like this theory. But you’re not going to tell me there are still infinite universes within each boundary, are you? My ‘universe destruction’ theory still stands true.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L715"
+  },
+  {
+    "key": "rockandroll_b13251ec",
+    "original": "How could a universe capable of destroying another ever fit within our boundary, hm? We’re safe.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L716"
+  },
+  {
+    "key": "rockandroll_8c11ae0c",
+    "original": "You’ve got me there... It’s not my field of research, but I’m sure there must be a book about this somewhere on the ground floor.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L718"
+  },
+  {
+    "key": "rockandroll_a36618fc",
+    "original": "We head down to the ground floor together and start searching. Unfortunately, unlike the other tree library, this one isn’t organized by genre or alphabetically.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L726"
+  },
+  {
+    "key": "rockandroll_4464e937",
+    "original": "I’ve been wondering why this tree isn’t a public library. It seems odd to keep such a large and expensive structure solely as a home.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L727"
+  },
+  {
+    "key": "rockandroll_7724d6b6",
+    "original": "A public library, huh? That does sound nice, but who would have the time to maintain something like that?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L729"
+  },
+  {
+    "key": "rockandroll_6749d037",
+    "original": "You worked there part-time for a few hours a day, that’s all.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L730"
+  },
+  {
+    "key": "rockandroll_6211a747",
+    "original": "And I suppose the library was free, so who exactly paid me for that?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L732"
+  },
+  {
+    "key": "rockandroll_8ed10622",
+    "original": "The castle supported the library, of course. It viewed the sharing of knowledge as essential to society, and [lil] was actually positioned as a political representative of the suburbs.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L733"
+  },
+  {
+    "key": "rockandroll_04452928",
+    "original": "Now that’d be nice. Unfortunately, the focus of this city, the Queen, and even 'our' [lil] seems more inward and self-focused…",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L735"
+  },
+  {
+    "key": "rockandroll_f46b395f",
+    "original": "But it’s not purely greed. Everyone is struggling, so those who have the means to accumulate resources will do so until they feel secure enough to share.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L737"
+  },
+  {
+    "key": "rockandroll_537d9319",
+    "original": "It’s not pleasant, but it’s a reality of society. Those who are struggling themselves can’t always help those in greater need until they’re on stable ground. It often leads to competition for limited resources.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L739"
+  },
+  {
+    "key": "rockandroll_431a9220",
+    "original": "I’m a student myself, and with the way the world is going, I’m grateful that education is still valued by the Queen, instead of solely focusing on the city’s defense and military.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L741"
+  },
+  {
+    "key": "mr1p1_0ff0abd3",
+    "original": "That’s quite a heavy question, but I see why you’re asking. Yes, I specialize in enchantments, which involve imbuing magical properties into objects.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L745"
+  },
+  {
+    "key": "mr1p1_aeb959e3",
+    "original": "It’s considered one of the most practically valuable fields of magic, as these enchanted relics are highly sought after by countries worldwide.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L746"
+  },
+  {
+    "key": "mr1p1_24910b01",
+    "original": "Unfortunately, it’s never as straightforward as casting a spell on an object. For reasons I couldn’t possibly explain in an hour, sometimes specific metals are required, or the spell needed is so fundamentally different that it defies initial understanding.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L747"
+  },
+  {
+    "key": "mr1p1_68da1fcc",
+    "original": "But what I can tell you is that the Arcadian Army is heavily focused on developing equipment that can naturally counter those… well, those {i}creatures{/i}.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L748"
+  },
+  {
+    "key": "mr1p1_35467cea",
+    "original": "You might already know a different version of this story. [mox] had an ambitious performance that nearly ended in disaster if [lil] hadn’t intervened.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L751"
+  },
+  {
+    "key": "mr1p1_3283bc28",
+    "original": "[lil] helped, sure, but she’s not exactly the emotionally supportive type. I empathized with [mox], so I reached out and befriended her.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L752"
+  },
+  {
+    "key": "mr1p1_8d3d2948",
+    "original": "Initially I was just trying to teach [mox] a little bit more about magic, but our chemistry ended up great due to a variety of shared experiences and interests.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L753"
+  },
+  {
+    "key": "mr1p1_9eef45f7",
+    "original": "And now look at you two, having threesomes with familiars.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L754"
+  },
+  {
+    "key": "mr1p1_455f20d0",
+    "original": "Pfft, I mean… What use is a bestie if you’re not going to eat each other out during mating season?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L756"
+  },
+  {
+    "key": "mr1p1_7a8bea3a",
+    "original": "Was the other me a bit more reserved? Hehe, well, I’ve always had an incredibly high libido outside of mating season.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L759"
+  },
+  {
+    "key": "mr1p1_b35bc8fa",
+    "original": "As you can imagine, when it comes to mating season, I’m practically drunk with lust. It’s the only reason I have enough confidence to go down on my friends.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L760"
+  },
+  {
+    "key": "mr1p1_c8d9d2f4",
+    "original": "When I’m that aroused, I can’t just lie in bed and daydream; I end up needing to act on it.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L761"
+  },
+  {
+    "key": "mr1p1_bb97767e",
+    "original": "Luckily, you’ve been a reliable source of what I’ve needed all these years, so I’ve managed to keep it under control this season.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L763"
+  },
+  {
+    "key": "mr1p1_184cc75d",
+    "original": "And you haven’t even had sex with me yet! I’m finding it hard to even focus on finding this book. Do you have any idea how nice you smell right now?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L765"
+  },
+  {
+    "key": "mr1p1_5c1141ca",
+    "original": "I don’t envy your animal instincts.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L766"
+  },
+  {
+    "key": "mr1p1_3c74bb71",
+    "original": "Maybe you would if you knew just how fucking amazing it felt to finally feel that relief after a month of being pent-up.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L768"
+  },
+  {
+    "key": "mr1p2_02861c40",
+    "original": "Everyone else I’ve met in this universe seems to be the same species, except you. The distinction between a morphling and a unicorn is subtle but significant. Maybe understanding your past could shed light on this.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L773"
+  },
+  {
+    "key": "mr1p2_9ad90680",
+    "original": "I barely know what a morphling is… I do know their Queen was wiped out a few hundred years ago though. That’s long before my time.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L775"
+  },
+  {
+    "key": "mr1p2_dd7a69cb",
+    "original": "I think that the morphling Queen had the ability to transform creatures of other species into morphlings. So, in this reality, your ancestors must have escaped that fate.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L776"
+  },
+  {
+    "key": "mr1p2_383cc4bb",
+    "original": "Transformation into a morphling? That’s a bit unsettling to think about, but I suppose it’s possible.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L778"
+  },
+  {
+    "key": "mr1p2_7513cab3",
+    "original": "As for my background, I’ve lived in Arcadia all my life. Raised by loving parents who managed to make ends meet. I went to college, and… now I’m… Is this…?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L780"
+  },
+  {
+    "key": "mr1p2_71c39671",
+    "original": "[pen] discovers something in an old box next to a bookshelf. She pulls out a red dog collar and gives me a bemused look.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L781"
+  },
+  {
+    "key": "mr1p2_e53b248a",
+    "original": "Just how naughty was I when I was a morphling?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L783"
+  },
+  {
+    "key": "mr1p2_8c5b4e9f",
+    "original": "{i}Naughty{/i}? Well, you did trick me and attempt to enslave all of Arcadia.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L784"
+  },
+  {
+    "key": "mr1p2_5ddb39b6",
+    "original": "Whoa! That’s way worse than I expected! I was just trying to start dirty talking.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L786"
+  },
+  {
+    "key": "mr1p2_50c76b9b",
+    "original": "Does this have any relation to the dog collar?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L787"
+  },
+  {
+    "key": "mr1p2_722edb5d",
+    "original": "She flashes me a wink and guides me to a sneaky corner on the ground floor where a couch sat.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L792"
+  },
+  {
+    "key": "mr1p2_49b52cf6",
+    "original": "It could… if that’s what you want~",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L794"
+  },
+  {
+    "key": "mr1p2_88e7a15d",
+    "original": "The collar was simple yet striking—a plain red leather circle with a silver clasp. What drew my attention most was the engraving on the front: 'Property Of...' left intentionally blank. Finishing my inspection, she tilted her head, raising an eyebrow curiously.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L795"
+  },
+  {
+    "key": "mr1p2_1be19572",
+    "original": "Well? Do you want me to be your naughty bitch?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L797"
+  },
+  {
+    "key": "mr1p2_fec7ef7e",
+    "original": "Her words sent a thrill through me. Was this dignified mare offering really herself up as a pet? She certainly has the libido to back it up. Handing me the collar, the decision is left up to me.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L798"
+  },
+  {
+    "key": "mr1p2_712a6026",
+    "original": "[pen] turned around and lifted her hair, exposing the back of her neck. Carefully, I wrapped the collar around her throat, fastening it snugly but not too tight. She turned back to face me, her eyes dark with anticipation.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L821"
+  },
+  {
+    "key": "mr1p2_2da1c531",
+    "original": "How does it feel?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L822"
+  },
+  {
+    "key": "mr1p2_f136d55f",
+    "original": "I feel… different. Excited. It's perfect…",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L824"
+  },
+  {
+    "key": "mr1p2_08957e71",
+    "original": "I couldn't resist any longer. Leaning in and kissed her deeply, my hands gripping the leash as I pulled her closer. She responded eagerly, her tongue tangling with mine in a passionate dance.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L827"
+  },
+  {
+    "key": "mr1p2_ded3045d",
+    "original": "When we finally broke apart, we were both breathless. [pen] took a step back, her eyes never leaving mine as she slowly sank to her knees and in front of my growing erection.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L834"
+  },
+  {
+    "key": "mr1p2_0ee52ab8",
+    "original": "That’s okay. We all have our own tastes. But I have something else that I’m sure you’d love~",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L837"
+  },
+  {
+    "key": "mr1p2_37751cb5",
+    "original": "[pen] took a step back, her eyes never leaving mine as she slowly sank to her knees and in front of my growing erection.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L844"
+  },
+  {
+    "key": "mr1p2_6c68632b",
+    "original": "All you have to do is ask, and I’ll do anything you want me to~",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L845"
+  },
+  {
+    "key": "mr1p2_428809b3",
+    "original": "Aahh, but how am I supposed to concentrate with you in the room. Please, indulge me a small amount, and I’ll devote my undivided attention to you.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L852"
+  },
+  {
+    "key": "mr1p2_df4a8fb8",
+    "original": "I’ll even let you put it inside~",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L853"
+  },
+  {
+    "key": "mr1p2_26492a2e",
+    "original": "Sorry, [pen]. I’m feeling a little worn out right now.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L858"
+  },
+  {
+    "key": "mr1p2_ec2803ae",
+    "original": "Uuuhhh… I was going to let you fuck me too… It’s fiiinnee. I’ll summon a familiar later.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L859"
+  },
+  {
+    "key": "mr1p2_7f5220ef",
+    "original": "Without breaking eye contact, she pressed her breasts together and wrapped them around my length.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L861"
+  },
+  {
+    "key": "mr1p2_9f313f34",
+    "original": "The sensation was incredible. Her soft, warm flesh enveloped me, and I let out a low groan of pleasure. I tightened my grip on the leash, feeling a surge of control that was both exhilarating and stimulating.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L863"
+  },
+  {
+    "key": "mr1p2_b86ef4f1",
+    "original": "The sensation was incredible. Her soft, warm flesh enveloped me, and I let out a low groan of pleasure.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L865"
+  },
+  {
+    "key": "mr1p2_eeccfc1e",
+    "original": "[pen] began to move, sliding her breasts up and down my shaft in slow, deliberate strokes. Her eyes stayed locked on mine, a mixture of submission and desire in their depths. I could feel every inch of her against me: her soft fur, the subtle curve of her body, the way she moved with such grace and confidence.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L875"
+  },
+  {
+    "key": "mr1p2_1c8c386d",
+    "original": "Good girl. Keep going, just like that.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L877"
+  },
+  {
+    "key": "mr1p2_a023c2a8",
+    "original": "Mmhhh, your breasts are perfect! Keep going!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L879"
+  },
+  {
+    "key": "mr1p2_61d56cd4",
+    "original": "She moaned softly in response, the sound vibrating through her chest and adding to the sensation. I couldn't take my eyes off her, mesmerized by the sight of her pleasuring me with such dedication.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L880"
+  },
+  {
+    "key": "mr1p2_aa4ad6bc",
+    "original": "I tugged lightly on the collar, and she looked up at me, her expression one of pure submission.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L882"
+  },
+  {
+    "key": "mr1p2_70759330",
+    "original": "You’re my naughty bitch from now on. Don’t forget that.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L883"
+  },
+  {
+    "key": "mr1p2_8b01e79c",
+    "original": "Yes, master.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L884"
+  },
+  {
+    "key": "mr1p2_4eea2502",
+    "original": "She looked up at me, her face practically radiating lust.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L886"
+  },
+  {
+    "key": "mr1p2_2e9628c4",
+    "original": "I still can’t believe how horny you get.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L887"
+  },
+  {
+    "key": "mr1p2_050a8a67",
+    "original": "Hehehe, a cute man that’s smart too? Maybe you’re just sexier than you realize.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L888"
+  },
+  {
+    "key": "mr1p2_9403a572",
+    "original": "[pen] increased her pace, her breasts moving faster and faster along my length. I could feel myself getting closer, the pressure building with each stroke.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L889"
+  },
+  {
+    "key": "mr1p2_e6d05a0b",
+    "original": "I tightened my grip on the collar again, the leather digging into her neck just enough to remind us both of the power dynamic.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L891"
+  },
+  {
+    "key": "mr1p2_08a39333",
+    "original": "Nngghh, if you keep going like that, I’m going to cum soon!",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L892"
+  },
+  {
+    "key": "mr1p2_7020fdcd",
+    "original": "I warned her, my breath coming in ragged gasps, and [pen] didn't slow down, her movements becoming even more determined.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L893"
+  },
+  {
+    "key": "mr1p2_70e3be29",
+    "original": "Do it! Come for your little bitch, Master!",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L895"
+  },
+  {
+    "key": "mr1p2_1dafe478",
+    "original": "Yes! Cum for me, [mc]!",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L897"
+  },
+  {
+    "key": "mr1p2_c7897034",
+    "original": "That was all it took. With a final, shuddering thrust, I exploded, my release spilling over her breasts in hot, thick streams.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L902"
+  },
+  {
+    "key": "mr1p2_6fb72313",
+    "original": "She moaned in delight, continuing to move until I was completely spent.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L907"
+  },
+  {
+    "key": "mr1p2_66a5403f",
+    "original": "But as I caught my breath, I noticed a gleam in [pen]’s eyes that told me she wasn’t done quite yet. She licked her lips, her face flushed with excitement.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L910"
+  },
+  {
+    "key": "mr1p2_25ad4081",
+    "original": "Mmmhh… Good girl. That was exceptional, and I think you deserve a reward.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L912"
+  },
+  {
+    "key": "mr1p2_5fbfb391",
+    "original": "{i}Pant, pant{/i} You’re amazing, but I think it’s time you got to have a little fun too.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L914"
+  },
+  {
+    "key": "mr1p2_32383ad6",
+    "original": "Would you be interested in taking it to the next level?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L915"
+  },
+  {
+    "key": "mr1p2_5af23fe7",
+    "original": "What did you have in mind?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L916"
+  },
+  {
+    "key": "mr1p2_cc9cd6f5",
+    "original": "I’ve never done this before, but… I really want you to tie me up and have your way with me.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L926"
+  },
+  {
+    "key": "mr1p2_9665a635",
+    "original": "The idea sent a jolt of excitement through me. I had dabbled in bondage before, but hearing [pen] express such a desire was something entirely different. I nodded, feeling a thrill of anticipation.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L965"
+  },
+  {
+    "key": "mr1p2_ba56872c",
+    "original": "I’d love to",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L966"
+  },
+  {
+    "key": "mr1p2_839d5854",
+    "original": "She smiled, biting her lip as she stood and walked over to the box the collar was in, retrieving a length of rope and handing it to me. I took the rope and led her back over to the couch.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L968"
+  },
+  {
+    "key": "mr1p2_d05ea38b",
+    "original": "Get on your belly.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L969"
+  },
+  {
+    "key": "mr1p2_df95ccd2",
+    "original": "I instructed, my voice firm but gentle. [pen] complied eagerly, positioning herself with her belly against the couch, her ass raised invitingly, and her arms behind her back.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L970"
+  },
+  {
+    "key": "mr1p2_7931388d",
+    "original": "I started by wrapping the rope around her wrists, securing them together tightly but not too tight. I then wound the rope around her torso, creating a harness that pressed firmly against her arms and chest.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L975"
+  },
+  {
+    "key": "mr1p2_e8c9e2b8",
+    "original": "She let out a soft moan as the ropes tightened around her, her body shivering with anticipation.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L976"
+  },
+  {
+    "key": "mr1p2_fef8f002",
+    "original": "Ooohhhh… I can’t believe how wet I’m getting right now! I knew I’d enjoy this, but… mmphhh… I didn’t realize how much.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L977"
+  },
+  {
+    "key": "mr1p2_6825c1ae",
+    "original": "I finished tying her up, making sure the knots were secure. She was completely at my mercy, and the sight of her bound and helpless sent a surge of desire through me.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L978"
+  },
+  {
+    "key": "mr1p2_16b646b2",
+    "original": "Awh, worth a shot~ At the very least, I know you’ll definitely like.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L982"
+  },
+  {
+    "key": "mr1p2_c60df9cf",
+    "original": "Turning around on the couch, she laid down and lifted her butt up, her tail flickering out the way and revealing her dripping wet pussy.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L987"
+  },
+  {
+    "key": "mr1p2_55865747",
+    "original": "With her butt exposed, I couldn't resist running my hands over her fluffy, soft fur. She squirmed beneath my touch, her moans growing louder as I caressed her. I took my time, savoring the sensation of her body trembling under my hands.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L988"
+  },
+  {
+    "key": "mr1p2_1982d06f",
+    "original": "You're so beautiful like this, pet.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L990"
+  },
+  {
+    "key": "mr1p2_49fa86c8",
+    "original": "She looked back at me, her eyes filled with lust and her voice a breathy whisper.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L991"
+  },
+  {
+    "key": "mr1p2_50c50667",
+    "original": "Please, master… Have your way with me~",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L992"
+  },
+  {
+    "key": "mr1p2_84877bbb",
+    "original": "You look so beautiful from behind.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L994"
+  },
+  {
+    "key": "mr1p2_03cca703",
+    "original": "Heh, don’t just stare… Have your way with me~",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L995"
+  },
+  {
+    "key": "mr1p2_da071f11",
+    "original": "I didn't need any more encouragement. I positioned myself behind her, my erection hard and ready. I teased her entrance with my tip, eliciting a gasp from her.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L996"
+  },
+  {
+    "key": "mr1p2_0281fc87",
+    "original": "Is this what you want?",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L997"
+  },
+  {
+    "key": "mr1p2_3fd55125",
+    "original": "Nngghh… Yes! I want it so bad!",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L998"
+  },
+  {
+    "key": "mr1p2_dec4fa1b",
+    "original": "I thrust into her in one smooth motion, filling her completely. She cried out in pleasure, her body arching against the [gent1]. The feeling of her tight, wet heat around me was almost too much to bear.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1001"
+  },
+  {
+    "key": "mr1p2_d084c53e",
+    "original": "I began to move, my thrusts steady and deep. Each movement elicited a moan from [pen], her body straining against the [gent1] as she met my rhythm. ",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1012"
+  },
+  {
+    "key": "mr1p2_3ca0399b",
+    "original": "And I grabbed hold of the collar around her neck, using it to pull her back against me with each thrust, choking her and slightly reducing her airflow.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1014"
+  },
+  {
+    "key": "mr1p2_e979ddee",
+    "original": "The sight of her bound and writhing in pleasure was exhilarating. I could feel her tightening around me; her moans growing more frantic as she neared her climax. I increased my pace, driven by the sound of her pleasure and the feeling of her body responding to mine.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1015"
+  },
+  {
+    "key": "mr1p2_d5e6999e",
+    "original": "Good girl, you’re doing so well… Mmmhh… I love seeing this side of you. Such a beautifully intelligent woman, reduced to a quivering mess.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1017"
+  },
+  {
+    "key": "mr1p2_512843e1",
+    "original": "Mmmhh… I love seeing this side of you. Such a beautifully intelligent woman, reduced to a quivering mess.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1019"
+  },
+  {
+    "key": "mr1p2_4a7051df",
+    "original": "Her response was a wordless cry of pleasure, her body shaking with the intensity of her orgasm.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1020"
+  },
+  {
+    "key": "mr1p2_dcee0894",
+    "original": "The sight and sound of her climaxing pushed me over the edge, and with a final, powerful thrust, I reached my own release, filling her with my seed.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1026"
+  },
+  {
+    "key": "mr1p2_bd0c0032",
+    "original": "We stayed like that for a moment, both of us catching our breath.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1035"
+  },
+  {
+    "key": "mr1p2_7a692f00",
+    "original": "That was incredible…",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1036"
+  },
+  {
+    "key": "mr1p2_c91a2969",
+    "original": "I gently untied the ropes, freeing her from her bindings. She turned to face me, a satisfied smile on her lips.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1040"
+  },
+  {
+    "key": "mr1p2_abc6aeb9",
+    "original": "I pulled her into my arms, kissing her tenderly. [pen] snuggled closer, her eyes closing as she rested against me.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1042"
+  },
+  {
+    "key": "mr1p2_6d2ac42d",
+    "original": "I can't wait to see what we’ll do next~",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1052"
+  },
+  {
+    "key": "mr1p2_46a62815",
+    "original": "Hahaha, I can’t believe you.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1053"
+  },
+  {
+    "key": "mr1p2_c2fda49e",
+    "original": "What? Did I say something funny?",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1055"
+  },
+  {
+    "key": "mr1p2_64101005",
+    "original": "It’s just… You’re so horny that even though we just had sex, you’re already imagining and anticipating the next time.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1056"
+  },
+  {
+    "key": "mr1p2_580d1966",
+    "original": "Oops, hehe!",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1058"
+  },
+  {
+    "key": "mr1p2_3fcad86b",
+    "original": "But you’re right. I can’t wait to see what kind of mischief we’ll get up to next.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1059"
+  },
+  {
+    "key": "pen1skip_f8e6e45f",
+    "original": "{i}Phew{/i} ... Well, I think finding a book on this ‘boundary’ theory is a lost cause.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1069"
+  },
+  {
+    "key": "pen1skip_4b0434b0",
+    "original": "Instead, I’ll try to locate this lady you mentioned. Surely, finding a former student of the Queen won’t be too challenging while living with the current student.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1071"
+  },
+  {
+    "key": "pen1skip_f232cb72",
+    "original": "I still can’t thank you enough for everything you do for me, [pen].",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1072"
+  },
+  {
+    "key": "pen1skip_3a188147",
+    "original": "I already told you, Master, I’ll do anything you want me to~",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1075"
+  },
+  {
+    "key": "pen1skip_3efed952",
+    "original": "To be fair, I’m benefiting from this too. Your situation has me so curious that I want to meet this girl myself and probe her mind.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1077"
+  },
+  {
+    "key": "pen1skip_c2fe8979",
+    "original": "With that settled, [pen] and I part ways, and I head back to [mox]’s apartment before it gets too late.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1079"
+  },
+  {
+    "key": "pen1skip_38e72dde",
+    "original": "I was lounging on the couch when [mox] returned from a performance, looking as confident as ever, her usual smirk playing on her lips.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1083"
+  },
+  {
+    "key": "pen1skip_6cae1e71",
+    "original": "Well, well… Judging by your messy hair, you must have had quite a day. Care to share the details?",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1085"
+  },
+  {
+    "key": "pen1skip_24ae7967",
+    "original": "You wouldn’t believe it if I told you. Buuuut... since you asked, let’s start with [lil].",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1086"
+  },
+  {
+    "key": "pen1skip_adc9e9f7",
+    "original": "This ought to be good!",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1088"
+  },
+  {
+    "key": "pen1skip_23bcd2f8",
+    "original": "[lil] literally cloned herself so she could watch me fuck it. She was supposed to watch and record data… or something. Her experiments have always been a little crazy.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1089"
+  },
+  {
+    "key": "pen1skip_1b6eba15",
+    "original": "Fuck a clone!? What did the clone say? I can’t imagine even a cloned version of that dork would agree to that.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1091"
+  },
+  {
+    "key": "pen1skip_3411e859",
+    "original": "Well, this clone was something else—far more outgoing. She really encouraged [lil] to be more open and adventurous. It was like watching [lil] discover a whole new side of herself.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1093"
+  },
+  {
+    "key": "pen1skip_f6d4ca8e",
+    "original": "Ooohhh…? Like a reflection of her true, deepest, darkest desires? Hoho, this is pretty juicy…",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1095"
+  },
+  {
+    "key": "pen1skip_5ac4585b",
+    "original": "The clone was persuasive, and pushed [lil] to try things she never would have considered on her own.... I ended up fucking the clone on top of [lil].",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1096"
+  },
+  {
+    "key": "pen1skip_69abba05",
+    "original": "Pfft… So… She cucked herself?",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1098"
+  },
+  {
+    "key": "pen1skip_3991c376",
+    "original": "Yup, technically she did.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1099"
+  },
+  {
+    "key": "pen1skip_b00ffddb",
+    "original": "I didn't agree to have sex with the clone. That whole situation felt a bit too weird.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1101"
+  },
+  {
+    "key": "pen1skip_cc5fed2b",
+    "original": "Hmm, yeah I agree.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1103"
+  },
+  {
+    "key": "pen1skip_fd570a63",
+    "original": "And I assume you visited the lovely [pen] while you were there.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1105"
+  },
+  {
+    "key": "pen1skip_c138cf99",
+    "original": "She was like a force of nature. We were trying to do some research but she couldn't focus at all.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1106"
+  },
+  {
+    "key": "pen1skip_ef7e29ea",
+    "original": "Aye, that's how heat is sometimes. Next time, I’ll have to join you. She doesn’t know I’ve lost my virginity yet, after all.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1108"
+  },
+  {
+    "key": "pen1skip_a7ac8516",
+    "original": "Although it’s pretty obvious~",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1109"
+  },
+  {
+    "key": "pen1skip_a3946468",
+    "original": "Pfft… What would you do if you had us both to yourself again? You could do anything you wanted~",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1111"
+  },
+  {
+    "key": "pen1skip_882e58ff",
+    "original": "Hmm… I think I’d make her spread your pussy out and rub it while I fucked you. Then after I finish inside, I’d make you sixty-nine, so she’s licking your pussy while it’s dripping with cum. She’d be on top, so I can fuck her, and you’d have a direct view of my cock sliding inside from below.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1112"
+  },
+  {
+    "key": "pen1skip_da384820",
+    "original": "I turn back to a flustered [mox] with a wide blush.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1114"
+  },
+  {
+    "key": "pen1skip_e43ec9f1",
+    "original": "Uhm, oh my goodness…",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1115"
+  },
+  {
+    "key": "pen1skip_443b5ac6",
+    "original": "Do you… uh, want to go have sex right now?",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1117"
+  },
+  {
+    "key": "pen1skip_48ff6a5e",
+    "original": "You didn’t have to ask.",
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1118"
+  },
+  {
+    "key": "pen1skip_a20cefa7",
+    "original": "...",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1120"
+  }
+]

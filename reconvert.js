@@ -46,7 +46,7 @@ translate chinese ${key}:
     new "${escape(translation) ?? ''}"\n`
       }
     }
-    fs.writeFileSync(`game/tl/chinese/${file}`, result)
+    fs.writeFileSync(`game/tl/chinese/${file}`, result + '\n')
   }
 }
 

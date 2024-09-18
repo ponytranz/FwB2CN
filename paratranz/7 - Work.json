@@ -1,0 +1,127 @@
+[
+  {
+    "key": "brothelworkmenu_82049757",
+    "original": "Today's customer is...",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L6"
+  },
+  {
+    "key": "brothelworkmenu_1ad0a4d8",
+    "original": "You're my host? Maybe I'll let myself have even more fun than planned~",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L10"
+  },
+  {
+    "key": "brothelworkmenu_fe80d757",
+    "original": "Oh my. Do take care of me, cutie.",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L16"
+  },
+  {
+    "key": "brothelworkmenu_ade3f8b8",
+    "original": "What will you talk about?",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L20"
+  },
+  {
+    "key": "randomtopicrr_282a237c",
+    "original": "Now let's see how well you know your customer!",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L41"
+  },
+  {
+    "key": "randomtopicrr_adf34008",
+    "original": "Finally, let's take her to a private booth... How are you going to please your customer?",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L46"
+  },
+  {
+    "key": "sexpositionrr_b8ccdab4",
+    "original": "That was excellent! Thank you for your service, [mc]!",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L71"
+  },
+  {
+    "key": "sexpositionrr_d219ce36",
+    "original": "(All characters have special abilities when you're hosting them, but you'll only be able to discover what they are by purchasing information from the bartender.)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L74"
+  },
+  {
+    "key": "sexpositionrr_b4a1c6b5",
+    "original": "(But here's a freebie! [mox]'s special ability: For you, it's impossible to not satisfy [mox]. Minimum satisfaction increased to 50.)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L75"
+  },
+  {
+    "key": "sexpositionrr_72913031",
+    "original": "I'll see you back at home, alright?",
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L80"
+  },
+  {
+    "key": "sexpositionrr_907d01e8",
+    "original": "This has been a pretty interesting experience! I'm glad you were my host.",
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L83"
+  },
+  {
+    "key": "sexpositionrr_a338506a",
+    "original": "(Customer Satisfaction: [satis]/[maxsatis])",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L85"
+  },
+  {
+    "key": "sexpositionrr_943b25ed",
+    "original": "(Earned $[gen1] in tips for your shift!)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L89"
+  },
+  {
+    "key": "sexpositionrr_090aa75e",
+    "original": "(You've gained a rank! New customer and upgrades unlocked!)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L94"
+  },
+  {
+    "key": "sexpositionrr_80902f53",
+    "original": "(The next rank is currently in development!)",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L96"
+  },
+  {
+    "key": "sexpositionrr_341d71b1",
+    "original": "After a four-hour shift, I return home.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L98"
+  },
+  {
+    "key": "brothelworkugprades_366c5c0a",
+    "original": "I've been keeping a close eye on your customers. Let me know if you want any information.",
+    "context": "说话人: misc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L143"
+  },
+  {
+    "key": "moxinfo_d778b94e",
+    "original": "[mox]: The {i}Great and Powerful{/i} [mox] loves talking about 'Cooking', 'Cuisine', and 'Accomplishments'.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L149"
+  },
+  {
+    "key": "moxinfo_ed0142b6",
+    "original": "The first day you met her, she could have given you a blowjob, and you ate pizza together. She sold her wagon to [rosa]. Her most sensitive body part are her nipples, she doesn't need to masturbate because you're around, and she's turned on by loving sex.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L150"
+  },
+  {
+    "key": "moxinfo_1f0565cb",
+    "original": "Her favourite sexual acts are vanilla, romantic positions, particularly ones with eye contact, because she likes to look at you. Highlights include 'Missionary', 'Cowgirl', 'Spooning'.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L151"
+  },
+  {
+    "key": "moxinfo_4717f0ce",
+    "original": "Finally, her special ability: She likes you so much that her satisfaction won't go lower than 50.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L152"
+  },
+  {
+    "key": "peninfo_f3f742a2",
+    "original": "[pen]: Loves talking about 'Books', 'TV', 'Concerts', and 'Philosophy'.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L158"
+  },
+  {
+    "key": "peninfo_b2e3f496",
+    "original": "This girl was a morphling in your previous universe, and she studies enchantments here too. Her favourite genre of music is indie, and she can play the bass guitar. She's a kinky one, the first sex act she could perform on you here was a blowjob. She loves being choked, and consistently masturbates three times a day even outside of heat.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L159"
+  },
+  {
+    "key": "peninfo_bdf30998",
+    "original": "Her favourite sex acts are rough ones, including: 'Edging', 'BSDM', 'FFM Threesome', 'Deep Throat', 'Spanking', 'Bondage', 'Giving/Receiving Pain', and 'Pet Play'. I told you she liked a lot of them.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L160"
+  },
+  {
+    "key": "peninfo_95a3ce73",
+    "original": "Finally, her special ability: Not only does she love a lot of sex acts, but selecting one she loves will give an additional 10 satisfaction.",
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L161"
+  }
+]
