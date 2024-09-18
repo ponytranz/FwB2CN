@@ -1,26 +1,17 @@
 ﻿label farm:
     hide screen worldmap
+    show screen vnui
     if farmroute1 == 0:
         jump farm1
     play music honeycrisptheme fadein 1
     scene bg farm4
+    if weather == 4:
+        show rain1:
+            alpha 0.1
     with d
     menu farmmenu:
-        "Work (In Development)":
-            play sound2 error
-            pass
-        "Replay Events":
-            menu:
-                "While replaying, you can return at any time using the phone."
-                "Farm Visit 1":
-                    $ gen3 = 10
-                    $ replay = 1
-                    show screen vnui
-                    call farm1 from _call_farm1
-                    $ replay = 0 
-                    jump farm
-                "Back":
-                    jump farmmenu
+        "Work":
+            jump farmwork
         "Visit [hon]":
             scene bg farm2 with d
             show hon happy
@@ -72,6 +63,18 @@
                     jump farmmenu
                 "Leave":
                     jump worldmap
+        "Replay Events":
+            menu:
+                "While replaying, you can return at any time using the phone."
+                "Farm Visit 1":
+                    $ gen3 = 10
+                    $ replay = 1
+                    show screen vnui
+                    call farm1 from _call_farm1
+                    $ replay = 0 
+                    jump farm
+                "Back":
+                    jump farmmenu
         "Leave":
             jump worldmap
     jump farmmenu
@@ -143,7 +146,7 @@ label farm1:
     "Why is there a glass pane up there anyway? You know what? This is just one of those situations where I won’t question it."
     mc "My name’s [mc]. I’m here to talk to your sister."
     show blossom1a e2 with d
-    blo "I’m [blo]! {i}Yawn!{/i} We were just finishing up here a few moments ago, whenv [hon] said she’s –"
+    blo "I’m [blo]! {i}Yawn!{/i} We were just finishing up here a few moments ago, when [hon] said she’s –"
     show blossom1a e1 with d
     blo "Hold on a second… C-Can’t you see my butt from down there?!"
     mc "Uhm… A little…"
@@ -178,7 +181,7 @@ label farm1:
     blo "Exhausted, yeah. My sis and I work here from sunrise to sunset. Sometimes I’m so tired by the evening that I can barely think straight."
     mc "Wait, you’re a farmer too?"
     show blo awkward with d
-    blo "Unfortunately, yes... I don't find it particularly satisfying, but that's the family business, and we needs all the hands we can get here to try and reach our quota."
+    blo "Unfortunately, yes... I don't find it particularly satisfying, but that's the family business, and we need all the hands we can get here to try and reach our quota."
     "[blo] was always passionate about music and art more than farming and business management, so it’s a shame to see her potential held back..."
     show blo angry with d
     blo "Especially recently, work has really been kicking my butt."
@@ -694,4 +697,7 @@ label farm1:
     $ blomsg1 = 1
     $ unread += 1
     $ unreadblo += 1
+    jump newday
+
+label farm2:
     jump newday

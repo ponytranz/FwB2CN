@@ -9,12 +9,12 @@
         "Yet here he is, a stark reminder of the harsh realities that permeate this world."
         menu:
             "Monies: $[money]"
-            "Hand the beggar 20 Monies":
+            "Hand the beggar $20":
                 $ money -= 20
                 $ event1 = 3
                 "I decide to extend a generous hand to the homeless stallion. I reach into my bag and retrieve 20 monies, an offering that could provide several days of relief."
                 "The stallion bows and thanks me profusely."
-            "Give the beggar 2 Monies":
+            "Give the beggar $2":
                 $ money -= 2
                 $ event1 = 2
                 "My heart urges me to help, but practical considerations temper my altruism. I am also technically homeless and surviving by the kindness of others. At the very least, I want to pass some of that forward."
@@ -176,7 +176,7 @@
                 show ros laughing 
                 $ textbox = 1
                 with d
-                "I smiled as I watched [rosa] bounce up, her tag wagging wildly."
+                "I smiled as I watched [rosa] bounce up, her tail wagging wildly."
                 mc "Haha, I must admit, I was not expecting my day to go like this."
                 mc "It’s tragic to part, but I believe we both have places to be."
                 show ros happy with d
@@ -201,67 +201,96 @@
         #Marketplace Distraction
         "As I navigate through a bustling marketplace, far larger and more exhausting than any I've visited before, I spot exactly what I'm looking for."
         "Donuts! [mox] loves these, so I'll buy some as a treat."
-        "As I make my purchase, the distracted merchant accidentally hands me a 20 monie bill back instead of 5. I'm briefly excited by this realization, but..."
+        "As I make my purchase, the distracted merchant accidentally hands me a $20 bill back instead of $5. I'm briefly excited by this realization, but..."
         menu:
             "Monies: $[money]"
-            "Keep the extra change (+15 M)":
+            "Keep the extra change (+$15)":
                 $ money += 15
                 $ event4 = 1
                 "Temptation tugs at me. After all, no one would notice. With the marketplace this busy, the merchant's coffers must be overflowing."
                 "With a subtle glance around, I discreetly pocket the extra change, rationalizing it as a stroke of good luck amid the chaos."
             "Return the extra change":
-                "My sense of honesty compels me to do the right thing. Despite the allure of extra coins, I gently alert the merchant to the mistake and exchange the 20 bill for the correct amount."
-                "As a bonus for the honesty, he thanks me, hands me a crumpled stack of three 1 monie bills then continues frantically working."
+                "My sense of honesty compels me to do the right thing. Despite the allure of extra coins, I gently alert the merchant to the mistake and exchange the $20 bill for the correct amount."
+                "As a bonus for the honesty, he thanks me, hands me a crumpled stack of three $1 bills then continues frantically working."
                 $ money += 3
                 $ event4 = 2
     elif dayevent == 5:
-        #$ dayevent += 1
-        #This is the highest event level for version 0.1 since Chloe's standing art is unfinished
+        $ dayevent += 1
         jump blankday
     elif dayevent == 6:
         $ dayevent += 1
         play music citytheme fadein 3
         scene bg city3 with d
-        #Lost Wallet
         "Strolling down a bustling street, I notice something on the pavement, partially obscured by fallen leaves."
-        "When I bend down to investigate, my heart skips a beat—I’ve found a lost wallet."
-        "Inside, I find crisp bills neatly tucked away. My fingers brush the smooth surface of the currency, and I count fifty monies in total. What luck!"
+        "When I bend down to investigate, my heart skips a beat—I’ve found a lost bag."
+        "Inside, I find crisp bills neatly tucked away. My fingers brush the smooth surface of the currency, and I count $100 in total. What luck!"
         "But then, I find something unexpected—a slip of paper with a nearby return address, important cards, and a small photo of a mare with purple sunglasses."
         mc "Aaahhh… Damn…"
-        "Returning the wallet means giving up its contents…"
+        "Returning the bag means giving up its contents…"
         menu:
-            "Return the Wallet":
+            "Return the Bag":
                 "In the end, I know what I must do. With a heavy sigh, I resolve to do the right thing, no matter how difficult."
-                "Clutching the wallet tightly, I make my way to the nearby address and return it to its rightful owner."
-                chl "Oh! Thank you! Thank you so much!"
+                "Clutching the bag tightly, I make my way to the nearby address and return it to its rightful owner."
+                show cla happy2 with d
+                cla "Oh! Thank you! Thank you so much!"
                 mc "Ah… You’re!"
-                menu:
-                    "What was her name?"
-                    "Default: Chloe":
-                        $ chl = "Chloe"
-                    "Custom":
-                        $ chl = renpy.input("What was her name?")
-                        if chl == "":
-                            $ chl= "Chloe"
-                        $ chl = chl.strip()
-                chl "Recognize meeve? A brothel regular, perhaps?"
-                "She slips me a 20 M note and winks."
-                chl "I’ll certainly recognize you, so if you ever see me there and want a special, I’ll give you a discount~" 
-                "(Gained +20 M and a discount on at the brothel!)"
-                $ money += 20
-                $ event3 = 1   
-            "Keep the Wallet (+50 M)":
-                "With a swift motion, I slip the wallet into my satchel. The weight fills my bag, a tangible reminder of the wealth now in my possession."
-                "I continue down the street, wondering what I’ll do with all that money."
+                show cla wink with d
+                cla "My goodness, I thought I'd lost this! My cards, IDs, photos! I don't know what I would have done if..."
+                if bclairemet == 0:
+                    cla "{i}Sigh{/i} Thank you, so much."
+                    $ clairenamed = 1
+                    menu:
+                        "I think I recognize her. What was her name?"
+                        "Default: Claire":
+                            $ claire = "Claire"
+                        "Custom":
+                            $ claire = renpy.input("What was her name?")
+                            if claire == "":
+                                $ claire= "Claire"
+                            $ claire = claire.strip()
+                    show cla horny with d
+                    cla "Recognize me? A brothel regular, perhaps?"
+                    mc "Not a regular, but curious."
+                else:
+                    show cla horny with d
+                    cla "Oh! You're... [mc]! The new host!"
+                    cla "Thank you, so much, [mc]. This really is a stroke of good fortune." 
+                show cla wink with d
+                "She slips me $50 note and winks."
+                cla "I’ll certainly remember this..."
+                cla "Say, I offer a special service at the brothel... If you're interested, you should come see me."
+                cla "Having you as a customer instead of... Well... Let's just say I'm offering a hefty discount~"
+                play sound2 item
+                "(Gained +$50 and a huge discount on [cla]'s services!)"
                 $ money += 50
+                $ event3 = 1   
+                hide cla with d
+            "Keep the Bag (+$100)":
+                "With a swift motion, I slip the bag into my own. The weight fills it, a tangible reminder of the wealth now in my possession."
+                "I continue down the street, wondering what I’ll do with all that money."
+                $ money += 100
                 $ event3 = 2
+    elif dayevent == 7:
+        #$ dayevent += 1
+        jump blankday
     else:
         label blankday:
-            "I spent the morning researching my leads and planning my next moves."
+            if gen1 == 500:
+                "In the morning, I didn't feel like doing anything at all."
+            else:
+                "I spent the morning researching my leads and planning my next moves."
     if day >= 2 and moxpen2 == 0 and penmsg1 == 0:
         $ penmsg1 = 1
         $ unread += 1
         $ unreadpen += 1
+    if brothelroute2 == 1 and rubmsg1 == 0:
+        $ rubmsg1 = 1
+        $ melmsg2 = 1
+        $ unread += 2
+        $ unreadmel += 1
+        $ unreadrub += 1
+        $ melbusy = 1
+        $ rubbusy = 1
     return
 label nightevent:
     if nightevent == 0:
@@ -338,9 +367,51 @@ label nightevent:
         show mox neutral with d
         mox "It sounds like we need to get that meeting with [aur] and fast!"
         mc "You’re right. I’ll ask her for help directly." 
+    elif nightevent == 6:
+        $ nightevent += 1
+    elif nightevent == 7:
+        $ nightevent += 1
+    elif nightevent == 8:
+        $ nightevent += 1
+        play music deep
+        scene black with dissolve
+        show space1:
+            alpha 0.5
+            linear 10 alpha 0
+            linear 11 alpha 0.8
+            repeat
+        show space2:
+            alpha 0
+            linear 12 alpha 0.8
+            linear 13 alpha 0
+            repeat
+        with dissolve
+        "You see it too, don't you?"
+        "The sky is falling."
+        show silhouette1 with sd
+        "You're doing great."
+        "Keep it up, and we can save them all."
+        scene bg moxiebedroom2
+        "Another nightmare... No, I can't pretend these are nightmares anymore. This was another message from the princess."
+        "While I might not completely understand what's happening yet, I'll put my faith in her."
+        show mox neutral with d
+        mox "Are you okay, babe?"
+        mc "Just a little faint, nothing to worry about."
+        show mox awkward with d
+        mox "You've been working so hard lately. Remember to live a little of your own life too."
+        "Live a little of my own life... Specific, carefully worded, and deeply true."
+        hide mox with d 
+        "[mox] lays back down."
+        "She never fails to impress me. In so few words, she's made me realize something crucial that I've been overlooking."
+        "I'm spending so much time and effort chasing my old life, that I never considered how it'd make those around me feel."
+        "And so what if I'm successful? I just disappear forever? How would that make [mox] feel?"
+        "Maybe... this is my life now, and I need to accept that."
+        $ gen1 = 500
     else:
         "I get into bed, and [mox] snuggles up beside me as we doze off together."
     return
+
+
 init:
     $ dayevent = 0
     $ event1 = 0
