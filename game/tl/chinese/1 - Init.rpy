@@ -4,7 +4,7 @@ translate chinese strings:
 
     # game/1 - Init.rpy:46
     old "[mcname]"
-    new ""
+    new "[mcname]"
 
     # game/1 - Init.rpy:48
     old "[moxie]"
