@@ -2,1446 +2,2024 @@
   {
     "key": "honmenu_56d123bd",
     "original": "Now you're talking!",
+    "translation": "现在你说话了！",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L30"
   },
   {
     "key": "honsexmenu_342132b2",
     "original": "I feel exhausted!",
+    "translation": "我累坏了！",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L34"
   },
   {
     "key": "honsexmenu_94e6a9d9",
     "original": "Y'all a tease!",
+    "translation": "哦，你们这群调皮鬼~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L39"
   },
   {
     "key": "honsexmenu_30b1945a",
     "original": "Y-You uhm, got my m-message, right?",
+    "translation": "你，嗯……收到我的信息了，对吧？",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L52"
   },
   {
     "key": "blosexmenu_342132b2",
     "original": "I feel exhausted!",
+    "translation": "我累坏了！",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L60"
   },
   {
     "key": "blosexmenu_7853bb79",
     "original": "Oh, okay then!",
+    "translation": "哦，那好吧！",
+    "stage": 1,
     "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L68"
   },
   {
     "key": "farm1_c1d50fc6",
     "original": "The walk to the farm feels so much longer than usual. Instead of a relatively direct path in a modest village, I’m having to take various lefts and rights through dense urban sprawl.",
+    "translation": "去农场的路感觉比平时更长。我只好在城市中左右穿行而不是像在村子里那样找一条更直的大道",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L83"
   },
   {
     "key": "farm1_8e577078",
     "original": "But once I finally get out of that cityscape, I have the glorious view of rolling hills and towering mountains as my reward. Without all the buildings in the way, I can also finally see the sunset, and it's a beautiful thing.",
+    "translation": "我终于走出了城市，蜿蜒起伏的山脉尽收眼底。落日低悬，令我心旷神怡。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L86"
   },
   {
     "key": "farm1_303fa655",
     "original": "The farm in the distance looks identical; the buildings are all in the same places. The first building I pass is the barn, and even though it’s quite late, I can hear someone shuffling inside.",
+    "translation": "远处的农村和我在那边看到的一模一样，位置丝毫无差。我经过的第一个建筑是谷仓，尽管天色渐暗，但我仍听见里面有脚步声。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L87"
   },
   {
     "key": "farm1_fcd39d80",
     "original": "Seems like a good opportunity to introduce myself, so I pop my head in.",
+    "translation": "这是见面的好机会，我走了进去。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L88"
   },
   {
     "key": "farm1_8c17572a",
     "original": "The barn is dense with a variety of farming equipment, produce, and stored materials, making it difficult to notice anyone at first, but I can still hear shuffling around.",
+    "translation": "谷仓里堆满了各种各样的农具、农产品和储料。我没看到有人，但仍然能听到周围的脚步声。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L90"
   },
   {
     "key": "farm1_374b2981",
     "original": "Hello? Is anyone there?",
+    "translation": "你好？有小马在吗？",
+    "stage": 1,
     "context": "说话人: misc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L92"
   },
   {
     "key": "farm1_9ba0ddc7",
     "original": "That sounded like it came from above! So naturally, I turn my gaze up only to spot…",
+    "translation": "声音在头顶，于是我抬头望过去——",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L93"
   },
   {
     "key": "farm1_80df1de0",
     "original": "A butt!",
+    "translation": "美臀！",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L115"
   },
   {
     "key": "farm1_980df872",
     "original": "No, not just a butt; it’s connected to someone!",
+    "translation": "啊不不不，这不单单是美臀，这是她的！",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L116"
   },
   {
     "key": "farm1_8dac4664",
     "original": "And as soon as my eyes scan upwards to her face, she spots me too.",
+    "translation": "当我继续往上看去，我们的目光交织在一起。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L119"
   },
   {
     "key": "farm1_192a3aac",
     "original": "Oh, uhm, sorry! I didn’t spot you down there!",
+    "translation": "哦！不好意思，我没注意到你在下面！",
+    "stage": 1,
     "context": "说话人: misc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L121"
   },
   {
     "key": "farm1_e4561847",
     "original": "No, no, I’m the one that should be apologizing. I came in here to greet you, but it looks like I was snooping about.",
+    "translation": "啊啊啊啊不不不该道歉的是我！我是来找你的但是这个样子我感觉我就像是在偷窥...",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L135"
   },
   {
     "key": "farm1_73e4857d",
     "original": "Hehe, I wouldn’t suspect you of something like that! You must have heard me rummaging around.",
+    "translation": "嘿嘿，我才没那样想，你一定是听到我翻东西的声音了。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L137"
   },
   {
     "key": "farm1_ff7f9abd",
     "original": "(I haven’t seen in a man in ages, and this guy just walks into the barn! Who on earth is this cutie?)",
+    "translation": "（我好久没见过雄性了！然后刚刚就进来一个！这家伙是谁？）",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L138"
   },
   {
     "key": "farm1_c660d466",
     "original": "Yeah! What are you, uhm… What are you doing up there anyway?",
+    "translation": "对啊！那你...那你在上面做什么？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L139"
   },
   {
     "key": "farm1_5ab9d009",
     "original": "She has absolutely no idea that I can see everything, does she?",
+    "translation": "她是完全不知道被我看光了吧？",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L140"
   },
   {
     "key": "farm1_d2ff9a79",
     "original": "It’s nothing. I mean, it’s a little silly, really. I like coming up here to read because this spot has a great view from the window.",
+    "translation": "没什么。我是说，好吧这有点傻我想。我喜欢到这里来读书，透过这扇窗户可以看到很美丽的景色。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L142"
   },
   {
     "key": "farm1_b8a5454d",
     "original": "Why is there a glass pane up there anyway? You know what? This is just one of those situations where I won’t question it.",
+    "translation": "那为什么上面有一片玻璃？不止这一个问题令我好奇。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L143"
   },
   {
     "key": "farm1_131ba864",
     "original": "My name’s [mc]. I’m here to talk to your sister.",
+    "translation": "我叫[mc]，我是来找你姐谈话的。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L144"
   },
   {
     "key": "farm1_f60f30ce",
     "original": "I’m [blo]! {i}Yawn!{/i} We were just finishing up here a few moments ago, whenv [hon] said she’s –",
+    "translation": "我是[blo]！{i}啊~~{/i}，我们刚刚结束工作，[hon]说她——",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L146"
   },
   {
     "key": "farm1_78f3cd1c",
     "original": "Hold on a second… C-Can’t you see my butt from down there?!",
+    "translation": "等等...你你看光我了？",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L148"
   },
   {
     "key": "farm1_cf6fb883",
     "original": "Uhm… A little…",
+    "translation": "呃……一点点……",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L149"
   },
   {
     "key": "farm1_50b6d899",
     "original": "[blo] quickly hops down, patting her butt down with a huge blush and tucking her tail between her legs.",
+    "translation": "[blo]迅速跳下来，拍拍屁股，把马尾垂到两腿之间，满脸通红。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L159"
   },
   {
     "key": "farm1_53361f7f",
     "original": "Aahhh… I’m so sorry!",
+    "translation": "啊啊啊不好意思！",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L160"
   },
   {
     "key": "farm1_9bbec7fd",
     "original": "(So embarrassing! How did I mess things up with this guy already?!)",
+    "translation": "（好尬！我怎么把事情搞砸了？）",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L161"
   },
   {
     "key": "farm1_293de083",
     "original": "I didn’t mean to – {i}Yawn!{/i} flash you like that.",
+    "translation": "我不是故意——{i}啊~~~!{/i} 让你看到的。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L163"
   },
   {
     "key": "farm1_94522e38",
     "original": "O-Oh?",
+    "translation": "啊啊？",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L168"
   },
   {
     "key": "farm1_8945b541",
     "original": "Uhm, you're not exactly hiding anything.",
+    "translation": "嗯...你也没藏着掖着。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L173"
   },
   {
     "key": "farm1_37259286",
     "original": "Good... point...",
+    "translation": "你...说得对。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L174"
   },
   {
     "key": "farm1_0939e502",
     "original": "You've been yawning a lot, a long day?",
+    "translation": "你经常整天都很困吗？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L176"
   },
   {
     "key": "farm1_cfa31067",
     "original": "Exhausted, yeah. My sis and I work here from sunrise to sunset. Sometimes I’m so tired by the evening that I can barely think straight.",
+    "translation": "对啊。我们姐妹一忙就是一整天。有时到晚上我简直累的没法思考了。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L178"
   },
   {
     "key": "farm1_4fa40f5d",
     "original": "Wait, you’re a farmer too?",
+    "translation": "等等，你也是农民？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L179"
   },
   {
     "key": "farm1_a5e2ecb6",
     "original": "Unfortunately, yes... I don't find it particularly satisfying, but that's the family business, and we needs all the hands we can get here to try and reach our quota.",
+    "translation": "很不幸...你说得对。我也不愿意，但我们这是家族产业，我们全家都必须投入进来。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L181"
   },
   {
     "key": "farm1_77f6c426",
     "original": "[blo] was always passionate about music and art more than farming and business management, so it’s a shame to see her potential held back...",
+    "translation": "比起农业和商业管理，[blo]一直对音乐和艺术充满热情，所以看到她的天赋这样被埋没使我惋惜...",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L182"
   },
   {
     "key": "farm1_ceaa4e0c",
     "original": "Especially recently, work has really been kicking my butt.",
+    "translation": "尤其是最近，这工作简直是对我屁股一顿猛踹。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L184"
   },
   {
     "key": "farm1_621e96fd",
     "original": "Maybe it's all the exercise!",
+    "translation": "也许都是锻炼的缘故！",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L188"
   },
   {
     "key": "farm1_22cae3b8",
     "original": "Genuinely, now that I look her up and down, her body does seem to be more firm and toned.",
+    "translation": "我打量了她一下。说实在的，我感觉她身材更壮实匀称了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L189"
   },
   {
     "key": "farm1_7614365d",
     "original": "A massage sounds nice! Wait, you mean on m-mah butt?!",
+    "translation": "按摩？好棒！等等，你是说我屁股？",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L192"
   },
   {
     "key": "farm1_df625131",
     "original": "The ache of the body doesn't discriminate, and neither do my massages~",
+    "translation": "劳累就按摩，从不分部位~",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L193"
   },
   {
     "key": "farm1_6e9c244e",
     "original": "M-Maybe I will take you up on that, then.",
+    "translation": "也许...也许我会接受的。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L195"
   },
   {
     "key": "farm1_1915273d",
     "original": "T-Thanks!",
+    "translation": "谢...谢谢！",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L198"
   },
   {
     "key": "farm1_42056453",
     "original": "Uhm… It was really embarrassing how you saw my butt like that!",
+    "translation": "啊啊你那样看我的屁股搞得我好尬！",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L201"
   },
   {
     "key": "farm1_4764cb4b",
     "original": "Talk about a good first impression! {i}Wink{/i}",
+    "translation": "一个超好的初印象！{i}眨眼{/i}",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L205"
   },
   {
     "key": "farm1_abd2182c",
     "original": "We're all nude here anyway, it's not a big deal.",
+    "translation": "反正我们在这都是裸体的，没什么大不了的。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L207"
   },
   {
     "key": "farm1_f5467ad7",
     "original": "Hehe, and here was me being really embarrassed! I thought I messed up.",
+    "translation": "哈哈，这下更不好意思了，我还以为是我没搞好。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L210"
   },
   {
     "key": "farm1_4387f583",
     "original": "Well, with an ass like that, it’s impossible to mess up.",
+    "translation": "你的美臀就是一切，臀即完美，完全没搞砸。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L211"
   },
   {
     "key": "farm1_9e137e45",
     "original": "I guess I didn’t mind you seeing it then… Hehe… I’m usually kind of insecure about my body.",
+    "translation": "看光也没啥，哈哈，我觉得我身材不太行...",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L213"
   },
   {
     "key": "farm1_00c7e71a",
     "original": "Insecure? I don’t think there’s anything wrong with your body.",
+    "translation": "不太行？我觉得你身材很好的。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L214"
   },
   {
     "key": "farm1_56481ab9",
     "original": "Really? You... like it?",
+    "translation": "真的？你...很喜欢？",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L216"
   },
   {
     "key": "farm1_17397311",
     "original": "I’m petite and it's clearly holding me back on the farm... I’m not big and muscular like my sister.",
+    "translation": "我太娇弱了，不适合农场....不像我姐姐那么高大健壮。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L217"
   },
   {
     "key": "farm1_afc3bfd0",
     "original": "There are plenty of guys out there that prefer your kind of body.",
+    "translation": "你这样的身材在外面很受欢迎的。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L218"
   },
   {
     "key": "farm1_138d80bb",
     "original": "You think? I thought the bigger the boobs, the better for men, or something. What do you think?",
+    "translation": "你真这么想？我感觉雄性都喜欢大奶子，你呢？",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L220"
   },
   {
     "key": "farm1_00b37739",
     "original": "Ooohh, that makes me happy!",
+    "translation": "噢噢这样说我真的很开心！",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L225"
   },
   {
     "key": "farm1_07273833",
     "original": "Aaahh, I thought so…",
+    "translation": "啊...我想也是...",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L228"
   },
   {
     "key": "farm1_b729f5d9",
     "original": "But hey, your ass {b}is{/b} big and voluptuous, [blo]. I think you’re focusing on the wrong things.",
+    "translation": "嘿，话说回来，[blo]你的屁股{b}真的{/b}很丰满性感呢。我觉得你纠结的地方错了。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L229"
   },
   {
     "key": "farm1_59eb0476",
     "original": "That’s true. Maybe I just need a little more confidence.",
+    "translation": "这倒是，说不定我只是需要更自信。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L232"
   },
   {
     "key": "farm1_c20d6cf4",
     "original": "I’m not sure who that is, but I like her thinking.",
+    "translation": "我不知道她是谁，但我喜欢她的想法。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L235"
   },
   {
     "key": "farm1_4f982839",
     "original": "There was a slight glisten between her thighs. She’s actually getting turned on!",
+    "translation": "她两腿之间微微反光，她真的很兴奋！",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L237"
   },
   {
     "key": "farm1_59091beb",
     "original": "If you want to see my b-butt again, I could, uhm... Turn around...",
+    "translation": "如果你还想看的话，我想我能...转过去...",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L239"
   },
   {
     "key": "farm1_fbbac11e",
     "original": "What would happen then?",
+    "translation": "接下来会发生什么？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L240"
   },
   {
     "key": "farm1_8f8646d7",
     "original": "I-I'm not sure... What would you like to happen?",
+    "translation": "我、我不知道，你希望发生些什么吗？",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L242"
   },
   {
     "key": "farm1_2567eb6d",
     "original": "Y-Yeah… You can.",
+    "translation": "是-是的…… 你能行。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L249"
   },
   {
     "key": "farm1_9f07ba67",
     "original": "[blo] bends over a nearby crate, not even looking back as her legs stretch downward and provide a spectacular view of her ass.",
+    "translation": "[blo]附身靠在一旁的箱子上，竟完全没有察觉到自己正伸展着的两股间所展现的曼妙风光。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L258"
   },
   {
     "key": "farm1_6f06529b",
     "original": "God, you’re so hot…",
+    "translation": "天哪，你真性感……",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L259"
   },
   {
     "key": "farm1_3282491c",
     "original": "Mmmhh… I am? T-Thank you... No one has ever said something like that to me, so it's quite a confidence boost.",
+    "translation": "嗯……真的吗？谢谢……之前可从来没人对我这么说过呢，这真的让我自信了不少。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L260"
   },
   {
     "key": "farm1_27f670cd",
     "original": "Her genitals were in clear view, and unlike before, there was now a distinct wetness. Not even cute, innocent girls like [blo] can escape their needs.",
+    "translation": "她的小穴一览无余，与之前不同，现在明显湿润了。即使是像[blo]这样纯真可爱的女孩也无法摆脱她们的需求。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L261"
   },
   {
     "key": "farm1_49814732",
     "original": "Can I touch it?",
+    "translation": "能让我摸摸吗？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L262"
   },
   {
     "key": "farm1_064a4e38",
     "original": "P-Please do…",
+    "translation": "qi-请吧……",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L263"
   },
   {
     "key": "farm1_c6e1f545",
     "original": "I step forward and spread her left cheek, causing her gooey pussy to let out an audible schlick while her body shivered at the contact. I admire her cute anus too; she really has a perfect ass.",
+    "translation": "我上前掰开她的臀瓣，伴随着她身体的颤抖和黏糊糊小穴张开的声音。我也好喜欢她可爱的菊穴；她的小屁屁真是太完美了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L265"
   },
   {
     "key": "farm1_b4d8b3c9",
     "original": "My cock was getting harder by the second. Even though I’ve just met her, I could take her right here, and she wouldn’t resist or complain.",
+    "translation": "我的肉棒马上又硬了。尽管我们才刚见面，我现在就可以把她拿下，而她也不会反抗或抱怨。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L266"
   },
   {
     "key": "farm1_124a71b5",
     "original": "She briefly peeks back and catches a glimpse of my cock, causing her to gasp. Her body language alone tells me how aroused she’s getting; she can’t stop grinding her hips.",
+    "translation": "她往后偷瞄了一眼，在瞥见我的家伙后开始娇喘了起来。我从她的肢体语言可以看出她有多兴奋；她在不停地磨蹭着她的臀部。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L267"
   },
   {
     "key": "farm1_4d6bd6a6",
     "original": "I promise I won’t put it inside. Well, maybe the tip~",
+    "translation": "我保证我不会插进去。好的，或许我可以用小龟龟～",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L268"
   },
   {
     "key": "farm1_b460e737",
     "original": "Hm? What are you?",
+    "translation": "嗯？你在干嘛呀？",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L269"
   },
   {
     "key": "farm1_a075c5bc",
     "original": "Removing my hand, I replace it with my cock instead, pressing the tip of my hard member against her ass cheeks, fighting the urge to claim her tight hole right now. She’s certainly wet enough for it.",
+    "translation": "我放开手，转而掏出我的家伙，用龟头挤压着她的臀瓣，并努力克制着想要占据她紧致小穴的冲动。她的小穴显然已经湿透了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L271"
   },
   {
     "key": "farm1_acd2ffbd",
     "original": "Oouhhhh… T-That’s… your…",
+    "translation": "噢哦…这-这是…你的…",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L272"
   },
   {
     "key": "farm1_a8393614",
     "original": "Instead, I began to rub myself against her sensitive entrance, grinding my throbbing member against her dripping wet folds.",
+    "translation": "我开始摩擦她敏感的入口，用我跳动的性器蹭着她湿淋淋的褶皱。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L273"
   },
   {
     "key": "farm1_64aaeda9",
     "original": "The heat emanating from her petite body ignited the raging fire within me, and I started furiously masturbating as my tip smushed and pushed against her virgin pussy.",
+    "translation": "她娇小的身体发出的热量点燃了我内心的烈火，我开始疯狂地自慰着，就如同我肉棒的顶端已撞上并推开她的处女之穴。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L274"
   },
   {
     "key": "farm1_40e5d1ad",
     "original": "Nnggh, you’re so wet, I feel like if I put any pressure against you at all, I’d slip straight inside!",
+    "translation": "啊哈，你湿得感觉就像如果我再用力一点，就要滑进去了!",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L275"
   },
   {
     "key": "farm1_5119b036",
     "original": "Uoohhh… [mc]…",
+    "translation": "哦...[mc]...",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L276"
   },
   {
     "key": "farm1_ab6dbc5e",
     "original": "The contact sent waves of pure ecstasy coursing through me, I relished the feeling of each movement against her.",
+    "translation": "这样的接触使我感到一阵狂喜。我细细品味着我对她的每一个动作带来的快感。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L277"
   },
   {
     "key": "farm1_7165e802",
     "original": "[blo]’s tail had begun a seductive dance, occasionally brushing against my chest or against my shaft. At this point, her whole body was shaking with pleasure.",
+    "translation": "[blo]的尾巴开始性感地舞动，偶尔刷过我的胸脯或肉棒。此时，她的全身都在因快感而战栗。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L278"
   },
   {
     "key": "farm1_d3d92dd6",
     "original": "Unable to resist the temptation, I raised my hand and spanked her firm ass, eliciting a yelp of mixed pain and pleasure.",
+    "translation": "无法再抗拒这般诱惑，我举起我的手拍在她的绷紧的屁股上，引得她发出一声混合着疼痛和快感的尖叫。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L283"
   },
   {
     "key": "farm1_c3d93ae8",
     "original": "Oooohhhhh, that was… good…",
+    "translation": "哦，这太棒了......",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L284"
   },
   {
     "key": "farm1_a6cca96d",
     "original": "Want me to do it again?",
+    "translation": "要我再来一次吗？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L285"
   },
   {
     "key": "farm1_9c60a2d0",
     "original": "Y-Yeah…",
+    "translation": "是-是的...",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L286"
   },
   {
     "key": "farm1_02873080",
     "original": "I spanked her once again, this time on the other cheek. This time the moan was almost entirely pleasure, her hips squirming with desperate need.",
+    "translation": "我又在她另一瓣屁股上拍了一巴掌。伴随着充满快感的呻吟，她的臀部随着燃烧的欲火而扭动着。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L289"
   },
   {
     "key": "farm1_dc062c52",
     "original": "You feel so damn good… I won’t last much longer!",
+    "translation": "你的感觉太好了…我坚持不了多久了!",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L292"
   },
   {
     "key": "farm1_34acce33",
     "original": "She let out a soft moan of pleasure, her body arching backward into me unconsciously. Combined with my thrusting, it causes my tip to almost slide in. Feeling the warmth of her insides on my tip for even a fraction of a second was enough to push me over the edge.",
+    "translation": "她发出一声愉快的呻吟，身体本能地朝后方拱向我。加上我的抽插，我的尖端几乎滑了进去。我的尖端感受着她那内壁的温暖，哪怕只有一瞬，也足以让我越过极限。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L293"
   },
   {
     "key": "farm1_0adec72c",
     "original": "My voice strained with desire as the overwhelming pleasure consumed me completely. I let out an earth-shattering groan as hot, thick cum spurted out the head of my cock.",
+    "translation": "随着我被强烈的快感完全吞噬，我的声音因渴望变得紧张。我发出一声惊天动地的呻吟，将浓厚的炙热精种从我的肉棒顶端射出。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L298"
   },
   {
     "key": "farm1_c3e6918a",
     "original": "Hot loads of cum painted her behind white, plenty dripping down over her anus and pussy too.",
+    "translation": "大量滚烫的精液将她的背凃成白色，相当一部分精液滴落在她的肛门和小穴上。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L303"
   },
   {
     "key": "farm1_fc3229fc",
     "original": "My orgasm raged on for almost thirty seconds before finally subsiding, leaving me panting heavily as I pulled away from her cum-soaked flank.",
+    "translation": "我的高潮持续了将近30秒才终于平息下来。我喘着粗气，从她那浸透了精液的双腿间退开。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L305"
   },
   {
     "key": "farm1_55458a07",
     "original": "{i}Pant, pant{/i} Incredible…",
+    "translation": "{i} 喘息，喘息 {/i} 难以置信……",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L306"
   },
   {
     "key": "farm1_8eb184fc",
     "original": "That felt so good, but… I can’t believe we just did that!",
+    "translation": "感觉真好，但...我不能相信我们刚刚这么做了！",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L314"
   },
   {
     "key": "farm1_830b4bf2",
     "original": "What’s so hard to believe? I couldn’t resist when I saw you.",
+    "translation": "有什么难以置信的？当我看到你时我无法抗拒。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L315"
   },
   {
     "key": "farm1_480d2983",
     "original": "Ahh… Your flattery does work on me, but… we have only just met.",
+    "translation": "啊...你的阿谀奉承确实对我有用，但...我们才刚认识。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L317"
   },
   {
     "key": "farm1_a22057dc",
     "original": "And that’s exactly why I made sure to leave a lot of the best parts for later~",
+    "translation": "这就是为什么我务必要把许多好戏留到后头~",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L318"
   },
   {
     "key": "farm1_f92f7246",
     "original": "Ohh… Who on earth are you? You just… wandered into this barn, and everything else happened so fast I could barely keep up.",
+    "translation": "哦...你到底是谁？你只是...闯入了这个谷仓，其他一切发生的都太快了，我几乎跟不上。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L320"
   },
   {
     "key": "farm1_94028a7c",
     "original": "I’m just a friend looking for [hon].",
+    "translation": "我只是一个在寻找 [hon] 的朋友。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L321"
   },
   {
     "key": "farm1_ee128c05",
     "original": "Ah, I almost forgot! She told me she was going in the shower. Go right in!",
+    "translation": "啊！我差点忘了！她跟我说她要洗澡，你现在进去就行！",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L325"
   },
   {
     "key": "farm1_fd2adc1d",
     "original": "Excellent, thank you! I’m sure we’ll see each other again soon, [blo].",
+    "translation": "太好了，谢谢你！我确信我们很快会再次见面，[blo]。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L326"
   },
   {
     "key": "farm1_841c2f2f",
     "original": "R-Right! (Uwahhh, he’s so cuteeeeee!)",
+    "translation": "好的！（啊啊啊啊他真的对我好好！）",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L328"
   },
   {
     "key": "farm1_580bff42",
     "original": "(But… Nnhhh… Even though I was so close, I didn’t get to cum… Next time, I need to be more proactive instead of just letting him do everything! I’ll show him what I can do instead of just being a good butt.)",
+    "translation": "(但是…嗯…尽管几乎就要成了，但是还是没让他射进来…下次我必须要主动出击，而不是让他把活都干完了！我会让他见识见识我的能耐，而不是只是当一个小受。)",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L330"
   },
   {
     "key": "farm1_ce617998",
     "original": "…",
+    "translation": "...",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L333"
   },
   {
     "key": "farm1_903a832c",
     "original": "In [hon]’s house, I wander around the first floor until I catch exactly where I think she might be. The upstairs shower, naturally.",
+    "translation": "在 [hon] 的房子里，我在一楼闲逛，直到我精确地找到了我认为她可能在的地方。楼上的淋浴间，不用说。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L338"
   },
   {
     "key": "farm1_d269e40c",
     "original": "I’d only be polite to knock and inform her I’m here, so wander into the upstairs hallway, and I’m caught with a full frontal shot of [hon]’s bathroom, the shower cubical completely visible.",
+    "translation": "我出于礼貌决定敲门示意她我的到来，于是来到二楼的走廊。[hon]在浴室里正对着我，淋浴间里完全一览无余。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L344"
   },
   {
     "key": "farm1_f09abfc5",
     "original": "Ey? If you’re a burglar, you’re not a very good one! Bwahaha.",
+    "translation": "欸？如果你是个小偷那你可有够遭的！哈哈！",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L345"
   },
   {
     "key": "farm1_fe4dca2e",
     "original": "My apologies, [hon]! Your sister invited me in and I wanted to make myself known.",
+    "translation": "抱歉！[hon]。你妹妹告诉我你在楼上，我想和你认识一下。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L346"
   },
   {
     "key": "farm1_a9aa5bf6",
     "original": "Wasn’t expecting a guest! Sorry for being rude; I just need to finish my hair.",
+    "translation": "我没料到你会来！抱歉让你看到这么不雅的一面，请等我理一下头发马上。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L347"
   },
   {
     "key": "farm1_3d81e2d0",
     "original": "She continues showering, not missing a beat in the process.",
+    "translation": "她继续有条不紊的洗澡。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L348"
   },
   {
     "key": "farm1_81dbf9e3",
     "original": "Is it just me, or is she even more muscular than in the previous world? You could grate cheese on those abs!",
+    "translation": "是我的错觉？还是这边的她更壮？她的腹肌简直可以拿来摸奶酪！",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L349"
   },
   {
     "key": "farm1_596b9876",
     "original": "I technically just walked in on her showering, but… because nudity is the norm here, I guess there’s technically nothing unusual about that.",
+    "translation": "毕竟这个世界基本上都不穿衣服...所以我想虽说她在洗澡，倒也没什么吧。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L350"
   },
   {
     "key": "farm1_c3eae9ff",
     "original": "There are just some aspects of the culture that’ll always surprise me. It feels weird to me, but she doesn’t mind at all.",
+    "translation": "她们的习惯总有某些让我吃惊的地方，我很尴尬但她显然没觉得问题。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L351"
   },
   {
     "key": "farm1_b5d036db",
     "original": "I'm probably making it more awkward by watching her.",
+    "translation": "我看着她可能会让场面更尴尬。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L352"
   },
   {
     "key": "farm1_5400eec2",
     "original": "Bwahaha, you see something you like, sugarcube? If you wanted to join me, you shoulda let me know!",
+    "translation": "哈哈，很喜欢吗？小甜心？你想一起的话那就告诉我！",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L353"
   },
   {
     "key": "farm1_821fd713",
     "original": "Sorry! I was just lost in thought; I’ll excuse myself downstairs.",
+    "translation": "抱歉！我刚刚只是在发呆，不好意思我还是先下去吧。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L354"
   },
   {
     "key": "farm1_1acee180",
     "original": "Nah, I was quite enjoying giving you a show!",
+    "translation": "没事，我还蛮高兴你能看到的！",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L355"
   },
   {
     "key": "farm1_cdf776cf",
     "original": "Haha, my apologies for staring. Your body is quite the spectacle.",
+    "translation": "哈哈...抱歉我很难移开目光，你的身材太棒了。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L356"
   },
   {
     "key": "farm1_05c83cba",
     "original": "Tsk, don’t be saying stuff like that in mating season, ya tease~",
+    "translation": "哎呀别再交配季说啊，你这呆瓜~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L357"
   },
   {
     "key": "farm1_083abde9",
     "original": "She finally hops out of the shower, and as soon as her hair’s dry, we move downstairs and continue our conversation.",
+    "translation": "她终于从淋浴间跳了出来，当她的头发一干，我们就移到楼下继续我们的谈话。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L362"
   },
   {
     "key": "farm1_e95b51ad",
     "original": "Our chemistry is immediately a hit. [hon] is as outgoing and brimming with confidence as ever. It’s a relief to see that she’s doing so well in this more challenging reality.",
+    "translation": "我们的关系立即升温，[hon] 一如既往的开朗和充满自信。看到她在这个更具挑战的世界线中做的如此出色，我倍感欣慰。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L364"
   },
   {
     "key": "farm1_a23b965b",
     "original": "With introductions out of the way, she offers me some fresh cider.",
+    "translation": "在介绍完后，她给了我一些新鲜的苹果酒。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L365"
   },
   {
     "key": "farm1_3d692d93",
     "original": "I know it’s not a special occasion, but it’s been too long since I’ve had a guest, so you just haf’ta try some of my fresh cider! I gotta warn ya though; this is my special brew; it has more of an alcoholic kick than ya might expect.",
+    "translation": "我知道这不是一个特别的场合，但是我好久都没有客人了，所以你必须尝一些我的新鲜苹果酒！不过我得提醒你呀，这是我的特制苹果酒；它的酒味比你想象中的还要浓得多。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L367"
   },
   {
     "key": "farm1_3a2d464c",
     "original": "I took a sip of the cider, and she wasn’t kidding! The taste is top-notch, but the alcoholic aftertaste is like a slap in the face.",
+    "translation": "我抿了一口苹果酒，她没有开玩笑！味道一流，但酒的余味就像在扇我耳光一样。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L368"
   },
   {
     "key": "farm1_4a670757",
     "original": "Now, why come all the way over here? My farm is boooring!",
+    "translation": "现在，为何千里迢迢来到此地？我的农场很无聊！",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L370"
   },
   {
     "key": "farm1_2913aacb",
     "original": "I’ll be straight with you: I’m trying to gather a group of six special people to become a powerful group that works under the Queen. The Virtues of Concord.",
+    "translation": "我跟你直说了吧：我在试图召集六个特别的人以组成为女王效力的强而有力的团队。——谐律",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L371"
   },
   {
     "key": "farm1_24db304b",
     "original": "Bah, me? A virtue? Y’all must be crazy.",
+    "translation": "呸，我？谐律之一？你丫的一定是疯了吧。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L373"
   },
   {
     "key": "farm1_91142716",
     "original": "Wait, you speak as if you already know what a virtue is?",
+    "translation": "等等，你说得好像你已经知道谐律是什么一样？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L374"
   },
   {
     "key": "farm1_ccfd5c63",
     "original": "Sure do; it’s a story I heard from my grandfather. They’re the Queen’s personal elite, used as a last resort to enforce peace and order.",
+    "translation": "当然了；这是一个我从祖父那听到的故事。他们是女王陛下的私人精英，被用作是维护和平和秩序的最后手段。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L376"
   },
   {
     "key": "farm1_8ee88079",
     "original": "Each virtue is trusted with a relic imbued with great power; when all six are aligned, it’s enough power to even challenge the Queen.",
+    "translation": "每一种谐律都被赋给了对应的具有强大力量的圣物。当六个谐律齐心协力时。其力量甚至足以挑战女王。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L378"
   },
   {
     "key": "farm1_2e5d2dd4",
     "original": "However, these were always just stories. It’s hard to tell what’s real or not these days.",
+    "translation": "然而，这些终究只是故事。真真假假如今很难分清。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L379"
   },
   {
     "key": "farm1_d665137d",
     "original": "I don’t remember anything about relics from my experience, but I insist that it is real, and you have the full capability of becoming a virtue.",
+    "translation": "根据我的经历，我对圣物一无所知，但是我坚持认为这一定是真的，而且你完全有能力成为谐律之一。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L380"
   },
   {
     "key": "farm1_2128be23",
     "original": "Bah, I’m just a humble farmer. I don’t have any lofty ambitions like that, I’m just trying to make ends meet.",
+    "translation": "呸，我就是一个卑微的农民。我没有任何那样的雄心壮志。我只是想维持生计。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L382"
   },
   {
     "key": "farm1_c9f335e2",
     "original": "You should find someone else instead; I’m too busy to even leave.",
+    "translation": "你应该去找其他马，我忙的抽不开身。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L383"
   },
   {
     "key": "farm1_9d81d3e2",
     "original": "That’s no good… I need to find a way to help her.",
+    "translation": "这样不行…我得想办法帮助她。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L384"
   },
   {
     "key": "farm1_32c4766e",
     "original": "Guh, I need another drink. You want one?",
+    "translation": "呃，我需要再喝一杯。你也要一杯吗？",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L386"
   },
   {
     "key": "farm1_2821f36c",
     "original": "I’d barely gotten halfway through my first! Before I could think of a reply, a second cold tankard of cider clacked onto the wooden table before me, and as soon as I looked up, I could already see [hon] drinking deeply.",
+    "translation": "我的第一杯才喝到一半！没等我想出回复，第二杯冰镇苹果酒就啪嗒地落在我面前的木桌上，我一抬头，就看到 [hon] 在痛快地喝着。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L387"
   },
   {
     "key": "farm1_09b4aa80",
     "original": "Aahhhh, can’t beat that freshness…",
+    "translation": "啊哈！这新鲜感无可匹敌...",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L389"
   },
   {
     "key": "farm1_60ee9bc5",
     "original": "[blo] also mentioned you two are working non-stop. What’s the issue?",
+    "translation": "[blo] 还提到你俩工作个不停，是有什么问题吗？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L390"
   },
   {
     "key": "farm1_c86a5f66",
     "original": "Demand for crops gone up, but prices have been dropping. Because of this, we’ve been unable to acquire the funds to appropriately scale the operations while having to work far more to compensate.",
+    "translation": "谷物需求增加，但价格一直在下跌。因为这个，我们无法获得资金来适度扩大运营规模，同时还不得不付出更多努力来弥补。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L392"
   },
   {
     "key": "farm1_db58fa7a",
     "original": "Basically, we don’t have the money to purchase expensive, new farming equipment, so we’re left doing everything by hand. It’s ridiculous; that’s what it is.",
+    "translation": "总的来说，我们没有钱来购买昂贵的新农业设备，所以我们只能用手做所有事。这太荒谬了；事情就是这样。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L393"
   },
   {
     "key": "farm1_29920cc0",
     "original": "What we need is a few hunks like you working here. Now that’d be the dream.",
+    "translation": "我们需要一些像你这样健壮的小伙子来这里工作。现在这简直像是痴人说梦。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L394"
   },
   {
     "key": "farm1_72e4186d",
     "original": "Me, a hunk? You’re more muscular than me.",
+    "translation": "我，健壮？你的肌肉要比我发达。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L395"
   },
   {
     "key": "farm1_cf0a4c9b",
     "original": "Bwaha, it’s not a competition. I’m just saying you’re doing a lot better than the average guy out there.",
+    "translation": "哇哈，这又不是比赛。我只是说你做的比一般人好得多。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L397"
   },
   {
     "key": "farm1_c7edd465",
     "original": "Thanks I appreciate that.",
+    "translation": "谢谢，我很感激。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L398"
   },
   {
     "key": "farm1_39093e4b",
     "original": "Are you working with Anna? I remember her being quite an ambitious businesswoman.",
+    "translation": "你同Anna一起工作吗？我记得她是个野心勃勃的女商人。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L399"
   },
   {
     "key": "farm1_d555cae5",
     "original": "You know Anna? That damn cow. At this rate, we’ll get bought out, like she’s been doing to so much of the other farmland around the north.",
+    "translation": "你知道Anna？那头该死的牛，按照这个速度下去，我们将会被收购，就像她对许多其他北方农田所做的一样。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L401"
   },
   {
     "key": "farm1_41d704e8",
     "original": "She’s been threatening all the local farms by undercutting our prices. That’s exactly why the prices have dropped in the first place.",
+    "translation": "她一直通过压低我们价格来威胁当地所有农场。这正是价格最初下跌的原因。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L402"
   },
   {
     "key": "farm1_fe6d684d",
     "original": "But I can’t lose this place… It’s all I have after my dad passed away a few years back.",
+    "translation": "可我不能失去这块地方...这是几年前我父亲去世后我所拥有的一切。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L403"
   },
   {
     "key": "farm1_a67a27b8",
     "original": "A few years ago, hm? [hon] and [blo] have been alone a lot longer in this universe. Just as I was thinking, I spot [hon] finishing her second serving of cider and moving to get a third.",
+    "translation": "几年前，嗯？[hon] 和 [blo] 已经孤苦伶仃地在这个宇宙很长时间了。正当我思考的时候，我发现 [hon] 已经喝完了第二杯苹果酒并动身去拿第三杯。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L404"
   },
   {
     "key": "farm1_d08e029b",
     "original": "Sorry for bringing it up…",
+    "translation": "很抱歉提起这个...",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L405"
   },
   {
     "key": "farm1_f323e8bd",
     "original": "Nah, it’s fine... Maybe I’m just the one being stubborn and behind the times. I don’t know how long this is sustainable for, especially when I’m making [blo] work too.",
+    "translation": "算了，没关系...也许我只是比较固执且陈旧。我不知道这能持续多久，尤其是我让 [blo] 也工作时。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L407"
   },
   {
     "key": "farm1_abf85d56",
     "original": "Is there any way I can help out?",
+    "translation": "有什么我可以帮忙的吗？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L408"
   },
   {
     "key": "farm1_3ce2586a",
     "original": "I don’t think… Hm? Hm…",
+    "translation": "我不认为...嗯？嗯...",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L410"
   },
   {
     "key": "farm1_97960463",
     "original": "[hon] sits down, takes a large swig, and thinks for a few moments.",
+    "translation": "[hon] 坐下来，喝了一大口，想了片刻。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L414"
   },
   {
     "key": "farm1_e429b147",
     "original": "Her gaze then turns to me, the edges of her lips curling into a smile.",
+    "translation": "然后她的目光转向了我，她的嘴角上扬，露出了笑容。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L416"
   },
   {
     "key": "farm1_d460d9f3",
     "original": "You know what, stud, I rushed to conclusions too fast.",
+    "translation": "你知道吗，种马，我的结论下得太快了。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L418"
   },
   {
     "key": "farm1_c0871377",
     "original": "I’m interested in your proposition about becoming a virtue, but only if it can help my farm get the support it needs.",
+    "translation": "我对你关于成为谐律之一的提议很感兴趣，但前提是它能帮我的农场获取所需的资助。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L419"
   },
   {
     "key": "farm1_2068636e",
     "original": "And seeing your physique, I think y’all would make an excellent farmhand too.",
+    "translation": "而且看你的体格，我认为你也能成为一名杰出的农场工人。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L421"
   },
   {
     "key": "farm1_eb8e8222",
     "original": "Farmhand? Tempting offer, but I’m often busy.",
+    "translation": "农场工人？这份工作很诱人，但我平常都很忙。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L422"
   },
   {
     "key": "farm1_66ebec92",
     "original": "She leans over to me, brushing her soft hand against my shoulder and down to my chest. Is she… drunk? She’s tipsy at the very least.",
+    "translation": "她倾身向我，用她那柔软的手抚过我的肩膀，并落在我的胸膛。她是...喝醉了？至少她微醺了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L426"
   },
   {
     "key": "farm1_bb814b41",
     "original": "You sure? Y’all are just my type~",
+    "translation": "你确定吗？你正是我的菜~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L428"
   },
   {
     "key": "f1m1_25ba00de",
     "original": "There might be a place for you here if you impress me, stud~",
+    "translation": "如果你给我留下了深刻的印象，也许这里会有你的一席之地，种马~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L434"
   },
   {
     "key": "f1m1_7f0e2614",
     "original": "What would you do if I said yes?",
+    "translation": "如果我说是，你会怎么做？",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L437"
   },
   {
     "key": "f1m1_6c72077c",
     "original": "Why on earth would you pick that?! I'm not saying that!",
+    "translation": "你干吗要选择那个？！我不是那个意思！",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L440"
   },
   {
     "key": "f1m1_3bc09afd",
     "original": "Well… I guess I can work here part time. The extra monies will go a long way.",
+    "translation": "嗯…我想我可以在这里做兼职。额外的钱会大有裨益。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L443"
   },
   {
     "key": "f1m1_43d1fad9",
     "original": "Darn! Not even for a couple of hours in the evening?",
+    "translation": "该死！就连晚上几个小时都不行？",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L446"
   },
   {
     "key": "f1m1_294c5bab",
     "original": "That's actually a very good offer. I need to take what I can get.",
+    "translation": "这实际上是一份很好的工作，我需要拿到我能得到的东西。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L447"
   },
   {
     "key": "f1m1_f6ca1c18",
     "original": "Fine, but only in the evenings.",
+    "translation": "好，但仅限晚上。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L448"
   },
   {
     "key": "f1m1_1619a151",
     "original": "Her tune changed quite suddenly, like a switch in her head flipped. While amicable before, now she’s making a much more proactive effort to be friendly and interested.",
+    "translation": "她的语气突然改变了，就像她大脑被按下机关一样。在之前她就表现的很友好了，现在她更是积极表现出友好和关心。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L450"
   },
   {
     "key": "f1m1_a484be52",
     "original": "Seems she realized that I’m the solution to her problem. If I worked here, it could dramatically alleviate her burden. But that’s not all, I can get her in contact with the Queen, there’s a chance she could appeal for direct support.",
+    "translation": "似乎她意识到了我可以解决她的问题。如果我在这里工作，这会大大减轻她的负担。但这还没完，我可以让她与女王联系，她有能呼吁直接资助的机会。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L451"
   },
   {
     "key": "f1m1_1445aaca",
     "original": "Either that, or she's horny.",
+    "translation": "要么如此，要么是她饥渴难耐。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L452"
   },
   {
     "key": "f1m1_869d94e8",
     "original": "Then it’s settled! {i}Hic{/i} If ya came in the evening and took care of the livestock, that’d be a ton of help. It’d give me time to catch up on my record keeping.",
+    "translation": "那就这么定了！{i} 嗝{/i} 如果你晚上来照顾牲畜，这会是很大的帮助。这样我就有时间来赶做记账了。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L454"
   },
   {
     "key": "f1m1_b3c8eb50",
     "original": "While I absolutely want to help, I can’t help but wonder if there isn’t a better option by working with Anna. They were business partners in my universe, and I don’t see why that couldn’t happen again.",
+    "translation": "虽然我绝对想帮忙，但我不禁想知道同Anna合作是不是一个更好的选择。她是我原宇宙中的商业伙伴，我不明白为什么这不能再一次发生。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L455"
   },
   {
     "key": "f1m1_f5b4d7c3",
     "original": "[hon] owns a lot of land but doesn’t have the equipment or manpower to effectively use it; an investment from Anna could benefit them both.",
+    "translation": "[hon] 拥有大量土地但没有设备或人力来有效利用它们；Anna的投资可以让她们俩都受益。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L456"
   },
   {
     "key": "f1m1_f73e4185",
     "original": "However, as lovely as [hon] is, I know she can be stubborn. It’s not something I’ll be able to easily convince her of.",
+    "translation": "然而，即便如[hon]这般可爱，但我知道她可以变得很固执，这不是一件我能够轻易说服她的事情。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L457"
   },
   {
     "key": "f1m1_745aaa2b",
     "original": "Sure, I’d be happy to help out some evenings.",
+    "translation": "当然，我很乐意在某些晚上帮忙。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L458"
   },
   {
     "key": "f1m1_2c303867",
     "original": "Fantastic! Y’all are a lifesaver!",
+    "translation": "好极了！你真是我的救星！",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L460"
   },
   {
     "key": "f1m1_7af067cb",
     "original": "She leaned closer, brushing her firm breasts against my arm in a deliberate yet playful move. I can feel her nipples slowly getting more erect during this, until the nubs are poking into my arm.",
+    "translation": "她倾身靠得更近了，她那坚挺的乳房以一种刻意且调皮的方式贴在我的手臂上。在此期间我能感受她的乳头逐渐硬挺，一直到她乳头戳进我的手臂。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L464"
   },
   {
     "key": "f1m1_5db12607",
     "original": "And there are plenty of other things that can be done in the evenings~",
+    "translation": "而且晚上还有很多其他的事情可以做哦~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L466"
   },
   {
     "key": "f1m1_9353c03a",
     "original": "Perhaps I could show you some of the employee benefits?",
+    "translation": "也许我可以向你展示一些员工福利？",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L467"
   },
   {
     "key": "f1m1_ff30c241",
     "original": "Hehe, are you interested?",
+    "translation": "呵呵，你感兴趣吗？",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L473"
   },
   {
     "key": "f1m1_58d9c9dd",
     "original": "I bring my lip to hers and she immediately melts into the kiss, her fur standing on end as her tongue darts into my mouth and dances with my own.",
+    "translation": "我将嘴唇贴向她，她立刻回吻了我，她的毛发直立，舌头径直伸入我的口腔，与我的舌头共舞。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L478"
   },
   {
     "key": "f1m1_85be7f7f",
     "original": "Mmphhh... Nghh... You're sexy...",
+    "translation": "呣...呐...你真性感...",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L479"
   },
   {
     "key": "f1m1_593acfcb",
     "original": "I stuttered slightly under her flirtatious gaze, causing her to back away, where she seems to snap back into reality.",
+    "translation": "在她挑逗的注视下我变得稍微有点结巴，我的反应令她退缩，她似乎立刻回到了现实。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L483"
   },
   {
     "key": "f1m1_a1754c08",
     "original": "Huh… I don’t know what came over me there. Sorry, stud, mating season and alcohol are a bad combination, especially around attractive men.",
+    "translation": "额……我不知道我怎么了。抱歉，种马，交配季和酒精是一个相当坏的组合，特别是当富有魅力的男人在一旁的时候。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L484"
   },
   {
     "key": "f1m1_3af0d4dd",
     "original": "That’s quite alright, [hon]. I understand that mating season can get pretty… intense…",
+    "translation": "没关系，[hon]，我理解交配季可以变得相当...激烈...",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L485"
   },
   {
     "key": "f1m1_d4b47672",
     "original": "Obviously, I found myself intrigued by [hon]’s flirtatious advances. Exploring our chemistry further was tempting. However, instead of directly reciprocating, I decided to play it cool.",
+    "translation": "很明显，我发现自己着迷于 [hon] 的调情。进一步探究彼此间的化学反应确实诱人。但是，我决定冷静行事，而不是直接回应。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L486"
   },
   {
     "key": "f1m1_213b2840",
     "original": "I admit, I’m quite interested in these employee ‘benefits’…",
+    "translation": "我承认，我对这些员工“福利”还是挺感兴趣的...",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L487"
   },
   {
     "key": "f1ebs_811fc6ae",
     "original": "I subtly let my gaze drift downward once more, unable to resist admiring her figure.",
+    "translation": "我再次将目光微微地下移，忍不住欣赏她那身材。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L489"
   },
   {
     "key": "f1ebs_d2291dcc",
     "original": "Your eyes have been drinking me in since I was in the shower, haven’t they, sugarcube?",
+    "translation": "在我洗澡的时候你的眼睛就一直盯着我看，不是吗，甜心？",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L491"
   },
   {
     "key": "f1ebs_cec4cf93",
     "original": "How could I not? You’re gorgeous.",
+    "translation": "我怎能不看？你太美了。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L492"
   },
   {
     "key": "f1ebs_b8411eae",
     "original": "In a flirtatious haze, [hon] shifts her butt from her chair straight onto my lap.",
+    "translation": "在调情的朦胧中，[hon] 把她的屁股从椅子径直移到我的腿上。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L500"
   },
   {
     "key": "f1ebs_b795445b",
     "original": "Like this, even the muscular mare seems like a delicate woman. Although, I can hardly call her ladylike when her butt started to rub back and forth against my crotch.",
+    "translation": "即使像这样的肌肉发达的雌驹似乎也是个纤细的女性。虽然，当她的屁股开始在我的胯部来回摩擦时，很难称得上端庄。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L501"
   },
   {
     "key": "f1ebs_9cb343db",
     "original": "Haaahhhh… I’m getting really horny, stud…",
+    "translation": "哈啊！我真的很饥渴，种马...",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L502"
   },
   {
     "key": "f1ebs_b7775018",
     "original": "I'm just a dumb fucking horse in mating season, I can't help myself~ I’ll just sit here, and whatever happens, happens~",
+    "translation": "我就是他妈的一匹交配期的蠢马，无法控制自己~我就坐在这了，无论发生什么都无所谓~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L503"
   },
   {
     "key": "f1ebs_b58032c7",
     "original": "The room seemed to grow hotter, the scent of lust thickening the air as our bodies pressed against each other.",
+    "translation": "房间似乎升温了，当我们的身体互相挤压时，欲望的气息弥漫在空气中。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L504"
   },
   {
     "key": "f1ebs_b267e321",
     "original": "I couldn’t resist the temptation any longer; I reached out and caressed [hon]’s ass cheek, my fingers softly digging into her fur, causing a soft moan to slip from her lips.",
+    "translation": "我再也无法抵御住诱惑了；我伸出手爱抚 [hon] 的臀瓣，我的手指轻轻地深入她的茸毛，使她那小嘴发出轻柔的呻吟。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L509"
   },
   {
     "key": "f1ebs_0d1f8ec6",
     "original": "In response, [hon] turned her head slightly, leaving our faces inches apart. Her eyes locked with mine, filled with desire and anticipation. She parted her lips slowly, invitingly.",
+    "translation": "作为回应，[hon] 微微转头，将我们脸的距离分开了几英寸，她与我四目相对，眼里充满了欲望和期待。她缓慢而动人地张开双唇。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L510"
   },
   {
     "key": "f1ebs_fd5f5b73",
     "original": "Before I could think twice, our lips pressed together in an intense kiss, our tongues tangled passionately.",
+    "translation": "没等我多想，我们的嘴唇就紧紧地吻在一起，舌头激情地纠缠。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L511"
   },
   {
     "key": "f1ebs_c307343e",
     "original": "Breathless, but wanting more, we broke apart briefly. I couldn’t tear my eyes away from her flushed face. She looked utterly irresistible.",
+    "translation": "我们气喘吁吁，但是欲求不满，彼此短暂分开。我无法将眼睛从她那通红的脸蛋上挪开，她的样子让人完全无法抗拒。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L512"
   },
   {
     "key": "f1ebs_3808cfd0",
     "original": "I can feel ya growing down there… It feels just as nice and big as I’d hoped~",
+    "translation": "我能感觉你那里在变大...就像我希望的那样又大又棒~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L513"
   },
   {
     "key": "f1ebs_fbdae3bb",
     "original": "Since she was sitting on me, my growing erection was short of space, causing it to press against her butt with ever-increasing pressure. Every time she squirmed or adjusted herself, I could feel her wet folds brushing against my tip.",
+    "translation": "由于她坐在我身上，我的不断勃起的肉棒缺少空间继续膨胀，这让它施加越来越大的压力在她的臀部上。每次当她扭动或者调整自己时，我都能感觉她那湿漉漉的阴唇拂过我的龟头。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L514"
   },
   {
     "key": "f1ebs_aae3b598",
     "original": "You’re driving me crazy!",
+    "translation": "你快把我逼疯了！",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L515"
   },
   {
     "key": "f1ebs_37a42cbc",
     "original": "That’s the idea, sugar. Just sit back and enjoy what comes next~",
+    "translation": "我就是这么想的，甜心。你就乖乖坐好然后享受接下来的进展吧~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L516"
   },
   {
     "key": "f1ebs_36cc0893",
     "original": "She moans back, her voice husky with desire. With one swift motion, she adjusts her butt to free my throbbing cock from its confines by allowing it to nestle between her thighs.",
+    "translation": "她以呻吟回应，她的声音因渴望而沙哑。她迅速调整了一下臀部，以解放我那悸动的肉棒并让其依偎在她那大腿之间。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L518"
   },
   {
     "key": "f1ebs_f98e7674",
     "original": "But not just between her thighs; she also prominently pushed against the full length of her pussy lips.",
+    "translation": "但不只是在她那大腿之间；她还明显地将我的肉棒压在她的整个阴唇间。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L519"
   },
   {
     "key": "f1ebs_504f62f6",
     "original": "With practiced ease, [hon] began to roll her hips up and down, massaging my twitching cock between her thighs and wet entrance.",
+    "translation": "[hon] 开始娴熟地用她那臀部做着活塞运动，用她那大腿和潮湿的入口给我抽动的肉棒做按摩。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L529"
   },
   {
     "key": "f1ebs_3f08cda3",
     "original": "Nnhhhh, you’re really good at that!",
+    "translation": "呐哈，你真的很擅长这个！",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L530"
   },
   {
     "key": "f1ebs_fdde0721",
     "original": "It’s all in the hips, babe~",
+    "translation": "一切尽在臀中，宝贝~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L532"
   },
   {
     "key": "f1ebs_28aad8e8",
     "original": "Pleasure surged through me as I started to rock my hips too; before long, our hips began to move together as one, our moans and gasps mingling into one primal symphony of desire.",
+    "translation": "当我也开始摇动我的髋部时，快感涌上我的心头；不久之后，我们的下体开始一齐移动，我们那呻吟和喘息声交织成一首原始的情欲交响曲。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L534"
   },
   {
     "key": "f1ebs_136b23ea",
     "original": "I could tell it was starting to feel really good for her too, as she gradually altered the angle of the grinding to focus on her clit more. Her ragged breaths turned into needy moans.",
+    "translation": "当她逐渐改变了磨蹭的角度并更多聚焦于她的阴蒂时，我看得出来她也开始感觉很好。她那沉重的呼吸转变成了无助的呻吟。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L535"
   },
   {
     "key": "f1ebs_9e938b4a",
     "original": "Nnghh, that’s the spot! {i}Pant, pant{/i} Is this good for you?",
+    "translation": "呐哈，就是这里！{i} 喘息，喘息{/i} 这让你也感觉爽吗？",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L537"
   },
   {
     "key": "f1ebs_0a1c07eb",
     "original": "Ohhh yeah, it feels amazing!",
+    "translation": "哦耶，这感觉是太爽了！",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L538"
   },
   {
     "key": "f1ebs_9ae8d2ae",
     "original": "Our bodies were entwined tightly, sweat glistening on our skin as we moved together faster and harder. I couldn’t tell if she was close, but my orgasm was threatening to erupt at any moment.",
+    "translation": "我们的身体紧紧地缠绕在一起，当我们的动作更快、更用力时，汗水在我们的皮肤上闪闪发光。我不知道她是否就要达到高潮，但我的高潮随时都有可能爆发。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L540"
   },
   {
     "key": "f1ebs_8454b2eb",
     "original": "I can feel you stiffening up; are you close?",
+    "translation": "我能感觉到你变硬了，你要射了吗？",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L542"
   },
   {
     "key": "f1ebs_25939702",
     "original": "Yeah! I’m getting pretty close!",
+    "translation": "是的！我就快要射了！",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L543"
   },
   {
     "key": "f1ebs_1d9614c2",
     "original": "Upon hearing that, she actively sped up, to the point where I could barely keep up. This was a sudden reminder of just how strong and fast these ponies can be. I helplessly sat there as she effortlessly milked me with just her thighs.",
+    "translation": "她一听到这个，便主动加速到我几乎跟不上的地步。这突然提醒了我这些小马能有多么强壮和迅疾。我无助地坐在那，她毫不费力地用她那大腿给我榨汁。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L545"
   },
   {
     "key": "f1ebs_3e38df59",
     "original": "Mmhh, cum for me, stud!",
+    "translation": "Mmhh，给我射出来，种马！",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L546"
   },
   {
     "key": "f1ebs_7f2c5bbf",
     "original": "Fuck, yes! Cumming now!",
+    "translation": "操，耶！我射了！",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L547"
   },
   {
     "key": "f1ebs_f6072d2d",
     "original": "With a final thrust upwards, my hot cum spurted out of my tip and started spraying her body.",
+    "translation": "随着最后向上一顶，我的炙热的精种从我的肉棒顶端喷出，洒满她的身体。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L552"
   },
   {
     "key": "f1ebs_667b41e6",
     "original": "There we go… Good boy~",
+    "translation": "我们完事了……好孩子~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L557"
   },
   {
     "key": "f1ebs_8ab5ac0a",
     "original": "It felt like an eternity before my orgasm finally subsided, leaving me breathless and limp. Although she remained seated on me, our hearts pounding in unison.",
+    "translation": "高潮的感觉就像永远不会消退一样，让我喘不过气，瘫软无力。尽管她仍然坐在我身上，我们的心脏怦怦直跳。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L564"
   },
   {
     "key": "f1ebs_3237c953",
     "original": "[hon] leaned closer to my chest, giving me a side hug before pulling apart to pat herself down with a tissue.",
+    "translation": "[hon]靠近我的胸口，给了我一个拥抱，然后起身拿纸巾把自己擦干。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L565"
   },
   {
     "key": "f1ebs_53fe701e",
     "original": "They weren’t kidding when they said cow girls were good on top.",
+    "translation": "她们说女牛仔在上面时很厉害并不是在开玩笑。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L566"
   },
   {
     "key": "f1ebs_d5f912bf",
     "original": "Heh, you don’t even know the half of it.",
+    "translation": "嘿嘿，对此你只了解了不到一半~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L567"
   },
   {
     "key": "f1ebs_6dd4ff2c",
     "original": "Sorry if that was a little forward or presumptuous of me; I can be quite an… aggressive lover.",
+    "translation": "如果我这么说有点前卫或是冒昧，我很抱歉；我在恋爱上是相当积极的类型。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L573"
   },
   {
     "key": "f1ebs_36732154",
     "original": "I know what I want, how to get it, and sometimes I really {b}need{/b} it.",
+    "translation": "我知道我想要什么，如何得到它，并且有时我真的{b} 需要{/b} 它。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L575"
   },
   {
     "key": "f1ebs_3ecdb48f",
     "original": "Hoohh boy, I can tell that I’ll like it here.",
+    "translation": "哇，小子，我敢说我会喜欢这里的。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L576"
   },
   {
     "key": "f1ebs_3449db02",
     "original": "I think you’ve had quite a bit to drink.",
+    "translation": "我想你喝得有点多了吧。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L579"
   },
   {
     "key": "f1ebs_ee0b9e27",
     "original": "Haaahhh… I guess you’re right; it’s a little early in our friendship for me to start grinding on you, isn’t it?",
+    "translation": "哈哈，我想你是对的；我们的友谊才刚开始，我就与你缠绵还为时过早，是吗？",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L586"
   },
   {
     "key": "f1ebs_48566e1d",
     "original": "But don’t consider this a rejection, maybe the next time I stumble upon you in the shower, I’ll join you.",
+    "translation": "但别以为这是拒绝，也许下次我碰到你在洗澡，我会加入你的。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L587"
   },
   {
     "key": "f1ebs_81f6b1fb",
     "original": "I’ll hold you to that, stud~",
+    "translation": "我会让你信守诺言的，种马~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L589"
   },
   {
     "key": "f1ebs_79c21331",
     "original": "Before I disappear, I’ll tell you about the plan. You’ll be contacting someone called [lil], who is the Queen’s student.",
+    "translation": "在我离开之前，我会告诉你我的计划。你会联系一个叫[lil]的人，她是女王的学生。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L590"
   },
   {
     "key": "f1ebs_f501ee60",
     "original": "I exchange numbers with [hon] and give her the necessary information.",
+    "translation": "我和[hon]交换了联系方式，并告诉她必要的信息。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L591"
   },
   {
     "key": "f1ebs_09a711cf",
     "original": "Hm… [lil], eh? I’ll give her a ring.",
+    "translation": "呃…[lil]，嗯？我会给她打个电话。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L593"
   },
   {
     "key": "f1ebs_567b918a",
     "original": "Probably better just to text her, actually.",
+    "translation": "其实还是发短信给她比较好。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L594"
   },
   {
     "key": "f1ebs_de7c8183",
     "original": "Oh, and one more thing before you go…",
+    "translation": "哦，在你走之前还有一件事……",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L596"
   },
   {
     "key": "f1ebs_498b04a0",
     "original": "Slowly, seductively, [hon] turned around so that she was facing away from me. Gracefully, she bent forward and presented her round, firm ass cheeks prominently. Her tail flickered upward to give a clear view.",
+    "translation": "[hon]缓慢但诱人地转过身来，背对着我。她优雅地向前弯下腰，凸显出她那圆润、结实的屁股。她的尾巴向上摆动，以便我看得更清楚。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L605"
   },
   {
     "key": "f1ebs_657f2296",
     "original": "God damn, what is with these two sisers having amazing asses? And they're both capable of weaponizing them to tease me too!",
+    "translation": "妈的，这两姐妹的屁股怎么都这么好看？而且他们都能把它们武器化来戏弄我！",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L606"
   },
   {
     "key": "f1ebs_0893c812",
     "original": "Is this what you want?",
+    "translation": "这是你想要的吗？",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L607"
   },
   {
     "key": "f1ebs_50228771",
     "original": "Nggh, that's right! I'm just a dumb, slutty horse in heat~",
+    "translation": "啊，没错！我只是一匹淫荡的发情蠢母马~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L613"
   },
   {
     "key": "f1ebs_c267f897",
     "original": "Right person, right place, right time, stud!",
+    "translation": "对的人，对的地点，对的时间，种马！",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L615"
   },
   {
     "key": "f1ebs_21334399",
     "original": "She purred playfully over her shoulder, her back arching slightly to accentuate her ass even more enticingly. Every moment she made was deliberately designed to tease and tantalize me further.",
+    "translation": "她调皮地在她肩膀上发出咕噜声，她的背微微弓起以突出她那更加诱人的屁股。每一瞬间都是她故意设计用来进一步撩拨我的。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L617"
   },
   {
     "key": "f1ebs_d351e65f",
     "original": "Like what you see? Work here and I can give this and more.",
+    "translation": "喜欢你所看到的吗？在这工作我能给你这个，以及更多。",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L618"
   },
   {
     "key": "f1ebs_24ab436a",
     "original": "Sheesh, you don’t make it a hard choice, do you?",
+    "translation": "晞，你让选项毫无悬念，不是吗？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L619"
   },
   {
     "key": "f1ebs_ed49af49",
     "original": "Bwahaha, see you soon, sugarcube. You can show yourself out since you let yourself in~",
+    "translation": "哈哈，回头见，甜心。既然你是自己来的，你也可以自己回去~",
+    "stage": 1,
     "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L620"
   },
   {
     "key": "f1ebs_043847d3",
     "original": "[hon] walks away, her ass continuing swaying seductively until she’s completely out of view.",
+    "translation": "[hon] 走开了，她的屁股继续诱人地摇摆着，直到她完全走出我的视线。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L626"
   },
   {
     "key": "f1ebs_75e98fdc",
     "original": "Before I leave, I pay a quick visit to [blo]’s room upstairs.",
+    "translation": "在我离开前，我快速拜访了楼上 [blo] 的房间。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L628"
   },
   {
     "key": "f1ebs_cb00c220",
     "original": "I knock on the door, hearing a ‘wah!’ and some frantic stumbling around. Eventually, [blo] opens the door.",
+    "translation": "我敲了敲门，听到“哇！”的一声以及一阵手忙脚乱、跌跌撞撞的走路声。最终，[blo] 打开了门。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L632"
   },
   {
     "key": "f1ebs_ef5f9f50",
     "original": "S-Sorry! You nearly gave me a heart attack – Wah! It’s you!",
+    "translation": "抱-抱歉！你差点把我吓出心脏病-哇！是你！",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L633"
   },
   {
     "key": "f1ebs_b0b805e8",
     "original": "Haha, sorry about that. May I come in?",
+    "translation": "哈哈，对此我很抱歉。请问我可以进来吗",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L634"
   },
   {
     "key": "f1ebs_03212284",
     "original": "Of course!",
+    "translation": "当然！",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L636"
   },
   {
     "key": "f1ebs_2154419e",
     "original": "Closing the door behind me, I sit on [blo]’s half-made bed. It’s clear she made it but was recently ‘using’ it.",
+    "translation": "我关上身后的门，坐在 [blo] 的床上。床略微整理过，很明显是她整理的，但最近也一直在“使用”它。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L638"
   },
   {
     "key": "f1ebs_2769fcf5",
     "original": "Oh dear, looks like I caught you with your pants down.",
+    "translation": "哦亲爱的，看起来我逮到你时你裤子都掉了。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L639"
   },
   {
     "key": "f1ebs_eee138db",
     "original": "Pardon?",
+    "translation": "你再说一遍？",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L641"
   },
   {
     "key": "f1ebs_2a4c4510",
     "original": "Ah, that saying doesn’t work here at all, does it? Nevermind. I’m here to ask for your help.",
+    "translation": "啊，这种话在这里根本不管用，不是吗？别在意这个。我在这是向你寻求帮助的。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L642"
   },
   {
     "key": "f1ebs_eaf9e1a2",
     "original": "I explain to [blo] that I’d like to send Anna a letter to invite her for a business meeting here at the Arcadian farm.",
+    "translation": "我向 [blo] 解释说我想给Anna写一封信以邀请她参加在阿卡迪亚农场举行的商业会议。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L643"
   },
   {
     "key": "f1ebs_b5d3a9b4",
     "original": "I’m sure if I can just get [hon] and Anna face-to-face, they’ll hit it off and plenty of opportunities will open up for [hon].",
+    "translation": "我很确信如果我能让 [hon] 和Anna面对面，她们会一拍即合并给 [hon] 带来很多机会。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L644"
   },
   {
     "key": "f1ebs_63e821d5",
     "original": "If you think this’ll genuinely help, I’ll do it.",
+    "translation": "如果你认为这真的有帮助，我会去做的。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L646"
   },
   {
     "key": "f1ebs_b06f80de",
     "original": "Thank you so much. Worst case scenario, Anna and [hon] don’t reach an agreement, nothing gained nothing lost.",
+    "translation": "非常感谢你。最坏的情况是，Anna和 [hon] 不会达成协议，最终维持现状。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L647"
   },
   {
     "key": "f1ebs_f33dbbe8",
     "original": "Thank you for trying to help us, that really means a lot.",
+    "translation": "感谢你尝试帮助我们，这真的意义非凡。",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L649"
   },
   {
     "key": "f1ebs_8f1b5069",
     "original": "It’s the least I can do after you’ve both been such good hosts.",
+    "translation": "在见识到你们俩都是那么出色的东道主后，这是我所能做的。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L650"
   },
   {
     "key": "f1ebs_c85899f8",
     "original": "[blo] blushes and acts innocent.",
+    "translation": "[blo] 的脸天真无邪地红了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L652"
   },
   {
     "key": "f1ebs_5936a71a",
     "original": "If you, uh, if you- uhm… If you, ah…",
+    "translation": "如果你，呃，如果你-呃...如果你，呃...",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L654"
   },
   {
     "key": "f1ebs_fbdbc5b5",
     "original": "Come back and see me again! Okay?",
+    "translation": "回来再看看我！好吗？",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L656"
   },
   {
     "key": "f1ebs_e4e710cb",
     "original": "I’m planning on it. Show me what you've got next time.",
+    "translation": "我正在计划这个。让我看看下次你能搞出什么花样。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L657"
   },
   {
     "key": "f1ebs_630f95ba",
     "original": "Yes, sir!",
+    "translation": "遵命！",
+    "stage": 1,
     "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L659"
   },
   {
     "key": "f1ebs_ce617998",
     "original": "…",
+    "translation": "...",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L662"
   },
   {
     "key": "f1ebs_3774127e",
     "original": "Back in [mox]’s apartment, I finally sit down and take a rest.",
+    "translation": "回到 [mox] 的公寓，我终于坐下来休息一下了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L666"
   },
   {
     "key": "f1ebs_706be5f7",
     "original": "Good evening, [mc]! Where’d you find yourself today?",
+    "translation": "晚上好，[mc] ！今天你去哪了？",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L668"
   },
   {
     "key": "f1ebs_8b8ba15b",
     "original": "All the way to the farms in the northwest, and let me tell you, those two sisters could probably power a small village with their sexual repression alone.",
+    "translation": "一路到西北边的农场，让我告诉你，那俩姐妹可能光靠她俩被压抑的性欲就可以给一个小村庄供能了。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L669"
   },
   {
     "key": "f1ebs_7e497bd6",
     "original": "Mating season really can be like that sometimes. Especially when you think you’re handling it fine, but then an absolute hottie just appears out of nowhere.",
+    "translation": "交配季有时确实可能如此。特别是当你认为你处理的很好，但随后一个十足的帅哥冒出来的时候。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L671"
   },
   {
     "key": "f1ebs_2278f95d",
     "original": "And I also know that I’m both of their types. So, it does feel like I’m cheating with my prior knowledge sometimes.",
+    "translation": "我也知道我是她俩的菜，所以，有时我确实感觉我在用我的先前的知识作弊。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L672"
   },
   {
     "key": "f1ebs_7b0b7df3",
     "original": "You’re on new game plus! Do you also know the winning lottery numbers?",
+    "translation": "你在玩二周目游戏！那你知道中奖的彩票号码吗？",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L674"
   },
   {
     "key": "f1ebs_fa065b1b",
     "original": "I’m afraid it doesn’t quite work like that.",
+    "translation": "恐怕情况并非如此。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L675"
   },
   {
     "key": "f1ebs_b26fbea4",
     "original": "Darn… I guess you didn't appear here at the exact same time and day in both universes, right?",
+    "translation": "该死……我想你并没有在两个宇宙的同一时间同一天出现在此地，对吧？",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L677"
   },
   {
     "key": "f1ebs_0447c2fe",
     "original": "You're right, I didn't. But you do bring up an interesting point. My universe and this universe have a substantial number of events in common, but sometimes they happen at distinct times.",
+    "translation": "你说得对，我没有。但是你提出了一个有趣的观点。我的宇宙和这个宇宙有很多共同的事情，但是有时它们发生在不同的时间。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L678"
   },
   {
     "key": "f1ebs_1b600f17",
     "original": "Any examples?",
+    "translation": "有什么例子吗？",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L680"
   },
   {
     "key": "f1ebs_16b084ef",
     "original": "Yeah, the most obvious one is that I teleported in at the wrong time. If that’s a fixed event in all these ‘types’ of universes, why happen months apart?",
+    "translation": "是啊，最明显的一个例子是我在错误的时间传送了。如果这就是所有这些“类型”的宇宙中的固定事件，为什么相隔几个月发生？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L681"
   },
   {
     "key": "f1ebs_aa0c8fd2",
     "original": "With this in mind, if there’s anything that hasn’t happened yet, I might be able to predict it happening sometime in the future.",
+    "translation": "考虑到这个，如果有什么事情还没有发生，我也许会预测这件事会在未来某个时候发生。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L682"
   },
   {
     "key": "f1ebs_b2ac50dd",
     "original": "Hummm… I’m going to keep my eyes and ears wide open then!",
+    "translation": "嗯...那时我会睁大眼睛和耳朵的！",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L684"
   },
   {
     "key": "f1ebs_93800be7",
     "original": "You’re going to keep your ears wide open?",
+    "translation": "你要睁大你的耳朵？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L685"
   },
   {
     "key": "f1ebs_96f72764",
     "original": "I’m not so good with words, okay?",
+    "translation": "我不太善言辞，好吗？",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L687"
   }
 ]

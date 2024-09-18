@@ -2,636 +2,890 @@
   {
     "key": "dayevent_432e6487",
     "original": "As I leave the apartment, I notice a lone stallion sitting by the side of the road, hunched over, exuding an air of weariness.",
+    "translation": "当我离开公寓时，我注意到有一匹孤独的雄驹弯腰驼背地坐在路边，散发出疲惫的神情。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L7"
   },
   {
     "key": "dayevent_34eb36e6",
     "original": "Is he... homeless? In the other Arcadia, such a thing seemed unthinkable, a distant concept from that utopia.",
+    "translation": "他……无家可归吗？在另一个Arcadia，像这种事情似乎是不可想象的，这离乌托邦相去甚远。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L8"
   },
   {
     "key": "dayevent_657a75f6",
     "original": "Yet here he is, a stark reminder of the harsh realities that permeate this world.",
+    "translation": "但是他就在这里，赤裸裸地提醒着这个世界弥漫着残酷的现实。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L9"
   },
   {
     "key": "dayevent_c83e6069",
     "original": "I decide to extend a generous hand to the homeless stallion. I reach into my bag and retrieve 20 monies, an offering that could provide several days of relief.",
+    "translation": "我决定慷慨地向这只无家可归的雄驹提供帮助。我把手伸进我的包里并取出了20块钱，这笔钱应该可以给他几天救济。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L15"
   },
   {
     "key": "dayevent_4e232c6d",
     "original": "The stallion bows and thanks me profusely.",
+    "translation": "那雄驹鞠了一躬，并且非常感谢我。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L16"
   },
   {
     "key": "dayevent_9a159b89",
     "original": "My heart urges me to help, but practical considerations temper my altruism. I am also technically homeless and surviving by the kindness of others. At the very least, I want to pass some of that forward.",
+    "translation": "我的内心催促我帮助他，但对实际的考虑缓解了我的利他主义。严格来说我也无家可归，靠着他马的善意才得以生存。至少，我想把其中一些善意传递下去。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L20"
   },
   {
     "key": "dayevent_44a0c345",
     "original": "I withdraw a modest sum and offer him the two notes.",
+    "translation": "我取出一小笔钱，从中拿了两张钞票给他。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L21"
   },
   {
     "key": "dayevent_c6a05f5b",
     "original": "He thanks me, and even though it may seem like an insignificant amount, even small gestures of kindness can have a meaningful impact.",
+    "translation": "他感谢我，尽管这也许看起来微不足道，但即使小小的善举也能产生意义深远的影响。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L22"
   },
   {
     "key": "dayevent_9e5569e6",
     "original": "Compelled by a mixture of indifference and self-preservation, I avert my gaze and continue on my way.",
+    "translation": "在冷漠和自我保护的双重驱使下，我移走了目光并继续走我的路。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L25"
   },
   {
     "key": "dayevent_5f51df38",
     "original": "Guilt gnaws at the edges of my conscience as I rationalize the decision. After all, I’m practically homeless with little money to my name too.",
+    "translation": "内疚感啃噬着我的良心，因为我在正当化我的决定。毕竟，我也几乎无家可归，几近身无分文。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L26"
   },
   {
     "key": "dayevent_1baf9a16",
     "original": "The distant sound of wheels grinding to a halt catches my attention. Curiosity piqued, I quicken my pace and soon spot a familiar wheel rolling past me.",
+    "translation": "远处轮子慢慢停下来的声音吸引了我的注意。我的好奇心被激发了，我加快了脚步并且很快发现一个熟悉的轮子从我身边滚过。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L35"
   },
   {
     "key": "dayevent_cc9f995b",
     "original": "It’s… [mox]’s caravan? Huh?",
+    "translation": "这是……[mox]的篷车？嗯？",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L37"
   },
   {
     "key": "dayevent_a49e4bce",
     "original": "A blonde dog girl hops out of the car pulling the wagon and growls at the lost wheel. It's actually kind of funny.",
+    "translation": "一个金发的狗女孩从拉着篷车的车上跳出来，对着丢失的轮子咆哮。这还挺滑稽的。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L39"
   },
   {
     "key": "dayevent_90f2d8ec",
     "original": "I grab the wheel and return it to her. Now that I'm closer, I think I recognize her.",
+    "translation": "我抓住了轮子并还给了她，现在我和她更近了，我想我认出她了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L40"
   },
   {
     "key": "dayevent_33034502",
     "original": "Thanks, stranger! Although... I’m not quite sure how I’m going to put this back on by myself...",
+    "translation": "非常感谢，陌生人！虽然……我不太确定如何靠我将这个轮子装回去……",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L53"
   },
   {
     "key": "dayevent_a0137de1",
     "original": "I step back and admire the wagon. It seems more rustic than I remember, like it's one coat of paint behind.",
+    "translation": "我退后一步欣赏篷车，它看起来比我记忆中的更加质朴，就像它背后涂了一层漆。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L54"
   },
   {
     "key": "dayevent_69c1b18e",
     "original": "How'd you end up with such a fine wagon?",
+    "translation": "你怎么得到这么好的篷车的？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L55"
   },
   {
     "key": "dayevent_9f6e61b9",
     "original": "I think it used to belong to some big performer. I thought it’d make a perfect holiday home.",
+    "translation": "我认为这曾经属于某个大表演家。我觉得这会是一个完美的度假屋。",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L57"
   },
   {
     "key": "dayevent_be949b2c",
     "original": "I’d like to check the inside, even if just for nostalgia, but it feels rude to ask while she's trying to fix the wagon.",
+    "translation": "我想看看这个篷车的内部，即使是为了怀旧，但是在她尝试修理这个篷车的时候问这个问题感觉太粗鲁了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L58"
   },
   {
     "key": "dayevent_a7f0b9a4",
     "original": "With a determined nod, I step forward and offer my help.",
+    "translation": "我坚定地点头，并走上前去提供帮助。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L62"
   },
   {
     "key": "dayevent_23fd7d9d",
     "original": "Together, under the hot sun and in the middle of a busy street, we set to work repairing the wagon wheel.",
+    "translation": "在炙热的太阳下和繁忙的街道中央，我们一起开始修理这个篷车轮子。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L64"
   },
   {
     "key": "dayevent_0907a3c6",
     "original": "It’s no easy task. We can't just put the wheel back on; the bolt holding the wheel needs to be replaced.",
+    "translation": "这不是一件容易的事情，我们不能直接把轮子装回去；固定轮子的螺栓需要被更换。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L65"
   },
   {
     "key": "dayevent_a1dfa06a",
     "original": "This turned the endeavour into a several hour ordeal of wandering around the town together to find the right replacement parts.",
+    "translation": "这使得这项工作变成了一场长达几个小时的磨难，我们一起在镇上徘徊着寻找合适的替换部件。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L66"
   },
   {
     "key": "dayevent_136996fb",
     "original": "My goodness, this place doesn’t have the right size either! I’m so sorry to drag you around like this!",
+    "translation": "天哪，这个地方也没有合适尺寸的螺栓！我很抱歉这样拖着你到处走！",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L68"
   },
   {
     "key": "dayevent_fb6f9579",
     "original": "Don’t worry about it. Let’s try the next shop.",
+    "translation": "别发愁，我们去下一家商店试试吧。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L69"
   },
   {
     "key": "dayevent_1ee317f9",
     "original": "I can’t exactly tell her I'm helping because I knew her from another universe, so she must only see me as an exceedingly kind stranger.",
+    "translation": "我不能确切地告诉她我帮助她是因为我是从另一个宇宙认识她的，所以她肯定只会把我视为一个非常善良的陌生人。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L70"
   },
   {
     "key": "dayevent_00d06a90",
     "original": "However, her positive outlook and affectionate doggy demeanour really contribute to the enjoyment of this experience.",
+    "translation": "然而，她积极的态度和深情的狗狗风度确实为这次经历增添了乐趣。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L72"
   },
   {
     "key": "dayevent_e8389d2f",
     "original": "Once we're back, the carriage begins to take shape again, inching closer to becoming roadworthy. [ros]’s relief is palpable.",
+    "translation": "当我们回来时，这辆篷车又开始恢复原状，渐渐变成适合行驶的状态了。[ros]明显松了一口气。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L74"
   },
   {
     "key": "dayevent_f926164e",
     "original": "Thank you so much! I absolutely couldn’t have done this without your help!",
+    "translation": "非常感谢你！如果没有你的帮助我完全做不到这个！",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L76"
   },
   {
     "key": "dayevent_b66ebe37",
     "original": "No problem! I couldn’t leave you stranded like that. Say, do you mind if I come inside?",
+    "translation": "不用谢！我不能让你像这样孤身一狗，你介意我进去这辆篷车吗？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L77"
   },
   {
     "key": "dayevent_8e2bd2ee",
     "original": "Oh? Be my guest!",
+    "translation": "噢？请便！",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L79"
   },
   {
     "key": "dayevent_a6c75b86",
     "original": "As I step inside, I expect a wave of nostalgia, but with most of the furniture rearranged, the wagon feels completely different. Only this one corner remains recognizable.",
+    "translation": "踏进车内，我本期待着会有一股怀旧之情，但是随着车内的大部分家具都被重新布置，这篷车感觉完全不同了。只有这个角落还能辨认出来。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L82"
   },
   {
     "key": "dayevent_abcf9bfa",
     "original": "When I enter the bedroom, I… Oh my goodness!",
+    "translation": "当我进入卧室时，我……噢天哪！",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L89"
   },
   {
     "key": "dayevent_af9053ca",
     "original": "You said you wanted to cum inside, didn’t you~?",
+    "translation": "你不是说过你想射在里面吗~？",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L112"
   },
   {
     "key": "dayevent_4aada403",
     "original": "I didn’t even notice her slip in here. I was so focused on the labor of fixing the wagon, that I probably didn’t notice [ros] swooning from the sidelines as she watched me.",
+    "translation": "我甚至都没注意到她溜了进来。我当时太专注于修篷车了，以至于我可能都没有注意到[ros]在一边已经神魂颠倒地看着我了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L113"
   },
   {
     "key": "dayevent_57b61149",
     "original": "You’re such a hardworking hunk… I’m not even going to pretend I’m offering this as thanks, I just straight up want your cock!",
+    "translation": "你真是一个能干的猛男啊…我甚至不会假装我这样子献给你是作为感谢，我只是想直接要你的肉棒！",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L114"
   },
   {
     "key": "dayevent_dd7a9b64",
     "original": "Awwhhh… We’re not going to?",
+    "translation": "哇啊…我们不是要做爱吗？",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L119"
   },
   {
     "key": "dayevent_08927837",
     "original": "R-Right… If you’re ever in [rub]’s brothel, you should see me! I don’t usually sleep with clients, but I can make an exception for you.",
+    "translation": "好吧…如果你去过[rub]的妓院，你应该见见我！我通常不和客户睡觉，但是我可以为你破例。",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L124"
   },
   {
     "key": "dayevent_2d6c29ef",
     "original": "Oohhhh yes! I want you to pump me full of puppies! I need it so bad!",
+    "translation": "哦是的！我想要你用小狗崽崽给我灌满！我太需要它了！",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L126"
   },
   {
     "key": "dayevent_72e77575",
     "original": "I stood there naked before [ros], that irresistible canine goddess. Her fur glistened under the setting sun, inviting me into her soft, warm embrace. Her ample breasts were heaving with anticipation as she wagged her tail at me, her eyes sparkling with desire.",
+    "translation": "我赤身裸体地站在[ros]面前，那位令人无法抗拒的犬女神，她的皮毛在落日下闪闪发光，似乎在邀请我投入她那柔软且温暖的怀抱。她对我摇着尾巴，丰满的乳房满怀期待地起伏着，眼睛里闪烁着渴望的光芒。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L127"
   },
   {
     "key": "dayevent_7ae29b10",
     "original": "The sight of her wet pussy, glistening with anticipation, stole my attention as I stepped closer, my raging erection throbbing with each step.",
+    "translation": "当我走近她时，一看到她那闪烁着期待的光芒的湿漉漉的阴部，我的注意力便完全被这偷走了，每走近一步，我的硬挺便会剧烈悸动。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L128"
   },
   {
     "key": "dayevent_b8d32a30",
     "original": "{i}Pant, pant{/i} Don’t hold back; I haven’t had a good pounding in years!",
+    "translation": "{i}喘气，喘气{/i}不要退缩！我已经好几年没有这么舒服的感觉了！",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L129"
   },
   {
     "key": "dayevent_d5763458",
     "original": "Hehe, I can tell, but don’t worry, you’ll be remembering this one for years.",
+    "translation": "呵呵，我看得出来，但是不用担心，你会记住这种感觉很多年的。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L130"
   },
   {
     "key": "dayevent_8e34f8d1",
     "original": "Gently, moved over her on the soft bed beneath us, her ample ass lifting off the sheets as I positioned myself between her thighs. I could see her quiver as I teased my tip against her engorged clit, sending waves of pleasure through her body.",
+    "translation": "我轻轻地将身子移到我们身下柔软的床上并越在她身上，我将自己位置定在了她大腿之间时，她那丰满的屁股便从床单上抬起。我用龟头挑逗着她那肿胀的阴蒂，看着她颤抖着，阵阵快感从她的身体涌现出来。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L131"
   },
   {
     "key": "dayevent_acc4216d",
     "original": "Aaaahhhh… I’m ready for you!",
+    "translation": "啊哈...我准备好被你插进来了！",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L132"
   },
   {
     "key": "dayevent_effbe6aa",
     "original": "I groaned as I felt her tight pussy grip my shaft as I slid inside, impaling her with my cock in a single deep thrust. She was certainly wet and ready!",
+    "translation": "当我肉棒滑进她的小穴时，她那紧绷的小穴紧紧地夹住了我的柱身，我呻吟着，用一次猛插将我的肉棒一下子顶穿她的小穴。她确实已经准备好被插进来了！因为她已经湿得不能再湿了！",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L136"
   },
   {
     "key": "dayevent_46eeddb7",
     "original": "[ros] let out a loud whine of ecstasy as I began to thrust into her, her hands digging into my back as I claimed her body. The sound of my flesh and her fur slapping together filled the air as I pumped her hard and deep.",
+    "translation": "当我开始插入她时，[ros]陶醉地发出一声呜咽，当我占据她的身体的时候，她的手紧紧地抓住了我的后背，当我用力地深深抽插她时，空气里尽是我的肉体和她的皮毛拍打在一起的声音。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L138"
   },
   {
     "key": "dayevent_c683f4a1",
     "original": "Woaahhh… Your pussy feels fucking incredible! It’s squeezing around me so tightly!",
+    "translation": "哦啊...你的小穴感觉是真他妈的棒！它包的我肉棒紧紧的！",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L139"
   },
   {
     "key": "dayevent_5c766fe1",
     "original": "Uoohhhh… Are you sure it’s not just your cock being massive? You’re filling me up completely! Nngghh!",
+    "translation": "哦啊...你确定这不是因为你的肉棒很大？你已经完全塞满了我！嗯啊！",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L140"
   },
   {
     "key": "dayevent_51ecc16a",
     "original": "I reached out, my fingers brushing against her supple fur as I cupped her breasts, feeling her heartbeat race beneath her skin.",
+    "translation": "我伸出手，当我捧住她的乳房的时候，我的手指抚过她那柔软的皮毛，感受着她的心在皮肤下面加速跳动。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L141"
   },
   {
     "key": "dayevent_5d30538b",
     "original": "I could hardly contain my lust as I leaned down, my lips meeting hers in a passionate kiss that left us both breathless. Her tongue danced with mine, tasting of sweet animal desire as her hands found their way up to my neck.",
+    "translation": "我俯下身子，我几乎无法控制我的欲望，我们的双唇相碰并进行了几乎让我们喘不过气来的激情热吻。她的舌头同我的舌头一起缠绕热舞，当她把手伸在我的脖子上时，我品尝到了甜蜜的兽欲。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L142"
   },
   {
     "key": "dayevent_734aedac",
     "original": "Mmphhh… {i}Kiss, slurp{/i} Aaahhh, love yoursh kisshes~ {i}Kiss, lick{/i}",
+    "translation": "呣...{i}亲亲，吮吸{/i}啊哈~爱你的吻~{i}吻吮{/i}",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L143"
   },
   {
     "key": "dayevent_c1ef53ba",
     "original": "It was almost hard to believe we were in the middle of a public road as she enveloped me in her erotic embrace and moaned without a care in the world.",
+    "translation": "很难相信当她用充满情欲的怀抱包裹住我并且毫无顾忌地呻吟时，我们正身处一条公共道路中间。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L144"
   },
   {
     "key": "dayevent_685d99ce",
     "original": "Her hefty tits were bouncing with each powerful thrust, and her whines were growing louder with each passing moment.",
+    "translation": "她那丰满的乳房随着我每次有力的插入而弹跳，而她的呜咽声也随着时间的流逝越来越大。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L145"
   },
   {
     "key": "dayevent_c85dcee0",
     "original": "Uuuuu! I’m getting really close! Aaahhh!",
+    "translation": "嗯！我快要去了！啊哈！",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L146"
   },
   {
     "key": "dayevent_8cb48856",
     "original": "Good girl, cum for me! I’m close too!",
+    "translation": "好女孩，为我高潮！我也快射了！",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L147"
   },
   {
     "key": "dayevent_a3d07a73",
     "original": "As I called her a good girl, I could feel her wet pussy clenching around my cock, milking me with every spasm of her inner muscles as I plowed into her relentlessly.",
+    "translation": "当我称她为好女孩的时候，我可以感觉到她湿润的小穴正在紧紧包裹着我的肉棒，当我毫不留情地抽插她的时候，她那小穴内肌肉的每一次痉挛都在狠狠地榨取我。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L148"
   },
   {
     "key": "dayevent_ebeb1180",
     "original": "I leaned down, my lips finding her neck, biting gently as I whispered filthy words of desire into her ear. She whimpered her approval, her body arching off the ground as her orgasm ripped through her like wildfire.",
+    "translation": "我俯下身子，我的嘴唇触及并轻轻咬住她的脖子，轻声说着的淫秽的情欲之语传入她的耳中。她呜咽地表达了她的赞同，当高潮如同野火一般席卷她时，她的身体从地上拱了起来。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L149"
   },
   {
     "key": "dayevent_c44a4dcc",
     "original": "Her pussy tightened around me as her juices flowed freely, coating my shaft with her essence as her body shook with ecstasy.",
+    "translation": "她的小穴紧包着我，任凭爱液自由畅流，我的柱体被她精华所涂满，而她的身体因狂喜而颤抖。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L150"
   },
   {
     "key": "dayevent_77a24ddf",
     "original": "Ahh! I’m about to cum!",
+    "translation": "啊哈！我要射了！",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L151"
   },
   {
     "key": "dayevent_024a1644",
     "original": "Yessss! Give it to me! Fill me with your puppies!",
+    "translation": "好耶！射给我吧！用你的小狗崽崽灌满我！",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L152"
   },
   {
     "key": "dayevent_d531393d",
     "original": "I could feel my own orgasm building, my balls tightening as I slammed into her one last time, burying myself deep within her quivering core.",
+    "translation": "我能感觉到我正在进入高潮状态，当我最后一次猛插她的时候我的蛋蛋紧缩，我把我肉棒深深地埋入她颤抖的核心区中。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L153"
   },
   {
     "key": "dayevent_aba0a959",
     "original": "With one final growl of satisfaction, I let go, my hot cum flooding her insides as I held her close through our shared moment of release.",
+    "translation": "随着最后一声满足的低吼，我把持不住了，我滚烫的精液如洪水般涌入她的体内，我紧紧地抱着她，共同享受着释放的时刻。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L158"
   },
   {
     "key": "dayevent_118e6423",
     "original": "There’s so much! Aaaahhhhh, it feels so warm!",
+    "translation": "你射了好多！啊哈，这感觉好温暖！",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L163"
   },
   {
     "key": "dayevent_ccd80c45",
     "original": "We continue rutting until the heightened pleasure of our orgasms finally fades.",
+    "translation": "我们继续发情直到欲仙欲死的高潮快感衰退。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L164"
   },
   {
     "key": "dayevent_6e9b78b2",
     "original": "We lay there entwined, breathless, and sated, our juices mixing together as we basked in the afterglow of our carnal union. I could have stayed there forever, but eventually, reality crept back in as I heard the sounds of passing pedestrians.",
+    "translation": "我们缠绕着躺在床上，上气不接下气，心满意足，我们的爱液混合在一起，而我们还在沉浸在合体的余晖中。我本可永远地待在这里，但最终，现实已随着我听到的过路行人的声音悄然回到了我的身边。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L171"
   },
   {
     "key": "dayevent_927174be",
     "original": "With one last kiss, I pulled out of her, watching as her freshly fucked pussy leaked cum, leaving me both wanting more but feeling satisfied with what we'd shared.",
+    "translation": "最后一次亲吻后，我从她的体内抽出，看着她刚刚被我操过的小穴流出精液，这既让我俩欲求不满，又对她同我共同分享的美好而感到满足。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L172"
   },
   {
     "key": "dayevent_f70eb322",
     "original": "Oooohhhh yes! You weren’t kidding about giving me a fuck for the ages. I feel full of energy after that!",
+    "translation": "噢噢噢！你没开玩笑！你说要操我好久！操完后我又感觉精力充沛！",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L173"
   },
   {
     "key": "dayevent_c582a5b6",
     "original": "I smiled as I watched [rosa] bounce up, her tag wagging wildly.",
+    "translation": "当我看见[rosa]跃起来，她的尾巴疯狂地摇摆的时候，我笑了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L179"
   },
   {
     "key": "dayevent_e99bb6cb",
     "original": "Haha, I must admit, I was not expecting my day to go like this.",
+    "translation": "哈哈，我必须承认，这一天这样度过完全在我的意料之外。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L180"
   },
   {
     "key": "dayevent_d0bffd3c",
     "original": "It’s tragic to part, but I believe we both have places to be.",
+    "translation": "离别固然悲伤，但我相信我们都有自己的归宿。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L181"
   },
   {
     "key": "dayevent_463c1c0d",
     "original": "Say it ain’t so… But this is a moment in time I’ll certainly never forget.",
+    "translation": "这不是真的…但这是我永远不会忘记的时刻。",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L183"
   },
   {
     "key": "postros1_710eb078",
     "original": "I hope we’ll see each other again sometime, [mc]!",
+    "translation": "我希望我们有机会再见面，[mc]!",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L186"
   },
   {
     "key": "postros1_5001abd9",
     "original": "I returned to the apartment to rest.",
+    "translation": "我回到公寓里休息了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L188"
   },
   {
     "key": "postros1_38830ba9",
     "original": "Ah, thanks! Take care, stranger.",
+    "translation": "啊，谢谢！多保重陌生人。",
+    "stage": 1,
     "context": "说话人: ros \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L191"
   },
   {
     "key": "postros1_08cd7a26",
     "original": "As I navigate through a bustling marketplace, far larger and more exhausting than any I've visited before, I spot exactly what I'm looking for.",
+    "translation": "当我在一个繁忙的市场中穿行时，这个市场比我以前去过的任何一个都大得多，也更累人，不过我准确地找到了我要找的东西。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L202"
   },
   {
     "key": "postros1_fe05065c",
     "original": "Donuts! [mox] loves these, so I'll buy some as a treat.",
+    "translation": "甜甜圈！[mox] 喜欢这些，所以我会买一些作为款待用。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L203"
   },
   {
     "key": "postros1_bad136e7",
     "original": "As I make my purchase, the distracted merchant accidentally hands me a 20 monie bill back instead of 5. I'm briefly excited by this realization, but...",
+    "translation": "在我购物时，那个分心的商人不小心把一张20的钞票还给了我，而不是5元的，我感到短暂的兴奋，但是......",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L204"
   },
   {
     "key": "postros1_6ee00058",
     "original": "Temptation tugs at me. After all, no one would notice. With the marketplace this busy, the merchant's coffers must be overflowing.",
+    "translation": "我被诱惑到了。毕竟没有人会注意到。因为市场如此繁忙，商人的金库肯定已经满了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L210"
   },
   {
     "key": "postros1_efbba48b",
     "original": "With a subtle glance around, I discreetly pocket the extra change, rationalizing it as a stroke of good luck amid the chaos.",
+    "translation": "我小心翼翼地环顾四周，把找多的钱装进口袋，把它合理化为混乱中的好运。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L211"
   },
   {
     "key": "postros1_3006c1b2",
     "original": "My sense of honesty compels me to do the right thing. Despite the allure of extra coins, I gently alert the merchant to the mistake and exchange the 20 bill for the correct amount.",
+    "translation": "我的诚实感迫使我做正确的事。尽管有找多钱的诱惑，我还是平和地提醒商家注意错误，并将20元换成正确的金额。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L213"
   },
   {
     "key": "postros1_cc237ca0",
     "original": "As a bonus for the honesty, he thanks me, hands me a crumpled stack of three 1 monie bills then continues frantically working.",
+    "translation": "作为对诚实的奖励，他感谢我，递给我一堆皱巴巴的三张1元钞票，然后继续疯狂地工作。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L214"
   },
   {
     "key": "postros1_bea835fc",
     "original": "Strolling down a bustling street, I notice something on the pavement, partially obscured by fallen leaves.",
+    "translation": "漫步在繁华的街道上，我注意到人行道上有什么东西，部分被落叶遮住了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L226"
   },
   {
     "key": "postros1_304ce2e1",
     "original": "When I bend down to investigate, my heart skips a beat—I’ve found a lost wallet.",
+    "translation": "当我弯腰查看时，我的心跳加快了——我找到了一个丢失的钱包。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L227"
   },
   {
     "key": "postros1_0691b551",
     "original": "Inside, I find crisp bills neatly tucked away. My fingers brush the smooth surface of the currency, and I count fifty monies in total. What luck!",
+    "translation": "在钱包里面，我发现干净的钞票被整齐地藏了起来。我的手指刷着光滑的钞票表面，我数了数总共五十元。真幸运！",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L228"
   },
   {
     "key": "postros1_321e0c51",
     "original": "But then, I find something unexpected—a slip of paper with a nearby return address, important cards, and a small photo of a mare with purple sunglasses.",
+    "translation": "但然后，我发现了一些意想不到的东西——一张写着附近送回地址的纸条、重要的卡片和一张戴着紫色太阳镜的雌驹的小照片。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L229"
   },
   {
     "key": "postros1_25a014c8",
     "original": "Aaahhh… Damn…",
+    "translation": "啊…该死…",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L230"
   },
   {
     "key": "postros1_77729e92",
     "original": "Returning the wallet means giving up its contents…",
+    "translation": "归还钱包意味着放弃里面的东西…",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L231"
   },
   {
     "key": "postros1_736c0383",
     "original": "In the end, I know what I must do. With a heavy sigh, I resolve to do the right thing, no matter how difficult.",
+    "translation": "最后，我知道我必须做什么。我深深地叹了口气，决定做正确的事，无论多么困难。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L234"
   },
   {
     "key": "postros1_006628bd",
     "original": "Clutching the wallet tightly, I make my way to the nearby address and return it to its rightful owner.",
+    "translation": "我紧紧抓住钱包，走到附近的地址，把它还给了它的原主。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L235"
   },
   {
     "key": "postros1_00bc06cd",
     "original": "Oh! Thank you! Thank you so much!",
+    "translation": "哦！非常感谢。非常感谢！",
+    "stage": 1,
     "context": "说话人: chl \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L236"
   },
   {
     "key": "postros1_4a2edc3c",
     "original": "Ah… You’re!",
+    "translation": "啊…你是！",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L237"
   },
   {
     "key": "postros1_2907fbf8",
     "original": "Recognize meeve? A brothel regular, perhaps?",
+    "translation": "认识我吗？也许是妓院常客？",
+    "stage": 1,
     "context": "说话人: chl \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L247"
   },
   {
     "key": "postros1_f0cd2a45",
     "original": "She slips me a 20 M note and winks.",
+    "translation": "她递给我一张20的钞票，眨了眨眼。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L248"
   },
   {
     "key": "postros1_e5e8edfe",
     "original": "I’ll certainly recognize you, so if you ever see me there and want a special, I’ll give you a discount~",
+    "translation": "我肯定会认出你的，所以如果你在那里看到我，想要特价的话，我会给你打折的~",
+    "stage": 1,
     "context": "说话人: chl \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L249"
   },
   {
     "key": "postros1_0e03332b",
     "original": "(Gained +20 M and a discount on at the brothel!)",
+    "translation": "（获得了20元和妓院的折扣）",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L250"
   },
   {
     "key": "postros1_c2787a59",
     "original": "With a swift motion, I slip the wallet into my satchel. The weight fills my bag, a tangible reminder of the wealth now in my possession.",
+    "translation": "我迅速将钱包塞进背包里。它的重量填满了我的包，这是对我现在拥有财富的切实提醒。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L254"
   },
   {
     "key": "postros1_0cf716de",
     "original": "I continue down the street, wondering what I’ll do with all that money.",
+    "translation": "我继续沿着这条街走下去，想着用这笔钱做些什么。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L255"
   },
   {
     "key": "blankday_d9b66acc",
     "original": "I spent the morning researching my leads and planning my next moves.",
+    "translation": "我花了一个早晨的时间来研究我的线索和我下一步的计划。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L260"
   },
   {
     "key": "nightevent_5e9b3b9d",
     "original": "As [mox] and I got into bed, the entire thing suddenly began to shake. Another earthquake.",
+    "translation": "当 [mox] 和我上床时，突然所有东西都开始震动。又一场地震。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L273"
   },
   {
     "key": "nightevent_68b7f075",
     "original": "You’re not vibrating, are you?",
+    "translation": "不是你在震，对吧？",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L275"
   },
   {
     "key": "nightevent_da2d9e9d",
     "original": "I don’t think so.",
+    "translation": "我不这么想。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L276"
   },
   {
     "key": "nightevent_91172884",
     "original": "Damn, I kind of wish you could.",
+    "translation": "该死，我有点希望你能。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L278"
   },
   {
     "key": "nightevent_b893bfc0",
     "original": "I’m seriously wondering why this universe has earthquakes.",
+    "translation": "我真的很想知道为什么在这个宇宙中总是会发生地震。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L279"
   },
   {
     "key": "nightevent_5f16f243",
     "original": "I heard from someone that they’re technically not earthquakes, which are when tectonic plates in the earth move against each other or something.",
+    "translation": "我从某马那里听说：严格来讲，这并不算地震，地震是指地球上的构建板块相互碰撞或发生其他运动。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L281"
   },
   {
     "key": "nightevent_501745e6",
     "original": "Instead the entire planet is shaking.",
+    "translation": "相反，整个星球都在震动。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L283"
   },
   {
     "key": "nightevent_ec4671e1",
     "original": "What? The {i}entire{/i} planet?",
+    "translation": "什么？{i} 整个{/i} 星球？",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L284"
   },
   {
     "key": "nightevent_860c8d2e",
     "original": "I mean, just a theory. But these ‘earthquakes’ are global.",
+    "translation": "我的意思是，这只是一个理论，但是这些“地震”是全球性的。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L286"
   },
   {
     "key": "nightevent_b75b1465",
     "original": "Man… This universe is something else.",
+    "translation": "天哪...这个宇宙是另一个样子的。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L287"
   },
   {
     "key": "nightevent_3756f425",
     "original": "[mc], are you there? I don’t have long.",
+    "translation": "[mc],你在这吗？我时间不多了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L311"
   },
   {
     "key": "nightevent_1de57ac1",
     "original": "A shimmering figure with a familiar voice appeared before me.",
+    "translation": "一个闪闪发光的身形随着熟悉的声音出现在我面前。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L312"
   },
   {
     "key": "nightevent_50b3b016",
     "original": "You’re doing so good so far – keep meeting with the virtues, so they can reach their potential.",
+    "translation": "到目前为止你做的很好-继续与谐律相遇，这样他们才能发挥他们的潜力。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L313"
   },
   {
     "key": "nightevent_781fa6a4",
     "original": "And with that, hopefully, this –",
+    "translation": "随着潜力的发挥，这有望–",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L314"
   },
   {
     "key": "nightevent_fa496812",
     "original": "Ack?! How could the dream end right there?",
+    "translation": "哎呀？！梦境怎么就这样结束了？",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L320"
   },
   {
     "key": "nightevent_54895896",
     "original": "That woman though… I only know one person that was able to comfortably enter people’s dreams to communicate with them, and since this is the third dream of its type in a row, I can’t put it down to coincidence.",
+    "translation": "不过那个女子...我只知道一个人能够轻松地进去人们的梦境并与他们交流，而且这已经是连续的第三个梦了，我不能视其为巧合。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L321"
   },
   {
     "key": "nightevent_58d2b137",
     "original": "Princess [sel] is trying to communicate with me – but… this is a world without Princess [sel].",
+    "translation": "[sel] 公主正尝试与我交流-但...这是一个没有[sel] 公主的世界。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L322"
   },
   {
     "key": "nightevent_31fcf07a",
     "original": "Just as we’re getting into bed, I remember my dream from the prior night.",
+    "translation": "正当我们上床时，我想起了前一晚的梦。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L327"
   },
   {
     "key": "nightevent_cfae12c8",
     "original": "[mox], I had a small question for you.",
+    "translation": "[mox], 我有一个小问题要问你。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L328"
   },
   {
     "key": "nightevent_746d806a",
     "original": "You can ask me anything you want, darling.",
+    "translation": "你想问我什么都可以，亲爱的。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L330"
   },
   {
     "key": "nightevent_346183de",
     "original": "It’s just… I’ve kind of asked you this before, but it’s about a Princess [sel].",
+    "translation": "只是...我以前就问过你这个，但这是关于一位公主 [sel] 。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L331"
   },
   {
     "key": "nightevent_dbb47146",
     "original": "Yeah, I’ve never heard of her before. It’s hard to imagine that I’m blood related to someone like that.",
+    "translation": "是的，我之前从未听闻过她，很难想象我同这样的人有血缘关系。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L333"
   },
   {
     "key": "nightevent_87c5ba8b",
     "original": "Hm… She’s supposed to be [aur]’s sister, the Princess of the Moon.",
+    "translation": "嗯...她应该应该是[aur]的妹妹，月之公主。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L334"
   },
   {
     "key": "nightevent_fdbdf9c3",
     "original": "A Queen of the Sun and a sister Princess of the Moon would certainly make a lot of sense.",
+    "translation": "一个日之公主和一个月之公主肯定会很有意义。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L336"
   },
   {
     "key": "nightevent_47658910",
     "original": "She’s been appearing in my dreams, asking me to gather the virtues. Although I haven’t quite figured out why, I can only imagine it’s related to solving the troubles around the world.",
+    "translation": "她经常出现在我的梦里，要求我召集谐律，虽然我还不太明白为什么，我只能想象这与解决世界各地的麻烦有关。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L337"
   },
   {
     "key": "nightevent_60c92be7",
     "original": "It sounds like we need to get that meeting with [aur] and fast!",
+    "translation": "听起来我们需要尽快同 [aur] 会面！",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L339"
   },
   {
     "key": "nightevent_b675f12e",
     "original": "You’re right. I’ll ask her for help directly.",
+    "translation": "你是对的。我会直接向她寻求帮助。",
+    "stage": 1,
     "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L340"
   },
   {
     "key": "nightevent_22e5fd2a",
     "original": "I get into bed, and [mox] snuggles up beside me as we doze off together.",
+    "translation": "我钻进被窝，[mox] 依偎在我身边，我们一同睡觉。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L342"
   }
 ]

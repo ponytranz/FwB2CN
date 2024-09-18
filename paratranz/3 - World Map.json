@@ -2,201 +2,281 @@
   {
     "key": "worldmap_04c87fd0",
     "original": "You've completed all the main story content so far in 0.2! Thanks for playing! {a=https://www.patreon.com/TwistedScarlett}Support me on Patreon for updates and your say in the game's development!{/a}",
+    "translation": "到目前为止，您已经在0.2中完成了所有主要故事内容!谢谢你的游玩!{a=https://www.patreon.com/TwistedScarlett}在Patreon上支持我的更新并对游戏开发给出你的意见!{/}",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L15"
   },
   {
     "key": "worldmap_7a045a42",
     "original": "Would you please take a moment to review this game?",
+    "translation": "你能花点时间评价一下这个游戏吗?",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L16"
   },
   {
     "key": "worldmap_ebcb3a69",
     "original": "Please post your thoughts in the #my-games-spoiler-discussion channel of the Patreon Discord server! Thank you!",
+    "translation": "请在Patreon Discord服务器的#my-games- spoil-讨论频道中发表您的想法!谢谢你！",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L20"
   },
   {
     "key": "worldmap_317a9b61",
     "original": "You can leave a review by clicking the stars in the top right of the thread.",
+    "translation": "你可以通过点击主题右上角的星星来留下评论。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L23"
   },
   {
     "key": "worldmap_39561cc1",
     "original": "I also read all posts on this thread, if you have any bug reports or simply something to say, feel free to drop by!",
+    "translation": "我也会看这个主题上的所有帖子，如果你有任何bug报告或只是想说什么，请随时来拜访!",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L24"
   },
   {
     "key": "moxgiftmenu_848fb07f",
     "original": "[mox]'s eyes widen as she unwraps the gift, revealing a set of bold spiked accessories. Her expression shifts from surprise to delight as she examines its features.",
+    "translation": "当[mox]拆开礼物盒的时候，她的眼睛立刻睁大了。盒子里里面装着前卫的带刺饰品。当她赞叹于其特色时，高兴渐渐取代了惊讶。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L139"
   },
   {
     "key": "moxgiftmenu_cd1f457f",
     "original": "Behold, the Great and Powerful [mox] has received an unexpected yet marvelous gift! Truly, this'll amplify my already dazzling presence.",
+    "translation": "看好了，伟大而全能的[mox]收到了一份意料之外的神奇礼物！有了它，我将成为更加耀眼的存在。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L140"
   },
   {
     "key": "moxgiftmenu_b1f2a0d7",
     "original": "Thank you so much, baby. I know exactly how to use this one against you.",
+    "translation": "真是太感谢你了，宝。我十分清楚该怎么在你旁边时使用它。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L141"
   },
   {
     "key": "moxgiftmenu_5d83a2ef",
     "original": "[mox]'s eyes widened with delight as she unwrapped the gift, revealing a sleek bunny suit complete with fishnets and a playful plug tail.",
+    "translation": "当[mox]拆开礼物盒的时候，她的眼睛立刻睁大了。盒子里里面装着一套光滑的兔子服，渔网袜和一个调皮的肛塞尾巴。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L150"
   },
   {
     "key": "moxgiftmenu_d1ad2b4f",
     "original": "Whoa, you really outdid yourself this time!” she exclaimed, holding up the outfit.",
+    "translation": "哇，你这次可真是超长发挥了！”她激动的喊着，举起了这套服装。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L151"
   },
   {
     "key": "moxgiftmenu_3b8868e5",
     "original": "Her fingers traced the smooth fabric, and she couldn’t help but grin.",
+    "translation": "她的指头抚过着它光滑的布料，情不自禁地坏笑起来。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L152"
   },
   {
     "key": "moxgiftmenu_9e09bd2c",
     "original": "This is absolutely adorable. I love it! I can't wait to try it out with you.",
+    "translation": "太可爱了。我好喜欢它！我等不及和你试试它了。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L153"
   },
   {
     "key": "moxgiftmenu_9e0660f0",
     "original": "[mox]'s eyes lit up as she unwrapped the pantyhose.",
+    "translation": "当[mox]取出连裤袜时，她的眼睛亮了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L162"
   },
   {
     "key": "moxgiftmenu_5bbc1e96",
     "original": "Wow, these are perfect! You really know my style!",
+    "translation": "哇，简直完美！你简直对我的风格了如指掌！",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L163"
   },
   {
     "key": "moxgiftmenu_3e39f8a1",
     "original": "Oh, this is absolutely gorgeous!",
+    "translation": "哦，真是百里挑一的美！",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L173"
   },
   {
     "key": "moxgiftmenu_31d946b9",
     "original": "She slipped it on immediately, a sly smile playing on her lips.",
+    "translation": "她立刻穿上了它，一抹狡黠的笑容控制了嘴唇。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L174"
   },
   {
     "key": "moxgiftmenu_e19a9fc6",
     "original": "You've got excellent taste, darling. Thank you, this is a gift we'll both enjoy~",
+    "translation": "你品味真棒，亲爱的。谢啦，我们都能好好享受这份礼物～",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L175"
   },
   {
     "key": "moxgiftmenu_1d4f1ff9",
     "original": "Aren't you full of surprises!",
+    "translation": "你总是携着满身惊喜！",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L184"
   },
   {
     "key": "moxgiftmenu_59102a47",
     "original": "She twirled the plug in her fingers, clearly intrigued.",
+    "translation": "她把玩着肛塞，很是感兴趣。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L185"
   },
   {
     "key": "moxgiftmenu_0971c65d",
     "original": "Never used one, but...",
+    "translation": "我还从没试过，但...",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L186"
   },
   {
     "key": "moxgiftmenu_2acbad29",
     "original": "Leaning in closer, her voice drops to a playful whisper.",
+    "translation": "她靠了过来，向你淘气地低语。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L187"
   },
   {
     "key": "moxgiftmenu_c56bcf09",
     "original": "I can't wait to try it out later~",
+    "translation": "我等不及试试了～",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L188"
   },
   {
     "key": "moxgiftmenu_85b50c7d",
     "original": "Well, well, look at you, thinking ahead!",
+    "translation": "啧，啧，看看你，高瞻远瞩！",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L197"
   },
   {
     "key": "moxgiftmenu_89aa4ad5",
     "original": "She examined the bottle with a playful smirk, clearly pleased.",
+    "translation": "她淘气地坏笑着，仔细检查着瓶子，高兴得不得了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L198"
   },
   {
     "key": "moxgiftmenu_afe8e99a",
     "original": "You really do know how to spoil a girl.",
+    "translation": "你真会宠女孩。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L199"
   },
   {
     "key": "moxgiftmenu_7aa8eed1",
     "original": "And I have a feeling that this is going to come in handy very soon~",
+    "translation": "而且我觉得这很快会派上用场的哦～",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L200"
   },
   {
     "key": "moxgiftmenu_14b0bdb9",
     "original": "Ohoh, this is wickedly delightful!",
+    "translation": "哦哦，邪恶！",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L209"
   },
   {
     "key": "moxgiftmenu_bd575c0e",
     "original": "She bit her lip as she traced the ornate cover with her fingers.",
+    "translation": "她咬着嘴唇，拂过华丽的表面。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L210"
   },
   {
     "key": "moxgiftmenu_b8c584fd",
     "original": "You really know the way to a girl's heart.",
+    "translation": "你很擅长找到通向女孩心里的路嘛。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L211"
   },
   {
     "key": "moxgiftmenu_624fc2a1",
     "original": "Flipping through the pages, she chuckled at the illustrations and incantations.",
+    "translation": "她一边翻着书页，一边对着插图和咒语笑笑。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L212"
   },
   {
     "key": "moxgiftmenu_c0639505",
     "original": "I can't wait to try some of these out! You'll definitely be getting a front-row seat to the magic show, stud~",
+    "translation": "我等不及试试它了！你绝对会在这场魔法秀里坐在前排的，种马～",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L213"
   },
   {
     "key": "moxgiftmenu_ba25a445",
     "original": "Yes please~",
+    "translation": "怎么了～",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L242"
   },
   {
     "key": "moxgiftmenu_342132b2",
     "original": "I feel exhausted!",
+    "translation": "我累坏了！",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L248"
   },
   {
     "key": "moxgiftmenu_db4f44d9",
     "original": "Aw.",
+    "translation": "嗷唔。",
+    "stage": 1,
     "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L258"
   },
   {
     "key": "forest_d2543a08",
     "original": "In Dev",
+    "translation": "开发中",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L268"
   },
   {
     "key": "bakery_d2543a08",
     "original": "In Dev",
+    "translation": "开发中",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L271"
   },
   {
     "key": "bar_d2543a08",
     "original": "In Dev",
+    "translation": "开发中",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L274"
   },
   {
     "key": "castle_39dfaf37",
     "original": "Guards at the city gate stop me, refusing me entry without a pass.",
+    "translation": "城门的守卫挡住了我，没有通行证是进不去的。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L277"
   },
   {
     "key": "sleep_c61a5cc7",
     "original": "As the sun began to set, the city woke up, and it was time for me to head out.",
+    "translation": "当太阳开始落山之时，整个城市都苏醒了。是时候动身了。",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L293"
   },
   {
     "key": "energytutorial_7700740c",
     "original": "(Having wild sex can be quite tiring! While in free-roam, you only have so much energy to have sex. Going to sleep will restore your energy!)",
+    "translation": "（到处做爱很累的！在自由行动中，你只有这么多点精力来做爱。睡觉可以把精力回满！）",
+    "stage": 1,
     "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L326"
   }
 ]
