@@ -1,5 +1,6 @@
 ﻿label brothel:
     hide screen worldmap
+    show screen vnui
     if brothelroute1 == 0:
         jump brothel1
     play music clubtheme fadein 1
@@ -7,13 +8,387 @@
     with d
     menu brothelmenu:
         "Work (Ask [rub] for an Interview)" if brothelroute2 == 0:
-            jump brothelmenu
+            menu:
+                "(Go to [rub] now?)":
+                    show black
+                    show bg brothel5
+                    with d
+                    jump brothel2
+                "(Back)":
+                    jump brothelmenu
         "Work" if brothelroute2 == 1:
             jump brothelwork
-        "Choose a Hostess (In Development)":
-            play sound2 error
+        "Choose a Hostess":
+            menu hostessmenu:
+                "Grey Mare" if clairenamed == 0:
+                    show cla happy with d
+                    $ clairenamed = 1
+                    menu:
+                        "I think I recognize her. What was her name?"
+                        "Default: Claire":
+                            $ claire = "Claire"
+                        "Custom":
+                            $ claire = renpy.input("What was her name?")
+                            if claire == "":
+                                $ claire= "Claire"
+                            $ claire = claire.strip()
+                    jump bclaire
+                "[cla]" if clairenamed == 1:
+                    label bclaire:
+                        show cla happy with d
+                    if bclairemet == 0:
+                        $ bclairemet = 1
+                        "A grey mare of elegant stature stood behind a polished counter, tuning a large cello. I'd often see her waiting here for her next customer."
+                        "Her long mane cascaded down her back like silk, accentuating her figure. One look at her was all you needed to know to realize why she's the most expensive and sought after hostess at this club."
+                        "However, within the club, the fact [cla] only performs music in her private booth is a well known."
+                        "Yet I can't help but wonder... has anyone else in the club actually confirmed that? With wealthy clients like hers, anything could be happening in those booths. They're sound proof after all."
+                        "She begins to play, while most of the sound is snuffed out by the club music, I manage to catch the hints of a melody."
+                        mc "That's some beautiful music you're playing." 
+                        show cla wink with d
+                        if event3 == 1:
+                            cla "Why thank you, it's always a pleasure to play for an apprecative audience. Especially the hero that rescued my purse~"
+                        else:
+                            cla "Why thank you, it's always a pleasure to play for an apprecative audience."
+                        mc "You say that like your usual audience doesn't appreciate it."
+                        show cla happy2 with d
+                        cla "Mmh... My clients? Not as much these days..."
+                        "(Isn't that what they're paying for?)"
+                        show cla happy with d
+                        if event3 == 1:
+                            cla "Are you working today?"
+                        else:
+                            cla "You're the new host here, right?" 
+                        mc "Tonight, I'm just a customer. Mind if I join you?"
+                        show cla horny with d
+                        cla "A host playing the role of a customer? How novel. Please, have a seat."
+                        "I slide onto the seat beside her, the close proximity allowing me to catch the faint scent of her perfume." 
+                        mc "You have quite the reputation around here."
+                        show cla wink with d
+                        cla "Oh? And what reputation might that be?"
+                        mc "Your performances... they can be quite expensive. You're the only lady here that doesn't have a price sheet."
+                        mc "And let's just say I operate on a 'if it doesn't have a price tag, it's too expensive' policy."
+                        mc "What's the catch? It's just a music performance, right? Even in this brothel of intellectual and physical pleasures, it does seem a little... out of place."
+                        show cla horny with d
+                        cla "Well, music is a form of intimacy, don't you think? It's all about connecting with the audience on a deeper level."
+                        cla "The expense is part of the experience. I'm offering something grand and personal. The fact that only a few may experience it is part of that experience." 
+                        mc "That, I get... But I have a feeling that you may be connecting with your clients on an even deeper level than that..."
+                        "[cla] turns away, but her eyes twinkle with amusement."
+                        show cla happy with d
+                        cla "Well... That would depend on how deep they're willing to go in their coffers; how much they're willing to offer for such an experience." 
+                        mc "I knew it... You're offering... something that's hard to even describe."
+                        mc "The privacy itself is part of the appeal. You have to pretend it's only music."
+                        show cla wink with d
+                        cla "You're very bold, aren't you? But tell me. What exactly do you think my performance is?" 
+                        "In my other world, I knew two mares that looked like this, identical twins. And while I know [cla] was the music teacher in the last world, there's always a chance that she's more like the masseuse that exchanged money for sex in this world."
+                        "And if that's the case, if she enjoyed being a prostitute in that wholesome world, then it shouldn't be a surprise at all to see her turn to such a career in this harsher world."
+                        mc "You pretend you're only there to play music, but what you're really doing is pretending you're not there for sex."
+                        mc "The idea is to make you feel earned and personal. Perhaps by pretending you were seduced, or got so drunk that you couldn't resist." 
+                        mc "Which is why the price and reputation that you {i}only{/i} play music is so important. It makes you elusive and mysterious."
+                        show cla horny blush with d
+                        cla "My, my, aren't you quite the detective? But you'll never get an answer from me. The only way to confirm your suspicion is to join me."
+                        mc "And I imagine such a thing would be... prohibitively expensive."
+                        show cla happy with d
+                        cla "For an experience as exclusive as the one you're describing... Shouldn't it be? But, for a charming new colleague like yourself, I might consider... an introductory offer."
+                        mc "An introductory offer, huh? How generous of you."
+                        show cla wink with d
+                        if event3 == 1:
+                            cla "Consider it a thank you for returning my ba."
+                        cla "I'll be waiting."
+                    if clairenamefix == 0:
+                        $ clairenamefix = 1
+                        "(Hey, in the last update [cla]'s renaming didn't work. Would you like to rename her again?)"
+                        menu:
+                            "Default: Claire":
+                                $ claire = "Claire"
+                            "Custom":
+                                $ claire = renpy.input("What was her name?")
+                                if claire == "":
+                                    $ claire= "Claire"
+                                $ claire = claire.strip()
+                    menu clairemenu:
+                        "Pay for [cla]'s services $400" if event3 != 1 and cla1 == 0:
+                            if money >= 400:
+                                $ money -= 400
+                                call cla1 from _call_cla1
+                                jump brothel
+                            else:
+                                "Not enough monies!"
+                                jump clairemenu
+                        "Pay for [cla]'s services $100" if event3 == 1 or cla1 == 1:
+                            if money >= 100:
+                                $ money -= 100
+                                call cla1 from _call_cla1_1
+                                jump brothel
+                            else:
+                                "Not enough monies!"
+                                jump clairemenu
+                        "Back":
+                            hide cla with d
+                            jump brothelmenu
+                "Dog Girl" if rosanamed == 0:
+                    show ros happy
+                    with d
+                    if rosanamed == 0:
+                        $ rosanamed = 1
+                        menu:
+                            "I think I recognize her. What was her name?"
+                            "Default: Rosa":
+                                $ rosa = "Rosa"
+                            "Custom":
+                                $ rosa = renpy.input("What was her name?")
+                                if rosa == "":
+                                    $ rosa= "Rosa"
+                                $ rosa = rosa.strip()
+                    jump brosa
+                "[ros]" if rosanamed == 1:
+                    if rosbusy == 2:
+                        "You saw [ros] and a stallion head into the private booths section together..."
+                        "As you step near, loud moans can be heard."
+                        play sound2 cum
+                        show secretrosa 1 with c
+                        play sound2 cum 
+                        with c
+                        ros "I'm cumming! I'm cumming!"
+                        "Looks like she couldn't handle the heat; now she's getting her pussy pounded by that giant horsecock."
+                        show secretrosa 2 with d
+                        ros "Ooohhh, you filled me up with so much! It feels so warm in my belly..." 
+                        "Guess I'll have to come back tomorrow if I want to see her."
+                        hide secretrosa with d
+                        jump hostessmenu
+                    label brosa:
+                        show ros happy with d
+                    if brosamet == 0:
+                        $ brosamet = 1
+                        "My eyes land on [ros] - who I assume is a shih tzu dog girl with fluffy ears and an infectious smile that lights up her entire face."
+                        "I make my way over. She notices me and her tail already begins to wag."
+                        mc "Good evening, [ros]. Mind if I join you?"
+                        show ros laughing with d
+                        if event2 == 1:
+                            ros "Ooohh, I can't believe my savior is really working here! The wheel you fixed has been working a treat!"
+                            ros "Please, take a seat! If you have any questions about hosting, you only need to ask."
+                        else:
+                            ros "Of course not! It's always nice to meet new friends. You just signed up as a host, right?"
+                        "I slide into the seat next to her, feeling an immediate warmth from her fur so close to my skin."
+                        mc "While I have just started working as a host, tonight, I thought I'd experience the club as a customer."
+                        show ros happy with d
+                        ros "In that case... Welcome! I'm [ros]! It's wonderful to meet you! How are you finding things so far?"
+                        "Her cadence is almost filled with overwhelming warmth and kindness. If it wasn't so sincere, it'd almost be too much."
+                        mc "This club is an interesting experience to say the least. Everyone offers a unique experience, right? I heard you're intended to be a sort of 'affectionate' host."
+                        "She blushes slightly, ears twitching."
+                        show ros laughing with d
+                        ros "I think that's just in my blood as a dog girl. I can't help but want to make everyone feel welcomed and cared for. I feel such joy in spreading happiness! Uuuu, it almost makes my heart want to burst!"
+                        mc "I can't help but imagine most people are into it for... other reasons."
+                        show ros neutral with d
+                        ros "You mean the lewd parts? {i}Sigh{/i} I know... I get propositions all the time, and they act confused when I refuse them."
+                        ros "They say things along the lines of 'but you were having such a good time until now!'. As if my enjoyment and happiness somehow manifested into sexual desire."
+                        ros "I just don't feel comfortable with selling myself like that. I'd rather focus on being affectionate and making people feel good in other ways."
+                        mc "I respect that. Everyone has their boundaries."
+                        if event2 == 1:
+                            show ros horny with d
+                            ros "But... That doesn't really apply to you, does it? We've already... you know."
+                            mc "I won't soon forget it either."
+                            show ros neutral with d
+                        else:
+                            show ros neutral with d
+                            ros "But... I have to admit, it's hard some days."
+                        ros "I go into heat like most other girls here, and this year is ruff!"
+                        ros "Host-to-host: the other day, I almost caved in with a stallion. If we weren't in the public area, I... Uuuu, so embarrassing... It's like I'm not myself."
+                        show ros horny with d
+                        rosa "I've been, uh... looking for someone to help deal with that."
+                        show ros neutral with d
+                        ros "Now I know what that sounds like, I've already asked another one of the boys here and they said no, so... If you want to refuse, that's okay."
+                        "In this city, there's no shortage of horny girls to go around. They outnumber the men in a ratio of about 3:1. Ironically, despite working as a hostess, it's hard for her to find her own relief outside of work."
+                        "That said, there are still plenty of horny strangers willing to take advantage of a dog girl in heat this time of year. A trusted friend would be a much better outlet for her needs."
+                        menu:
+                            "I'll help ([rosa] will become loyal to you)":
+                                mc "You can count on me!"
+                                show ros laughing with d
+                                ros "Aahhh... Thank you, thank you, thank you! I feel calmer already."
+                            "Sorry, my hands are full ([rosa] will slip and start regularly fucking clients)":
+                                show ros neutral with d
+                                ros "Nuuu... But it's so bad today!"
+                                "A stallion steps up to the table and makes eye contact with [rosa]."
+                                $ misc = "Customer"
+                                misc "Hey, [rosa]! Sorry about being pushy last time, can I make it up to you with a drink?"
+                                show ros horny with d
+                                ros "Uuuu, gotta go, [mc]!"
+                                $ rosbusy = 2
+                                hide ros with d
+                                "Uh oh, I recognize that glint in her eyes. Maybe I should check up on her."
+                                jump brothelmenu
+                    menu rosamenu:
+                        "Missionary Quickie (Free)":
+                            call rosmissionary from _call_rosmissionary
+                            jump brothel
+                        "Hire Professionally ($50)" if ros2 == 0:
+                            if money >= 50:
+                                $ money -= 50
+                                call ros2 from _call_ros2
+                                jump brothel
+                            else:
+                                "Not enough monies!"
+                                jump rosamenu
+                        "Hire Professionally ($12)" if ros2 == 1:
+                            if money >= 12:
+                                $ money -= 12
+                                call ros2 from _call_ros2_1
+                                jump brothel
+                            else:
+                                "Not enough monies!"
+                                jump rosamenu
+                        "Back":
+                            hide ros with d
+                            jump brothelmenu
+                "[hil]":
+                    scene bg brothel2 
+                    show hil happy
+                    with d
+                    if bhildamet == 0:
+                        $ bhildamet = 1
+                        "As I walked towards [hil], I couldn’t help but feel a strange connection. Like her, I wasn’t originally from this world. We both have our own reasons for being here, both thrust into a life we hadn’t anticipated." 
+                        mc "[hil], right? Mind if I join you?"
+                        "She looked up, her piercing emerald eyes striking straight to the heart."
+                        hil "Take a seat, new guy. [rub] told me a bit about you."
+                        "I slid onto the bar stool next to her, signaling the bartender for a drink."
+                        mc "Yeah, I started recently. [rub] mentioned we might have some things in common."
+                        show hil wink with d
+                        hil "Oh? And what might those be?"
+                        mc "Your crash landing sounds like quite a story. Surely such a thing is an insane revelation for a planet-bound civilization?"
+                        "She chuckled softly, taking a sip of her drink."
+                        show hil bashful with d
+                        hil "You could say that. But not many people believe me when I tell them I’m from another planet. They just think it’s part of the ‘mysterious adventurer’ act."
+                        mc "I believe you. I know what it’s like to end up somewhere you didn’t plan on being. I guess you could say, I know what it’s like to be trapped away from home."
+                        show hil happy with d
+                        hil "Trapped? So, what’s your story then?"
+                        "I give her the footnotes of my experience. Having already explained this a few times already, I’ve gotten pretty efficient at it."
+                        mc "It’s a strange feeling, isn’t it? Being so far from home, not knowing if you’ll ever see it again."
+                        show hil awkward with d
+                        hil "It is. But we adapt. We find ways to survive."
+                        show hil bashful with d
+                        "Her smile turned bittersweet, and she looked down at her drink."
+                        show hil neutral with d
+                        hil "That’s exactly what I did. When I first started here, it was just for the money. I needed to survive. But over time, I… well, I found a new kind of life here."
+                        mc "Do you ever wish you could go back?"
+                        show hil awkward with d
+                        hil "{i}She sighs, her ears drooping slightly{/i} Sometimes. But then I think about the life I’ve built here. The friends I’ve made. It’s not perfect, but it’s mine."
+                        mc "I get it. I really do. It’s hard to know what you want when your past and present are so tangled up. It can be hard to even know who you are sometimes, and it’s scary how easy it can be to forget your past life."
+                        show hil happy with d
+                        hil "It’s nice to have someone who understands, but… you said ‘trapped’ earlier. I wouldn’t use that word."
+                        hil "I’ve given up trying to repair my ship. It won’t happen in this lifetime. I’ve had to accept that this is just another stage of my life. We all go through stages as we age, through school, then higher education, then work."
+                        hil "That people we once knew get left behind, but we persist; we forge ahead, meeting new people and building new connections."
+                        hil "I realized that if I spent my entire life focusing longing for my previous life, it wouldn’t be living at all. If anything, that’s being trapped."
+                        mc "Shiiiit… You’ve got me dead to rights there… I also can’t stop thinking about ‘home’."
+                        "[hil] reaches out and touches my shoulder."
+                        show hil wink with d
+                        hil "Hey… Look around you! This building is practically a temple dedicated to worshipping the moment. Here, people forget their troubles. No egos, no expectations; this is just an environment that reminds you what it means to be alive."
+                        hil "We all get so caught up in our struggles, work, and drama that we forget that we’re just animals in an incomprehensibly large universe."
+                        show hil awkward with d
+                        hil "If I didn’t find a place like this, where I could comfortably switch off my brain, well… honestly, I think I’d have gone crazy."
+                        mc "These are some interesting ideas in theory. Easier said to put them into practice."
+                        show hil laughing blush with d
+                        hil "Hehe, well… I could show you my ideas in practice if you want, with a friendly discount."
+                        mc "Oh? I think I’d like that a lot."
+                        show hil happy with d
+                        hil "Me too! I’m usually with female customers, but my tongue doesn’t discriminate~"
+                        hil "My prices for penetration are more expensive, but my pussy is out of this world! {i}Wink{/i}"
+                        "Despite the good points [hil] brought up, I can’t help but wonder if she took them too far and lost sight of herself in the pursuit of happiness."
+                        "If I were her, I don’t think I’d ever stop thinking of my original planet. I don’t think I’d ever stop trying to fix my spaceship."
+                        "And that’s not to say I wouldn’t try and make any friends and start a new life here, but… I don’t know. It’s a lot to unpack."
+                        "In a way, I can understand what [rub] said about [hil]. ‘Corruption’, in a sense, [hil] been changed by her environment to such a degree that she’s become a different person since she crashes landed here."
+                        "And perhaps it’s a person she never wanted to be, but the person she had to become just to cope with the trauma of being stuck here." 
+                    menu hildamenu:
+                        "Sex In Development":
+                            jump hildamenu
+                        "Back":
+                            hide hil 
+                            show bg brothel1
+                            with d
+                            jump brothelmenu
+                "[bas]":
+                    show bas neutral with d
+                    if bbastetmet == 0:
+                        "As I approached, I couldn’t shake the feeling I was stepping into a lion’s den. Her gaze met mine, cool and assessing, as if weighing my worth in a single glance."
+                        mc "[bas], right? Mind if I join you?"
+                        "She didn’t respond immediately, her eyes flicking back to a chessboard that was in front of her. After a moment, she gestured to the seat opposite her with a languid wave of her hand."
+                        show bas awkward with d
+                        bas "If you think you can keep up."
+                        "I took a seat, feeling the weight of her scrutiny. The pieces on the board seemed to taunt me."
+                        mc "[rub] told me you’re unbeaten at chess. But whether I win or lose, I'm honored to play against a princess." 
+                        show bas bashful with d
+                        "A faint smile curved her lips, a flicker of amusement in her eyes."
+                        bas "[rub] speaks too freely. But yes, I’ve yet to find a worthy opponent. Let’s see if you’re any different."
+                        if magicroute3 == 1:
+                            "Even though my brief game with [pen] revealed that I might not know the rules for this universe’s version of chess, I decided to try anyway."
+                        show bas neutral with d
+                        "I studied the board, trying to anticipate her moves. She played with calculated grace, each piece moving with multi-layered purpose. As the game progressed, I found myself drawn into her world, the outside noise fading into a distant hum."
+                        "There was something about her aloofness. There was more than just a chess game at stake, there was also a challenge to break through the icy façade she wore so effortlessly. Each move on the board felt like a step closer to understanding her."
+                        "And then, just as I was about to move my knight…"
+                        show bas wink with d
+                        bas "No, not there."
+                        mc "Is this a bad move?"
+                        show bas happy with d
+                        bas "If you finish that move, I’ll checkmate you in the next seven."
+                        "Somewhere bewildered, I leaned back and observed the board… A forced checkmate in seven moves? Can she really see such a thing?"
+                        mc "But… how? That’s… amazing. Better than amazing, actually."
+                        show bas bashful with d
+                        "Her eyes narrowed slightly, a glint of interest shining through."
+                        show bas neutral with d
+                        bas "Flattery won’t help you. Now, focus on your next move. If you think you’ve found a good move, stop, and find a better one."
+                        "I nodded, determined to prove myself. The world around us shrinking as I was fully absorbed in our game, but also, her…"
+                        show bas happy with d
+                        "I started to notice the subtle shifts in her demeanor. The way her eyes twitched when she concentrated, the almost imperceptible softening of her expression."
+                        "It sounded simple, it sounded silly, but... she was having fun!"
+                        mc "You were a princess? That must have been quite a life."
+                        show bas awkward with d
+                        "A shadow passed over her features, her gaze growing distant. A touchy subject, perhaps?"
+                        show bas neutral with d
+                        bas "It was. But that life is gone. Here, I am simply [bas]."
+                        mc "There’s nothing simple about the way you’re playing me on this board right now."
+                        show bas happy with d
+                        "Her smile returned, more genuine this time."
+                        bas "Yes, I suppose. But even a ‘princess’ can appreciate a challenge."
+                        "The game continued, each move a dance of strategy and wits. I could feel the tension building, but I couldn’t help but notice one of her moves wasn’t as aggressive as it could have been."
+                        "Sure, there could have been plenty of things I couldn’t anticipate, but in that moment, I realized she was going easy on me. No, I don’t think that’s right; what she’s doing is testing me, pushing me to see how far I could go."
+                        "With each move, I could feel myself rising to the challenge."
+                        show bas satisfied with d
+                        bas "You’re not bad. For a beginner."
+                        mc "Hah! I’ll take that as a compliment."
+                        "A few moves later, the game ended with a decisive checkmate. It’s like her victory was only ever a few moves away throughout the entire game."
+                        show bas happy with d
+                        "She leaned back, her expression softer, more approachable, and a hint of warmth in her eyes."
+                        bas "You played well. Most people don’t care for the game. They’re just humoring me, thinking if they play, I’ll like them more."
+                        show bas wink with d
+                        bas "You can tell a lot by the moves someone makes. You were genuinely trying to beat me."
+                        mc "Of course! Why wouldn't I try to win?"
+                        show bas laughing with d
+                        bas "Obviously, you are a man worth my time. Enough games. Let's talk."
+                        "As the night wore on, we talked more, the chessboard forgotten. She found herself opening up to me, sharing stories of our past. Our journeys here to Arcadia. She listened, her aloofness giving way to genuine curiosity."
+                        "Indeed, she was another kindred spirit. Someone who had been displaced and had to find a new path."
+                        show bas happy with d
+                        mc "We’re not so different after all, princess."
+                        show bas bashful with d
+                        bas "Maybe not. Welcome to the club."
+                        "She opened one of the drawers that were on this table. They were filled with board games, but she reached for a subtle leaflet and handed it to me."
+                        "It simply had a selection of acronyms and numbers next to them, such as ’BJ – 100’, ‘VP – 200’, along with others."
+                        show bas happy blush with d
+                        bas "I’m sure you can figure out what these are."
+                        mc "Me? Are you sure?"
+                        show bas wink with d
+                        bas "Yes. But no employee discount~"
+                        "I had passed the unspoken test, earning a place in her world. All because I took a genuine, earnest interest in her as a person, and saw her as more than just a lady of the night."
+                    menu bastetmenu:
+                        "Sex In Development":
+                            jump bastetmenu
+                        "Back":
+                            hide bas with d
+                            jump brothelmenu
+                "Back":
+                    jump brothelmenu
         "Visit [rub]":
             scene bg brothel5
+            if rubbusy == 1:
+                "Looks like [rub] isn't here right now. I think she's on a short vacation, and should be returning tomorrow."
+                jump brothel
             show rub happy
             with d
             if brothelroute1 == 1 and brothelroute2 == 0:
@@ -24,15 +399,19 @@
                 "Interview" if brothelroute2 == 0:
                     jump brothel2
                 "Sex":
-                    show rub wink
+                    show rub wink with d
                     rub "Oh my, you're going to take me right here?"
                     menu rubsexmenu:
                         "Energy: [energy]"
                         "No Energy Left" if energy <= 0:
                             "I feel exhausted!"
                             jump rubmenu
-                        "Thighjob (In Development - Planned for 0.3)" if energy > 0:
-                            jump rubsexmenu
+                        "Thighjob" if energy > 0:
+                            call rubthighjob from _call_rubthighjob
+                            scene bg brothel5
+                            show rub happy
+                            with d
+                            $ textbox = 1
                         "Couch Missionary" if energy > 0:
                             call rubmissionary from _call_rubmissionary
                         "From Behind" if energy > 0 and brothelroute2 == 1:
@@ -60,8 +439,11 @@
                     jump brothelmenu
                 "Leave":
                     jump worldmap
-        "Visit [mel]":
+        "Visit [mel]" if brothelroute2 == 0 and brothelroute3 == 0 or brothelroute3 == 1:
             scene bg brothel2
+            if melbusy == 1:
+                "Looks like [mel] isn't here right now. I think she's on a short vacation, and should be returning tomorrow."
+                jump brothel
             show mel happy
             with d
             if brothelroute1 == 1 and brothelroute2 == 0:
@@ -79,31 +461,34 @@
                             mel "Pft, I could have kept going."
                         "Booth Footjob" if energy > 0:
                             call melfootjob from _call_melfootjob
-                            play music clubtheme
-                            scene bg brothel2
-                            show mel happy
-                            with d
                         "Booth Blowjob" if energy > 0:
                             call melblowjob from _call_melblowjob
-                            play music clubtheme
-                            scene bg brothel2
-                            show mel happy
-                            with d
-                        "Cowgirl (In Development - Planned for Later)" if energy > 0 and brothelroute2 == 1:
-                            "The reason this scene is in development, is because [mel] is currently a virgin, and this scene will have additional sex variants once she's lost her virginity."
-                            jump melsexmenu
-                        "Reverse Cowgirl (In Development - Planned for Later)" if energy > 0 and brothelroute2 == 1:
-                            "The reason this scene is in development, is because [mel] is currently a virgin, and this scene will have additional sex variants once she's lost her virginity."
-                            jump melsexmenu
+                        "Handjob/Leaning Forward Cowgirl" if energy > 0 and brothelroute2 == 1:
+                            call melhandjob from _call_melhandjob
+                        "Leaning Back Cowgirl" if energy > 0 and brothelroute3 == 1:
+                            call melcowgirl from _call_melcowgirl
+                        "Reverse Cowgirl" if energy > 0 and brothelroute3 == 1:
+                            call melreversecowgirl from _call_melreversecowgirl
+                        "From Behind" if energy > 0 and brothelroute3 == 1:
+                            call melfrombehind from _call_melfrombehind
+                        "Legs Up" if energy > 0 and brothelroute3 == 1:
+                            call mellegsup from _call_mellegsup
                         "Back":
                             show mel happy with d
                             mel "Tch, I was joking."
+                            jump melmenu
+                    play music clubtheme
+                    scene bg brothel2
+                    show mel happy
+                    with d
                     jump melmenu
                 "Back":
                     scene bg brothel1 with d
                     jump brothelmenu
                 "Leave":
                     jump worldmap
+        "Check on [mel]" if brothelroute2 == 1 and brothelroute3 == 0 and melbusy == 0:
+            jump brothel3
         "Replay Events":
             menu:
                 "While replaying, you can return at any time using the phone."
@@ -120,12 +505,17 @@
                     call brothel2 from _call_brothel2
                     $ replay = 0 
                     jump brothel
+                "Brothel Visit 3":
+                    $ replay = 1
+                    show screen vnui
+                    call brothel3 from _call_brothel3
+                    $ replay = 0 
+                    jump brothel
                 "Back":
                     jump brothelmenu
         "Leave":
             jump worldmap
     jump brothelmenu
-
 label brothel1:
     show screen vnui
     play music citytheme
@@ -433,6 +823,12 @@ label brothel1:
                 "mel1apantyhose 1"
             attribute p2:
                 "mel1apantyhose 2"
+        group pregnant:
+            attribute pregnant:
+                "mel1apregnant [melb]"
+        group futa:
+            attribute futa:
+                "mel1afuta  [melb]"
         group cum:
             attribute cum:
                 "mel1acum"
@@ -618,31 +1014,6 @@ label brothel1:
     show bg brothel5 with d
     stop music fadeout 4
     "Both rooms are empty, but I hear some sounds coming out of [rub]’s office opposite her bedroom. With a polite knock, I enter."
-    layeredimage ruby1a:
-        always:
-            "ruby1ab [rubb]"
-        group eyes:
-            attribute e1:
-                "ruby1ae1 [rubb]"
-            attribute e2:
-                "ruby1ae2 [rubb]"
-            attribute e3:
-                "ruby1ae3 [rubb]"
-        group lingerie:
-            attribute lingerie:
-                "ruby1alingerie"
-        group underwear:
-            attribute underwear:
-                "ruby1aunderwear"
-        group wet:
-            attribute wet:
-                "ruby1awet"
-        group thighjob:
-            attribute t1:
-                "ruby1athighjob 1"
-        group thighjob:
-            attribute t2:
-                "ruby1athighjob 2"
     show ruby1a e1
     camera:
         linear 0.5 zpos -16 ypos -2 xpos 0
@@ -953,7 +1324,6 @@ label brothel1:
     $ completion += 1
     $ feedupdate += 1
     jump newday
-
 label brothel2:
     stop music fadeout 1
     stop ambience1 fadeout 1
@@ -994,22 +1364,22 @@ label brothel2:
         "The grey mare":
             # if chl not named, name her here
             hide rub 
-            show chloe
+            show cla happy
             with d
-            if chloenamed == 0:
-                $ chloenamed = 1
+            if clairenamed == 0:
+                $ clairenamed = 1
                 menu:
-                    "I think I recognzie her. What was her name?"
-                    "Default: Chloe":
-                        $ chloe = "Chloe"
+                    "I think I recognize her. What was her name?"
+                    "Default: Claire":
+                        $ claire = "Claire"
                     "Custom":
-                        $ chloe = renpy.input("What was her name?")
-                        if chloe == "":
-                            $ chloe= "Chloe"
-                        $ chloe = chloe.strip()
-            rub "Over there is [chl], a musical genius. She's one of our most expensive and sought-after hostesses. She has a private, soundproof booth where she performs live music."
-            rub "Even though she plays in a private booth, she's not interested in the sexual side of services. I once heard she turned down 5,000 monies for such a request."
-            hide chloe
+                        $ claire = renpy.input("What was her name?")
+                        if claire == "":
+                            $ claire= "Claire"
+                        $ claire = claire.strip()
+            rub "Over there is [cla], a musical genius. She's one of our most expensive and sought-after hostesses. She has a private, soundproof booth where she performs live music."
+            rub "She's so high-class that her customer base is almost entirely unique. Even I don't know the details."
+            hide cla
             show rub happy lingerie2 dress1
             with d
         "The dog girl":
@@ -1020,7 +1390,7 @@ label brothel2:
             if rosanamed == 0:
                 $ rosanamed = 1
                 menu:
-                    "I think I recognzie her. What was her name?"
+                    "I think I recognize her. What was her name?"
                     "Default: Rosa":
                         $ rosa = "Rosa"
                     "Custom":
@@ -1043,7 +1413,7 @@ label brothel2:
             if hildanamed == 0:
                 $ hildanamed = 1
                 menu:
-                    "I think I recognzie her. What was her name?"
+                    "I think I recognize her. What was her name?"
                     "Default: Hilda":
                         $ hilda = "Hilda"
                     "Custom":
@@ -1066,7 +1436,7 @@ label brothel2:
             if bastetnamed == 0:
                 $ bastetnamed = 1
                 menu:
-                    "I think I recognzie her. What was her name?"
+                    "I think I recognize her. What was her name?"
                     "Default: Bastet":
                         $ bastet = "Bastet"
                     "Custom":
@@ -1609,9 +1979,6 @@ label brothel2:
     layeredimage melody2a:
         always:
             "mel2ab [melb]"
-        group clothes:
-            attribute goth:
-                "mel2aclothes [melb]"
         group eyes:
             attribute e1:
                 "mel2ae1 [melb]"
@@ -1622,20 +1989,23 @@ label brothel2:
         group pregnant:
             attribute pregnant:
                 "mel2apregnant"
-        group cum:
-            attribute cum:
-                "mel2acum"
-        group hj:
-            attribute hj:
-                "mel2ahj"
         group sex:
             attribute sex1:
                 "mel2asex"
+        group cum:
+            attribute cum:
+                "mel2acum"
         group cum2:
             attribute hj2:
                 "mel2ahjcum"
             attribute sex2:
                 "mel2asexcum"
+        group clothes:
+            attribute goth:
+                "mel2aclothes [melb]"
+        group hj:
+            attribute hj:
+                "mel2ahj"
     play music melodysextheme
     show melody2a e1 goth
     call camerabreath from _call_camerabreath_37
@@ -1764,7 +2134,7 @@ label brothel2:
             mel "Don't act so shocked, dweeb~ Just enjoy it."
             show melody2b e2 with d
             "She teased, intensifying her movements. Her confidence and control were undeniable. She rode me with renewed vigor, her skirt now flipped up and giving me a clear view of everything. The sensation was overwhelming, and I couldn't hold back any longer."
-            mel "Mmphhhhh... Fuck... Are you getting even harder now you know the truth~?"
+            mel "Mmphhhhh... Fuck... Are you getting even harder now that you know the truth~?"
             "With a groan, I felt myself reaching the peak, the pleasure too intense to resist. [mel]’s moans echoed in my ears, her body moving with relentless rhythm."
             mc "Ngghh, I’m about to cum!"
             show melody2b e1 with d
@@ -1933,6 +2303,460 @@ label brothel2:
     if replay == 1:
         return
     $ brothelroute2 = 1
+    $ brothelcompletion += 1
+    $ completion += 1
+    jump newday
+label brothel3:
+    stop music fadeout 1
+    play ambience1 ambiencenight
+    scene bg brothel5 with d
+    "The office was still, save for the low drone of the air conditioning and the sporadic clatter of keys."
+    "It was late, far later than I expected anyone to still be working here. Sure, the club is bustling at night, by the office?"
+    mc "[mel]? What are you doing up here?"
+    "Apparently she hadn’t heard me come in, so she jumped a little when she heard me."
+    play music melodytheme fadein 1
+    show mel bashful with d
+    mel "Ack! My stalker is back! Security! Security!"
+    mc "Hey, keep it down! Julie would actually kick my ass if you told her to."
+    show mel laughing with d
+    mel "Bwahaha, Julie’s the least of your problems when you’re dealing with me."
+    mc "Ain’t that the truth. But it’s late. You been here all day?"
+    show mel happy with d
+    mel "Yeah, just wrangling schedules, keeping the staff in line. The usual grunt work while I learn the ropes. It’s not much, but it’s something."
+    mel "Honestly, I’ve just been idling here now. Feels good to have a purpose, even if it’s something small and silly like this. Beats sitting at the bar watching people drift in and out."
+    mc "Must’ve been boring as hell with nothing to do. Figured you might’ve gone to college or something by now."
+    show mel neutral with d
+    mel "College? Maybe in some other life. This suits me fine. I know the staff, they know me. Feels like I’m actually doing something that matters."
+    "There was something about the way she said it, the genuine warmth in her voice, that made me realize just how much this meant to her."
+    show mel smug with d
+    if mel2 == 1:
+        mel "What brings you here anyway? Not hoping for more of that sexy business, I hope? Don’t forget, you’re only good enough for my butt~"
+    else:
+        mel "What brings you here anyway? Not hoping for more sexy time, I hope? Don’t forget that you’re only good enough for my feet~"
+    mc "And you’re only good for your butt! Not exactly the type for a boob job with that wooden board of yours, are you?"
+    show mel laughing with d
+    mel "Tsk. You’d think a hairless ape would have a better appreciation for butts. They’re the original sexy asset!"
+    mc "Sometimes, during these conversations, I think animals gaining sentience was a mistake."
+    show mel wink with d
+    mel "Even if I was a horse on a ranch, I’d still get my kicks by nipping at your balls."
+    mc "Don’t even think about it!"
+    show mel death with d
+    mel "So, what brings you to the office? Here to bang my sister?"
+    mc "I’m actually here to see how those upgrades turned out."
+    show mel bashful with d
+    mel "You actually remembered? Well, that’s… sweet of you."
+    "Her bravado seemed to waver, as if she were caught off guard by the sentiment."
+    show mel happy with d
+    mel "You know, it’s hard to keep up the bullying act when you’re so… damn… kind. Makes me wonder if this thing between us might turn serious."
+    mc "It could be, if that’s what you want. But you don’t have to drop your edge. It’s what makes you… you. It’s what makes you interesting."
+    show mel bashful with d
+    mel "Interesting, huh? Maybe that’s why you might just be the one."
+    show mel happy with d
+    "She looked at me, really looked. Tenderness from [mel] was rare, making moments like this so precious."
+    show mel laughing with d
+    mel "You know, I keep my guard up around others. No one else can handle my prickly nature. But you’re different. You get me. You speak my language."
+    mc "Most folks see only the thorns, but I see the rose too."
+    show mel death with d
+    mel "Ewwww! I’d rather be a cactus! At least then I’d be useful for keeping people at a distance! And when necessary, shoved up—"
+    mc "{i}Eh-hem{/i} So, [rub] has you working with the staff despite your... 'weaknesses' as an employee?"
+    show mel wink with d
+    mel "Tsk, you’re not supposed to say those parts out loud! Though, I’d be lying if I said I didn’t think it myself."
+    mel "I reckon it’s to give me practice with people in a working setting. It makes sense, given how much of my life I’ve spent skirting around people. My angst was always a reliable shield."
+    mc "Why the need to push people away?"
+    show mel neutral with d
+    mel "I despise what this place has become... It’s supposed to be a boutique!"
+    mel "My rudeness was initially just… childish attempts to lash out and discourage people from coming here."
+    stop music fadeout 10
+    mel "But the real reason I push people away, what it all boils down to, is the incident that caused my injuries."
+    mel "I’ve only shared this with [rub] and my doctors, but I want to tell you too." 
+    "I reached out, took [mel]’s hands in my own, and nodded."
+    mc "I’m here for you. You can tell me anything."
+    show mel bashful with d
+    mel "Tch, you’re so cliché… {i}Phew{/i} Here goes…"
+    play music sad fadein 3
+    show mel angry with d
+    mel "When I was young, there was a split between my parents. [rub] stayed here in Arcadia because she had already bought property, but I went to live in Maplewood with my mother."
+    mel "The nightmares… they took more than just my body back there. They took mother, too."
+    mc "Nightmares suddenly appeared? You didn’t have time to evacuate?"
+    show mel neutral with d
+    mel "There were plans to evacuate eventually. They figured the darkness would claim the city in a few years. But this... this was sudden. In the dead of night, the city was overrun with nightmares."
+    mel "I was half nightmare by the time they pulled me back. The only cure they had was to cut away the infected parts."
+    mc "That’s awful. I’m so sorry."
+    show mel sad with d
+    mel "I was one of the few who survived. I became a ‘useful’ subject for the scientists, and they gave me the best care they could. But once they were done, I was bedridden, and [rub] looked after me for a year."
+    mel "It was a humiliating time, but at least it was just us. Little did I know, the ground floor of the building was changing. [rub] scraped together every bit of money she could to give me a semblance of normalcy."
+    mel "She succeeded, and I got my body back, but the last thing I wanted in such a fragile state was my own home swarming with strangers. Strangers who came to gawk and judge."
+    mel "And all that was meant for me? I thought it was a cruel joke... But now, it’s painfully clear how ungrateful I was."
+    mc "It’s hard to fault you for feeling that way. Regaining your independence doesn’t erase the pain. Some never recover from something like that. You’ve been stronger than most."
+    show mel smug with d
+    mel "Heh… You only think I’m strong because you’ve only known the {i}me{/i} that came after I met {i}you{/i}."
+    show mel bashful with d
+    mel "You quelled my rage. You opened my eyes to the idea that with a little more openness, a dose of sex positivity, and treating others with respect… Well, things can change."
+    "She gestures towards the computer."
+    show mel happy with d
+    mel "This is it. This is the change. I can make amends with my sister and with those who stood by me in the hard times."
+    mel "I really couldn’t have done this without you. So..."
+    mel "Thanks. No quips this time. Just a plain, honest thank you."
+    mc "Man… You’re fucking incredible, you know that?"
+    show mel neutral with d
+    mel "Eh?"
+    mc "You can give me all the credit you want, but this? This is {i}all{/i} you."
+    show mel happy blush with d
+    "[mel] stands speechless, a blush spreading across her face as she stares at me."
+    mel "(Well. That’s it. I’m in love.)"
+    mel "(Me… Who would have thought?)"
+    mel "(But… isn’t this guy also sleeping with a bunch of other mares, including my sister?)"
+    mel "(I need to show him I can keep pace with these other broads.)"
+    mel "{i}Clears throat{/i} With all that said… I’m going to try to behave from now on. At least in the public eye~"
+    mel "Look at me, I’m an office lady now! Which means I need a target for all that pent-up bullying I won’t be doing to anyone else."
+    mc "Don’t you worry, [mel]. I can take it."
+    camera:
+        linear 2 zpos -350 ypos -150
+    "She stepped closer, her head tilting up to hold my gaze. She was a foot shorter, but in that moment, she felt like she towered over me."
+    show mel happy blush with d
+    mel "Oh yeah? If you like it that much, maybe I’ll stop playing around and show you what I can really do."
+    "I could feel the tension and heat between us rising. I realized that if I got hard now, it’d press right against her. She closed the gap, her hips swaying as she moved in, until our bodies touched."
+    show mel smug with d
+    mel "Ah, there it is… I can feel your little friend twitching. Can’t believe I can get you going this fast. You must want me bad."
+    mc "And what about you? Show me how badly you want me."
+    layeredimage mel3a:
+        always:
+            "mel3ab [melb]"
+        group eyes:
+            attribute e1:
+                "mel3ae1 [melb]"
+            attribute e2:
+                "mel3ae2"
+            attribute e3:
+                "mel3ae3 [melb]"
+        group cum:
+            attribute cum:
+                "mel3acum"
+        group lingerie:
+            attribute lingerie:
+                "mel3alingerie"
+            attribute lingerie2:
+                "mel3alingerie2"
+        group plug:
+            attribute plug:
+                "mel3aplug"
+        group pregnant:
+            attribute pregnant:
+                "mel3apregnant"
+        group sex1:
+            attribute v1:
+                "mel3av1"
+            attribute a1:
+                "mel3aa1"
+        group sex2:
+            attribute v2:
+                "mel3av2"
+            attribute a2:
+                "mel3aa2"
+    show mel3a e1 
+    call camerabreath from _call_camerabreath_67
+    play music melodysextheme
+    play moans1 moansmisc2
+    $ textbox = 4
+    with dissolve
+    "She shrugged, turning to lean against the desk. Each movement was slow, deliberate, as she bent over and revealed her pussy, dripping wet and ready."
+    "There was a contradiction in her approach that I couldn’t ignore. She was in control, but the way she displayed herself carried a hint of submission."
+    "Yet, [mel] had a way of flipping the script, making even the most vulnerable positions feel like power plays. Tonight was no different. She eased back into my crotch, her hips moving with a grace that was almost predatory. The heat of pussy gracing my shaft was exquisite."
+    show mel3a e2 with d
+    mel "Fuhuhu, you remember last time, don’t you?"
+    if mel2 == 0:
+        mel "I was only planning on giving you my anal virginity."
+    "Her voice dropped to a sultry whisper, laced with that teasing edge I knew so well. She lowered herself just enough for my tip to brush against her pucker."
+    show mel3a e1 with d
+    if mel2 == 1:
+        mel "Mmmhh, you seemed to enjoy my ass so much…"
+        mc "How could I forget? I really thought I took your virginity then."
+    else:
+        mel "Mmmhh... I bet you would have loved my ass..."
+    "Her butt raised again, this time my tip slid against the wet heat of her pussy, the slickness of her desire coating me. Every movement pressed me closer, teasing, threatening to pull me in."
+    show mel3a e3 with d
+    mel "Oh my~ This time, you won’t miss, will you?" 
+    "Her eyes locked on mine, a challenge within them, daring me to take that final step. I reached out, fingers brushing against the soft fur of her butt, and she let out a breathless gasp."
+    "She took my hand then, guiding it with a confidence that left no room for hesitation. Together, we aligned my cock with her pussy, the tip nestled against her entrance, each shift of her hips drawing me closer. I could feel it, the way I sank a little deeper each time she moved."
+    "The warmth of her, the way she began to stretch around me, was like nothing else. I could sense her body yielding, growing more desperate, her need palpable. I knew I could slip inside her in an instant."
+    show mel3a e1 with d
+    mel "Don’t hold back. I want all of you. Make me feel it."
+    mc "You have no idea how much I want you. Ready?"
+    play sound2 cum
+    show mel3a v1 e2 
+    $ textbox = 5
+    with d
+    "She nodded, biting her lip as I began to press forward, sliding into her slowly. The sensation defied words, a perfect blend of pleasure and connection. Her eyes widened, a gasp escaping her lips as I pushed deeper, lost in the moment."
+    camera:
+        linear 0.1
+        linear 0.4 xpos -6
+        linear 0.1
+        linear 0.3 xpos 6
+        repeat
+    with d
+    play ambience1 sex
+    play moans1 moansmisc3
+    "Even though she was slick with arousal, she was tight, too tight for me to push all the way in. With only half of my cock inside her, I had to take it slow, using shallow thrusts while she eased around my girth."
+    mel "Uooohhh, fuck! I didn’t expect you to be {i}this{/i} big!"
+    mel "I never mentioned it ‘cause it didn’t fit my teasing routine, but you really do have a ridiculous, monster cock, you know that?"
+    "Thrusting inside once again, I manage to take her to the hilt, my glans grinding against her deepest and most sensitive parts. The sudden rush of pleasure had her fingers desperately gripping to the desk for support."
+    play sound2 spank
+    mc "You seem to be handling it pretty well! Taming the beast, eh? {i}Spank{/i}"
+    show mel3a e3 with d
+    mel "Nnngghh… don’t get cocky! I’m the one in control!"
+    show mel3a e2 with d
+    "As she grew more comfortable, she began pushing her hips back into me, urging me to go deeper still. Her body responded to every movement with rebellious counters to my thrusts."
+    "But in this back-and-forth, the rhythm we found was perfect, a dance of desire. I could feel her pussy squeezing around me in that intentional teasing way her sister would often do, her breaths coming in short, ragged gasps."
+    mel "Aaaahhhh… [mc]… I wanted this so much; I want you."
+    "Her voice was desperate, pleading, and I had no intention of stopping. I could feel my own release building, a wave of pleasure threatening to crash over me. But I held on, determined to give her everything she needed."
+    mc "I’m already getting close!"
+    show mel3a e3 with d
+    mel "Mmhh… Hold on a little longer! I’m almost there too!"
+    "Her eyes met mine, filled with a mix of love and lust. I nodded, her body trembling beneath me as I pounded her marshmallow butt at a pace she struggled to match."
+    show mel3a e2 with d
+    mel "Uoohhh, yes! That’s it! Aaaahhh, cumming!!"
+    play sound2 cum
+    show mel3a cum v2 with c
+    play sound2 cum
+    with c
+    "As she cried out, I stopped holding back, and immediately the tremendous pleasure of my orgasm crashed over me in waves."
+    play sound2 cum
+    with c
+    play sound2 cum
+    with c
+    "Her body shook under me, tensing wildly with such intensity that it was hard to even continue thrusting. Her orgasm was so raw that I almost felt jealous at the visible bliss coursing throughout her."
+    play sound2 cum
+    show mel3a -v1 -v2 e3 with d
+    stop ambience1
+    call camerabreath from _call_camerabreath_68
+    play moans1 moansmisc2
+    "I pulled out and took a moment to admire her flank while catching my breath. She was still trembling, her body quivering from the aftermath of her release, but the hunger in her eyes hadn’t dimmed. If anything, it had grown fiercer, a fire that refused to be extinguished."
+    layeredimage mel3b:
+        always:
+            "mel3bb [melb]"
+        group eyes:
+            attribute e1:
+                "mel3be1 [melb]"
+            attribute e2:
+                "mel3be2"
+            attribute e3:
+                "mel3be3 [melb]"
+        group cum:
+            attribute cum:
+                "mel3bcum"
+        group lingerie:
+            attribute lingerie:
+                "mel3blingerie"
+        group plug:
+            attribute plug:
+                "mel3bplug"
+        group sex1:
+            attribute v1:
+                "mel3bv1"
+            attribute a1:
+                "mel3ba1"
+        group sex2:
+            attribute v2:
+                "mel3bv2"
+            attribute a2:
+                "mel3ba2"
+        group futa1:
+            attribute f1:
+                "mel3bfuta [melb]"
+        group futa2:
+            attribute f2:
+                "mel3bfutacum"
+    show mel3b e1 cum with d
+    "With a quick, fluid motion, she hoisted herself up the desk. Her hands braced against the wood, and she looked at me with a challenge in her eyes, legs lifted high."
+    mel "I’m not done with you yet. I want more~"
+    "The low growl of her words was a command, not a request. My hands slid along her thighs as I got back into position, my cock mere moments from being ready to go once again."
+    play sound2 cum
+    show mel3b v1 e2 with d
+    "I lined myself up, her body inviting me to claim her again, and then I pushed in, savoring the feeling while she gasped as I filled her once more."
+    camera:
+        linear 0.1 zpos -12
+        linear 0.4 ypos -6
+        linear 0.1
+        linear 0.3 ypos 6
+        repeat
+    play ambience1 sex
+    play moans1 moansmisc4
+    with d
+    "Her head fell back, her back arching as I buried myself to the hilt with ease this time. The position made her pussy feel impossibly tight, every thrust drawing out a quivering breath from her lips."
+    mel "Yes... oh, yes... just like that..."
+    "Her voice was breathless, each word punctuated by the slap of our bodies meeting, the desk creaking beneath us. Her hands desperately held her legs up, fingers digging into the fur as she held on, her body rocking with every powerful thrust."
+    "I leaned over, capturing her lips in a fierce kiss, swallowing her moans as I relentlessly bullied her pussy. Her legs shook, struggling to stay upright, and I knew she was close, so close."
+    mc "Cum for me, [mel]!"
+    "The words were a whisper against her lips, and they pushed her over the edge. She cried out, her voice breaking as she came, her insides clenching around my shaft with an intensity that pulled me along with her."
+    play sound2 cum
+    show mel3b v2
+    show internalcreampie
+    with c
+    play sound2 cum
+    with c
+    "The world narrowed to this moment, to the feel of her, the sound of her, the way she shattered beneath me, and then I was falling too, lost in the heat of our climax."
+    play sound2 cum
+    with c
+    play sound2 cum
+    with c
+    "My release came like a storm, fierce and overwhelming, crashing through me as I thrust deep, holding her close as the pleasure took over. Her name was a moan on my lips, mingling with her own cries of pleasure, our bodies locked together in a final, glorious moments of ecstasy."
+    show mel3b -v1 -v2 e3
+    hide internalcreampie
+    stop music fadeout 3
+    call stopbgs from _call_stopbgs_39
+    call camerareset from _call_camerareset_18
+    with d
+    "When it was over, we collapsed together, spent, and breathless, her body still trembling beneath mine. I pulled out of her, feeling the last shudders of my climax."
+    mel "That… was incredible."
+    mc "You’re damn incredible yourself."
+    scene bg brothel5 
+    play ambience1 ambiencenight
+    $ textbox = 1
+    with d
+    "The room was quiet now, the intensity of our passion fading into the background as we lay there together, bodies still entangled, a perfect stillness settling over us. There was nothing left to say; the connection between us spoke louder than words ever could."
+    "Although, obviously, [mel] wasn’t one to keep quiet for long."
+    show mel cum blush smug with d
+    mel "{i}Pant, pant{/i} That was wild! You really do hump like a crazed virgin."
+    mc "Please, you were the crazed virgin this time. You should’ve seen the way your hips were moving!"
+    show mel laughing with d
+    mel "Only because you couldn’t keep up! Tsk, tsk. Can’t believe I’m already outperforming you in bed."
+    mc "You can outperform me anytime you want, if only I could be so lucky."
+    show mel wink with d
+    mel "Oh, but you are that lucky, wormy boy~"
+    scene bg brothel5
+    camera:
+        linear 2 zpos -400 ypos -150
+    "She lets out a satisfied sigh, leaping onto a chair and throwing her feet up on the desk."
+    show mel laughing cum with d:
+        xalign 0.25
+    mel "For once in my life, everything’s looking up."
+    play sound2 equip
+    "[rub] steps into the office, a bag in each hand, and drops them in the corner with a relieved huff."
+    play music rubytheme fadein 3
+    show rub happy with d:
+        xalign 0.75
+    rub "Ah, [mc], darling! Great to see you. And [mel], thank you so much for your hard work today." 
+    rub "It’s a real relief having someone reliable to cover for me. I’d never have been able to go shopping on a busy day like this."
+    show mel happy with d
+    mel "You betcha! I know it’s still early, but I’m ready to grind and make something of myself."
+    mel "For so long, I’ve just been drifting in limbo, and—" 
+    show rub neutral blush with d
+    rub "[mel], dearie… I know we both have white fur, but I can still see the semen." 
+    show mel angry blush with d
+    mel "Gah?! [mc], you didn’t tell me I had any on me!"
+    mc "I, uh… thought it was implied."
+    show mel death with d
+    mel "Uwah! Freaking… pervert, weirdo! I’m out of here!"
+    scene bg brothel5
+    play sound2 move2
+    call camerareset from _call_camerareset_19
+    with d
+    "[mel] fled the room, then a few seconds later I heard the slam of a door down the hall."
+    show rub laughing with d
+    rub "My, my… Chasing after two sisters. Now there’s a novel experience, don’t you think?"
+    mc "Ehehe, for me? Not really…"
+    "Quite certain this is technically the fourth pair of sisters I’ve slept with."
+    mc "And you don’t mind?"
+    show rub bashful with d
+    rub "I mind a little. But in the grand scheme, it makes sense. You’ve brought a fair bit of light into our lives. It’s only natural for us to become attached."
+    rub "Within that framework, I chose to be with you, and my sister came to the same conclusion, independently."
+    show rub happy with d
+    rub "You don’t strike me as the manipulative sort. So it's less about finding fault with you and more about discussing the implications with [mel]."
+    rub "For example, who gets the weekends? I’d like Thursdays and Fridays."
+    mc "Haha, glad you have a sense of humour about it."
+    show rub laughing with d
+    rub "I suppose I’d have to, especially considering there are a few other ladies that have caught your interest."
+    mc "Ehehe… A ‘few’ more is putting it mildly. It’s almost more strange if I meet a woman and don’t end up in bed with her."
+    mc "Sometimes I wonder what all the girls see in me."
+    show rub wink with d
+    rub "Forgive me for prying, but I believe your success is rooted in your empathy. The gift of truly listening is rare these days; most are too consumed with their own lives."
+    rub "In that listening, you gain an understanding that’s rare and precious. It’s the sort of insight that deep friends share, and of course, lovers too."
+    mc "Is it really that straightforward?"
+    show rub laughing with d
+    rub "Darling, communication is the bedrock of every relationship. It’s where it all starts."
+    show rub happy with d
+    rub "We unicorns trace our lineage back to wild horses. Even now, they gather in groups called 'harems'—a dominant stallion, several mares, and their young."
+    mc "But that evolution happened millions of years ago. Wouldn't there be some divergence?"
+    show rub wink with d
+    rub "Perhaps. The world has shifted considerably. We now graze in supermarkets rather than fields."
+    rub "Still, much of our biology harkens back to those wild horses. They had robust genes that proved themselves through the ages and persist in various forms across species."
+    show rub happy with d
+    rub "Yet as society and culture have evolved, so have our needs. The wild stallion’s vigilance and strength are no longer the concerns of the modern world."
+    rub "Ladies today have different needs, and in a way that’s almost humorous, you’re the contemporary ideal for many of them."
+    mc "Is that why multiple ladies flock to a single guy?"
+    show rub horny with d
+    rub "Consider this: in the pony world, about 75%% of the population are mares, leaving an average of three mares for every stallion."
+    mc "Yep. It sounds way easier for the guys."
+    show rub bashful with d
+    rub "Indeed, seeing one stallion with two or three partners isn’t out of the ordinary. It’s crucial, too, because if we only had ‘couples,’ that’d mean, at most, only half of our population would breed."
+    mc "Ah, harems aren’t merely cultural artifacts; they’re a biological necessity."
+    show rub wink with d
+    rub "Correct. And that’s why mares, as a species, possess a certain weakness."
+    mc "A weakness?"
+    show rub laughing with d
+    rub "When we ladies see a high-value partner, we fall for them hard."
+    rub "You needn’t worry about letting us down or feeling overwhelmed by balancing so many partners. These are partnerships of mutual responsibility, so when you’re low, it’s our duty to lift you up."
+    mc "Heh, you see what I mean, though, right? You girls really are remarkable."
+    mc "Truth is, I’d be nothing without mares like you. You’re all so impressive—business owners, masters of your crafts, homeowners—and then there’s me… a homeless guy leaning on your support."
+    show rub wink with d
+    rub "Despite that, you’re the key."
+    mc "Shouldn’t it be the other way around? Wouldn’t a successful alpha with wealth and power be a better fit for a harem?"
+    show rub happy with d
+    rub "You don’t have to be some growling, prowling ‘alpha’ to win our favor. All you need to do is be the one who brings us to our true potential and then binds us together."
+    rub "Everywhere you go, you leave a path of light in this encroaching darkness. You can’t blame us for wanting to follow you, can you?"
+    show rub happy with d
+    rub "And... that is the long answer for why I'm okay with you dating my sister."
+    mc "If it’s any comfort, she made me work hard for it."
+    show rub bashful with d
+    rub "Fuhuhu, I can imagine. I was quite the teasing minx myself back in the day."
+    mc "{i}Really{/i}? I couldn’t imagine that!"
+    show rub happy with d
+    rub "She’ll soften with time, though it seems you’ve already tamed the wild mare, haven’t you? Never thought I’d see that day."
+    scene bg brothel5 
+    show rub bashful:
+        xalign 0.25
+    show mel laughing:
+        xalign 0.75
+    with d
+    mel "Even if you are a big loser!"
+    "[mel] stepped in with a towel, her fur damp and messy."
+    show rub laughing with d
+    "I couldn’t help but laugh as I glanced over at [mel], then back to [rub]. They’ve both come to mean so much to me."
+    "It was strange, despite this being another universe, I felt like I belonged here, with them…"
+    mc "Well, if being a loser means I get to stay with you two, I suppose it’s not such a bad deal after all."
+    show rub happy with d
+    rub "That’s the spirit. Besides, ‘alpha’ is just a label. Action is what counts. You accomplish more than you realize."
+    show mel wink with d
+    mel "{i}Giggle{/i} Yeah, but don’t let it go to your head. We’ve got enough egos in this brothel already."
+    stop music fadeout 3
+    "As more laughter and chatter continued to fill the room, they chased away the last of my doubts."
+    scene bg city1 with d
+    "We said our goodbyes and I left the brothel. Stepping outside, I breathed in the cool, crisp air and began to walk back to the apartment."
+    scene bg apartment
+    play music moxietheme fadein 2
+    show mox laughing 
+    with d
+    mox "Well, hey there, stranger! Been a long night?"
+    mc "You could say that. Every night in the brothel feels long, but I’m not even the least bit tired."
+    show mox wink with d
+    mox "Oh? Spill the gossip!"
+    mc "For starters, [mel] confessed how she felt about me. It’s something I think we both knew was there, but tonight she finally said it out loud. One thing led to another."
+    show mox laughing with d
+    mox "First me, then [rub], then [mel] too! She wasn’t even on your original hit-it list. I don’t know how you keep up!"
+    mc "Yup, I’m still trying to wrap my head around it all. I mean, how did I get so lucky? How did a guy like me end up surrounded by so many amazing people? … Twice."
+    show mox bashful with d
+    mox "Luck’s got nothing to do with it, [mc]. You’ve earned this by being who you are. That’s all we ever really want." 
+    "She leaned in, planting a gentle kiss on my cheek."
+    mc "Thanks again, [mox]. I couldn’t do this without you."
+    show mox happy with d
+    mox "You’re doing just fine, [mc]. And no matter what, we’re all in this together. That’s the beauty of it."
+    "It wasn’t about what I had or lacked, what I’d done or hadn’t done. It was about the bonds I’d forged, the people who stood by me, and how I’d once again found my place in their lives."
+    "As the night drew to a close, I realized I had a new purpose. No longer would I be the man adrift in another universe, haunted by his past."
+    "Whether I could return to my old world or not, the priority now was to anchor myself to this reality."
+    hide mox with d
+    if replay == 1:
+        return
+    $ brothelroute3 = 1
     $ brothelcompletion += 1
     $ completion += 1
     jump newday

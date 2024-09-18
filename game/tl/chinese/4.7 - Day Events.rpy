@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-09-19 00:20
+﻿# TODO: Translation updated at 2024-09-19 01:01
 
 # game/4.7 - Day Events.rpy:7
 translate chinese dayevent_432e6487:
@@ -409,9 +409,9 @@ translate chinese dayevent_f70eb322:
     ros ""
 
 # game/4.7 - Day Events.rpy:179
-translate chinese dayevent_c582a5b6:
+translate chinese dayevent_0a6ba72e:
 
-    # "I smiled as I watched [rosa] bounce up, her tag wagging wildly."
+    # "I smiled as I watched [rosa] bounce up, her tail wagging wildly."
     ""
 
 # game/4.7 - Day Events.rpy:180
@@ -463,9 +463,9 @@ translate chinese postros1_fe05065c:
     ""
 
 # game/4.7 - Day Events.rpy:204
-translate chinese postros1_bad136e7:
+translate chinese postros1_6354fc0d:
 
-    # "As I make my purchase, the distracted merchant accidentally hands me a 20 monie bill back instead of 5. I'm briefly excited by this realization, but..."
+    # "As I make my purchase, the distracted merchant accidentally hands me a $20 bill back instead of $5. I'm briefly excited by this realization, but..."
     ""
 
 # game/4.7 - Day Events.rpy:210
@@ -481,282 +481,420 @@ translate chinese postros1_efbba48b:
     ""
 
 # game/4.7 - Day Events.rpy:213
-translate chinese postros1_3006c1b2:
+translate chinese postros1_d3f9cee8:
 
-    # "My sense of honesty compels me to do the right thing. Despite the allure of extra coins, I gently alert the merchant to the mistake and exchange the 20 bill for the correct amount."
+    # "My sense of honesty compels me to do the right thing. Despite the allure of extra coins, I gently alert the merchant to the mistake and exchange the $20 bill for the correct amount."
     ""
 
 # game/4.7 - Day Events.rpy:214
-translate chinese postros1_cc237ca0:
+translate chinese postros1_c9d6553a:
 
-    # "As a bonus for the honesty, he thanks me, hands me a crumpled stack of three 1 monie bills then continues frantically working."
+    # "As a bonus for the honesty, he thanks me, hands me a crumpled stack of three $1 bills then continues frantically working."
     ""
 
-# game/4.7 - Day Events.rpy:226
+# game/4.7 - Day Events.rpy:224
 translate chinese postros1_bea835fc:
 
     # "Strolling down a bustling street, I notice something on the pavement, partially obscured by fallen leaves."
     ""
 
+# game/4.7 - Day Events.rpy:225
+translate chinese postros1_13a2d3a5:
+
+    # "When I bend down to investigate, my heart skips a beat—I’ve found a lost bag."
+    ""
+
+# game/4.7 - Day Events.rpy:226
+translate chinese postros1_df1a43fd:
+
+    # "Inside, I find crisp bills neatly tucked away. My fingers brush the smooth surface of the currency, and I count $100 in total. What luck!"
+    ""
+
 # game/4.7 - Day Events.rpy:227
-translate chinese postros1_304ce2e1:
-
-    # "When I bend down to investigate, my heart skips a beat—I’ve found a lost wallet."
-    ""
-
-# game/4.7 - Day Events.rpy:228
-translate chinese postros1_0691b551:
-
-    # "Inside, I find crisp bills neatly tucked away. My fingers brush the smooth surface of the currency, and I count fifty monies in total. What luck!"
-    ""
-
-# game/4.7 - Day Events.rpy:229
 translate chinese postros1_321e0c51:
 
     # "But then, I find something unexpected—a slip of paper with a nearby return address, important cards, and a small photo of a mare with purple sunglasses."
     ""
 
-# game/4.7 - Day Events.rpy:230
+# game/4.7 - Day Events.rpy:228
 translate chinese postros1_25a014c8:
 
     # mc "Aaahhh… Damn…"
     mc ""
 
-# game/4.7 - Day Events.rpy:231
-translate chinese postros1_77729e92:
+# game/4.7 - Day Events.rpy:229
+translate chinese postros1_cc58f7a4:
 
-    # "Returning the wallet means giving up its contents…"
+    # "Returning the bag means giving up its contents…"
     ""
 
-# game/4.7 - Day Events.rpy:234
+# game/4.7 - Day Events.rpy:232
 translate chinese postros1_736c0383:
 
     # "In the end, I know what I must do. With a heavy sigh, I resolve to do the right thing, no matter how difficult."
     ""
 
-# game/4.7 - Day Events.rpy:235
-translate chinese postros1_006628bd:
+# game/4.7 - Day Events.rpy:233
+translate chinese postros1_bde549c5:
 
-    # "Clutching the wallet tightly, I make my way to the nearby address and return it to its rightful owner."
+    # "Clutching the bag tightly, I make my way to the nearby address and return it to its rightful owner."
     ""
 
+# game/4.7 - Day Events.rpy:235
+translate chinese postros1_6295722b:
+
+    # cla "Oh! Thank you! Thank you so much!"
+    cla ""
+
 # game/4.7 - Day Events.rpy:236
-translate chinese postros1_00bc06cd:
-
-    # chl "Oh! Thank you! Thank you so much!"
-    chl ""
-
-# game/4.7 - Day Events.rpy:237
 translate chinese postros1_4a2edc3c:
 
     # mc "Ah… You’re!"
     mc ""
 
-# game/4.7 - Day Events.rpy:247
-translate chinese postros1_2907fbf8:
+# game/4.7 - Day Events.rpy:238
+translate chinese postros1_e28e661a:
 
-    # chl "Recognize meeve? A brothel regular, perhaps?"
-    chl ""
+    # cla "My goodness, I thought I'd lost this! My cards, IDs, photos! I don't know what I would have done if..."
+    cla ""
 
-# game/4.7 - Day Events.rpy:248
-translate chinese postros1_f0cd2a45:
+# game/4.7 - Day Events.rpy:240
+translate chinese postros1_c361716d:
 
-    # "She slips me a 20 M note and winks."
+    # cla "{i}Sigh{/i} Thank you, so much."
+    cla ""
+
+# game/4.7 - Day Events.rpy:252
+translate chinese postros1_cd8cdd19:
+
+    # cla "Recognize me? A brothel regular, perhaps?"
+    cla ""
+
+# game/4.7 - Day Events.rpy:253
+translate chinese postros1_07e36cf7:
+
+    # mc "Not a regular, but curious."
+    mc ""
+
+# game/4.7 - Day Events.rpy:256
+translate chinese postros1_1721fe8d:
+
+    # cla "Oh! You're... [mc]! The new host!"
+    cla ""
+
+# game/4.7 - Day Events.rpy:257
+translate chinese postros1_be690860:
+
+    # cla "Thank you, so much, [mc]. This really is a stroke of good fortune."
+    cla ""
+
+# game/4.7 - Day Events.rpy:259
+translate chinese postros1_f67b2db5:
+
+    # "She slips me $50 note and winks."
     ""
 
-# game/4.7 - Day Events.rpy:249
-translate chinese postros1_e5e8edfe:
+# game/4.7 - Day Events.rpy:260
+translate chinese postros1_c3e91684:
 
-    # chl "I’ll certainly recognize you, so if you ever see me there and want a special, I’ll give you a discount~"
-    chl ""
+    # cla "I’ll certainly remember this..."
+    cla ""
 
-# game/4.7 - Day Events.rpy:250
-translate chinese postros1_0e03332b:
+# game/4.7 - Day Events.rpy:261
+translate chinese postros1_a48a9637:
 
-    # "(Gained +20 M and a discount on at the brothel!)"
+    # cla "Say, I offer a special service at the brothel... If you're interested, you should come see me."
+    cla ""
+
+# game/4.7 - Day Events.rpy:262
+translate chinese postros1_1976f1f2:
+
+    # cla "Having you as a customer instead of... Well... Let's just say I'm offering a hefty discount~"
+    cla ""
+
+# game/4.7 - Day Events.rpy:264
+translate chinese postros1_1de5c34b:
+
+    # "(Gained +$50 and a huge discount on [cla]'s services!)"
     ""
 
-# game/4.7 - Day Events.rpy:254
-translate chinese postros1_c2787a59:
+# game/4.7 - Day Events.rpy:269
+translate chinese postros1_18a1255f:
 
-    # "With a swift motion, I slip the wallet into my satchel. The weight fills my bag, a tangible reminder of the wealth now in my possession."
+    # "With a swift motion, I slip the bag into my own. The weight fills it, a tangible reminder of the wealth now in my possession."
     ""
 
-# game/4.7 - Day Events.rpy:255
+# game/4.7 - Day Events.rpy:270
 translate chinese postros1_0cf716de:
 
     # "I continue down the street, wondering what I’ll do with all that money."
     ""
 
-# game/4.7 - Day Events.rpy:260
+# game/4.7 - Day Events.rpy:279
+translate chinese blankday_408f7a13:
+
+    # "In the morning, I didn't feel like doing anything at all."
+    ""
+
+# game/4.7 - Day Events.rpy:281
 translate chinese blankday_d9b66acc:
 
     # "I spent the morning researching my leads and planning my next moves."
     ""
 
-# game/4.7 - Day Events.rpy:273
+# game/4.7 - Day Events.rpy:302
 translate chinese nightevent_5e9b3b9d:
 
     # "As [mox] and I got into bed, the entire thing suddenly began to shake. Another earthquake."
     ""
 
-# game/4.7 - Day Events.rpy:275
+# game/4.7 - Day Events.rpy:304
 translate chinese nightevent_68b7f075:
 
     # mox "You’re not vibrating, are you?"
     mox ""
 
-# game/4.7 - Day Events.rpy:276
+# game/4.7 - Day Events.rpy:305
 translate chinese nightevent_da2d9e9d:
 
     # mc "I don’t think so."
     mc ""
 
-# game/4.7 - Day Events.rpy:278
+# game/4.7 - Day Events.rpy:307
 translate chinese nightevent_91172884:
 
     # mox "Damn, I kind of wish you could."
     mox ""
 
-# game/4.7 - Day Events.rpy:279
+# game/4.7 - Day Events.rpy:308
 translate chinese nightevent_b893bfc0:
 
     # mc "I’m seriously wondering why this universe has earthquakes."
     mc ""
 
-# game/4.7 - Day Events.rpy:281
+# game/4.7 - Day Events.rpy:310
 translate chinese nightevent_5f16f243:
 
     # mox "I heard from someone that they’re technically not earthquakes, which are when tectonic plates in the earth move against each other or something."
     mox ""
 
-# game/4.7 - Day Events.rpy:283
+# game/4.7 - Day Events.rpy:312
 translate chinese nightevent_501745e6:
 
     # mox "Instead the entire planet is shaking."
     mox ""
 
-# game/4.7 - Day Events.rpy:284
+# game/4.7 - Day Events.rpy:313
 translate chinese nightevent_ec4671e1:
 
     # mc "What? The {i}entire{/i} planet?"
     mc ""
 
-# game/4.7 - Day Events.rpy:286
+# game/4.7 - Day Events.rpy:315
 translate chinese nightevent_860c8d2e:
 
     # mox "I mean, just a theory. But these ‘earthquakes’ are global."
     mox ""
 
-# game/4.7 - Day Events.rpy:287
+# game/4.7 - Day Events.rpy:316
 translate chinese nightevent_b75b1465:
 
     # mc "Man… This universe is something else."
     mc ""
 
-# game/4.7 - Day Events.rpy:311
+# game/4.7 - Day Events.rpy:340
 translate chinese nightevent_3756f425:
 
     # "[mc], are you there? I don’t have long."
     ""
 
-# game/4.7 - Day Events.rpy:312
+# game/4.7 - Day Events.rpy:341
 translate chinese nightevent_1de57ac1:
 
     # "A shimmering figure with a familiar voice appeared before me."
     ""
 
-# game/4.7 - Day Events.rpy:313
+# game/4.7 - Day Events.rpy:342
 translate chinese nightevent_50b3b016:
 
     # "You’re doing so good so far – keep meeting with the virtues, so they can reach their potential."
     ""
 
-# game/4.7 - Day Events.rpy:314
+# game/4.7 - Day Events.rpy:343
 translate chinese nightevent_781fa6a4:
 
     # "And with that, hopefully, this –"
     ""
 
-# game/4.7 - Day Events.rpy:320
+# game/4.7 - Day Events.rpy:349
 translate chinese nightevent_fa496812:
 
     # "Ack?! How could the dream end right there?"
     ""
 
-# game/4.7 - Day Events.rpy:321
+# game/4.7 - Day Events.rpy:350
 translate chinese nightevent_54895896:
 
     # "That woman though… I only know one person that was able to comfortably enter people’s dreams to communicate with them, and since this is the third dream of its type in a row, I can’t put it down to coincidence."
     ""
 
-# game/4.7 - Day Events.rpy:322
+# game/4.7 - Day Events.rpy:351
 translate chinese nightevent_58d2b137:
 
     # "Princess [sel] is trying to communicate with me – but… this is a world without Princess [sel]."
     ""
 
-# game/4.7 - Day Events.rpy:327
+# game/4.7 - Day Events.rpy:356
 translate chinese nightevent_31fcf07a:
 
     # "Just as we’re getting into bed, I remember my dream from the prior night."
     ""
 
-# game/4.7 - Day Events.rpy:328
+# game/4.7 - Day Events.rpy:357
 translate chinese nightevent_cfae12c8:
 
     # mc "[mox], I had a small question for you."
     mc ""
 
-# game/4.7 - Day Events.rpy:330
+# game/4.7 - Day Events.rpy:359
 translate chinese nightevent_746d806a:
 
     # mox "You can ask me anything you want, darling."
     mox ""
 
-# game/4.7 - Day Events.rpy:331
+# game/4.7 - Day Events.rpy:360
 translate chinese nightevent_346183de:
 
     # mc "It’s just… I’ve kind of asked you this before, but it’s about a Princess [sel]."
     mc ""
 
-# game/4.7 - Day Events.rpy:333
+# game/4.7 - Day Events.rpy:362
 translate chinese nightevent_dbb47146:
 
     # mox "Yeah, I’ve never heard of her before. It’s hard to imagine that I’m blood related to someone like that."
     mox ""
 
-# game/4.7 - Day Events.rpy:334
+# game/4.7 - Day Events.rpy:363
 translate chinese nightevent_87c5ba8b:
 
     # mc "Hm… She’s supposed to be [aur]’s sister, the Princess of the Moon."
     mc ""
 
-# game/4.7 - Day Events.rpy:336
+# game/4.7 - Day Events.rpy:365
 translate chinese nightevent_fdbdf9c3:
 
     # mox "A Queen of the Sun and a sister Princess of the Moon would certainly make a lot of sense."
     mox ""
 
-# game/4.7 - Day Events.rpy:337
+# game/4.7 - Day Events.rpy:366
 translate chinese nightevent_47658910:
 
     # mc "She’s been appearing in my dreams, asking me to gather the virtues. Although I haven’t quite figured out why, I can only imagine it’s related to solving the troubles around the world."
     mc ""
 
-# game/4.7 - Day Events.rpy:339
+# game/4.7 - Day Events.rpy:368
 translate chinese nightevent_60c92be7:
 
     # mox "It sounds like we need to get that meeting with [aur] and fast!"
     mox ""
 
-# game/4.7 - Day Events.rpy:340
+# game/4.7 - Day Events.rpy:369
 translate chinese nightevent_b675f12e:
 
     # mc "You’re right. I’ll ask her for help directly."
     mc ""
 
-# game/4.7 - Day Events.rpy:342
+# game/4.7 - Day Events.rpy:389
+translate chinese nightevent_7de01b36:
+
+    # "You see it too, don't you?"
+    ""
+
+# game/4.7 - Day Events.rpy:390
+translate chinese nightevent_3f14e30d:
+
+    # "The sky is falling."
+    ""
+
+# game/4.7 - Day Events.rpy:392
+translate chinese nightevent_53302757:
+
+    # "You're doing great."
+    ""
+
+# game/4.7 - Day Events.rpy:393
+translate chinese nightevent_0c9fffe7:
+
+    # "Keep it up, and we can save them all."
+    ""
+
+# game/4.7 - Day Events.rpy:395
+translate chinese nightevent_ab4aa7aa:
+
+    # "Another nightmare... No, I can't pretend these are nightmares anymore. This was another message from the princess."
+    ""
+
+# game/4.7 - Day Events.rpy:396
+translate chinese nightevent_1e3ccf46:
+
+    # "While I might not completely understand what's happening yet, I'll put my faith in her."
+    ""
+
+# game/4.7 - Day Events.rpy:398
+translate chinese nightevent_760032c8:
+
+    # mox "Are you okay, babe?"
+    mox ""
+
+# game/4.7 - Day Events.rpy:399
+translate chinese nightevent_59d08802:
+
+    # mc "Just a little faint, nothing to worry about."
+    mc ""
+
+# game/4.7 - Day Events.rpy:401
+translate chinese nightevent_c9b9e881:
+
+    # mox "You've been working so hard lately. Remember to live a little of your own life too."
+    mox ""
+
+# game/4.7 - Day Events.rpy:402
+translate chinese nightevent_16a240ed:
+
+    # "Live a little of my own life... Specific, carefully worded, and deeply true."
+    ""
+
+# game/4.7 - Day Events.rpy:404
+translate chinese nightevent_26f5b4a8:
+
+    # "[mox] lays back down."
+    ""
+
+# game/4.7 - Day Events.rpy:405
+translate chinese nightevent_bf9b2bc2:
+
+    # "She never fails to impress me. In so few words, she's made me realize something crucial that I've been overlooking."
+    ""
+
+# game/4.7 - Day Events.rpy:406
+translate chinese nightevent_53ba577f:
+
+    # "I'm spending so much time and effort chasing my old life, that I never considered how it'd make those around me feel."
+    ""
+
+# game/4.7 - Day Events.rpy:407
+translate chinese nightevent_3a5ad960:
+
+    # "And so what if I'm successful? I just disappear forever? How would that make [mox] feel?"
+    ""
+
+# game/4.7 - Day Events.rpy:408
+translate chinese nightevent_a343b492:
+
+    # "Maybe... this is my life now, and I need to accept that."
+    ""
+
+# game/4.7 - Day Events.rpy:411
 translate chinese nightevent_22e5fd2a:
 
     # "I get into bed, and [mox] snuggles up beside me as we doze off together."
@@ -769,11 +907,11 @@ translate chinese strings:
     new ""
 
     # game/4.7 - Day Events.rpy:10
-    old "Hand the beggar 20 Monies"
+    old "Hand the beggar $20"
     new ""
 
     # game/4.7 - Day Events.rpy:10
-    old "Give the beggar 2 Monies"
+    old "Give the beggar $2"
     new ""
 
     # game/4.7 - Day Events.rpy:10
@@ -805,18 +943,18 @@ translate chinese strings:
     new ""
 
     # game/4.7 - Day Events.rpy:205
-    old "Keep the extra change (+15 M)"
+    old "Keep the extra change (+$15)"
     new ""
 
     # game/4.7 - Day Events.rpy:205
     old "Return the extra change"
     new ""
 
-    # game/4.7 - Day Events.rpy:232
-    old "Return the Wallet"
+    # game/4.7 - Day Events.rpy:230
+    old "Return the Bag"
     new ""
 
-    # game/4.7 - Day Events.rpy:232
-    old "Keep the Wallet (+50 M)"
+    # game/4.7 - Day Events.rpy:230
+    old "Keep the Bag (+$100)"
     new ""
 

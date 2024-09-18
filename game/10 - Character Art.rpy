@@ -65,10 +65,21 @@ layeredimage mox:
     group clothing:
         attribute lingerie:
             "moxielingerie"
+    group milk:
+        attribute milk:
+            "moxiemilk"
+    group futa:
+        attribute futa:
+            "moxiefuta"
+    group cum:
+        attribute cum:
+            "moxiecum"
 
 layeredimage pen:
     always:
         "penelopeb[penb].png"
+    if petplay == 1:
+        "penelopecollar"
     group collar:
         attribute collar:
             "penelopecollar.png"
@@ -116,6 +127,9 @@ layeredimage lil:
     group coat:
         attribute coat:
             "lilylabcoat"
+    group cum:
+        attribute cum:
+            "lilycum" 
     group face:
         attribute angry:
             "lilye angry[lilb].png"
@@ -228,7 +242,6 @@ layeredimage rub:
         attribute wink:
             "rubye wink[rubb].png"
 
-
 layeredimage hon:
     always:
         "honeycrispb[honb].png"
@@ -257,6 +270,9 @@ layeredimage mel:
     group blush:
         attribute blush:
             "melodyblush.png"
+    group cum:
+        attribute cum:
+            "melodycum.png"
     group goth:
         attribute goth:
             "melodygoth.png"
@@ -307,7 +323,113 @@ layeredimage blo:
         attribute satisfied:
             "blossome satisfied[blob].png"
 
+layeredimage but:
+    always:
+        "buttersb.png"
+    group blush:
+        attribute blush:
+            "buttersblush.png"
+    group cum:
+        attribute cum:
+            "butterscum.png"
+    group succ:
+        attribute succ:
+            "butterssuccubus.png"
+    group underwear:
+        attribute underwear:
+            "buttersunderwear.png"
+    group face:
+        attribute angry:
+            "butterse angry.png"
+        attribute awkward:
+            "butterse awkward.png"
+        attribute bashful:
+            "butterse bashful.png"
+        attribute happy:
+            "butterse happy.png"
+        attribute horny:
+            "butterse horny.png"
+        attribute laughing:
+            "butterse laughing.png"
+        attribute neutral:
+            "butterse neutral.png"
+        attribute smug:
+            "butterse smug.png"
+        attribute wink:
+            "butterse wink.png"
 
+layeredimage cre:
+    always:
+        "creamb [creb].png"
+    group blush:
+        attribute blush:
+            "creamblush.png"
+    group face:
+        attribute angry:
+            "creame angry[creb].png"
+        attribute awkward:
+            "creame awkward[creb].png"
+        attribute bashful:
+            "creame bashful[creb].png"
+        attribute happy:
+            "creame happy[creb].png"
+        attribute laughing:
+            "creame laughing.png"
+        attribute neutral:
+            "creame neutral[creb].png"
+        attribute sad:
+            "creame sad[creb].png"
+        attribute smug:
+            "creame smug[creb].png"
+        attribute surprised:
+            "creame surprised[creb].png"
+        attribute wink:
+            "creame wink[creb].png"
+
+layeredimage bla:
+    always:
+        "creamb 0.png"
+    group blush:
+        attribute blush:
+            "creamblush.png"
+    group face:
+        attribute angry:
+            "creame angry1.png"
+        attribute awkward:
+            "creame awkward1.png"
+        attribute bashful:
+            "creame bashful1.png"
+        attribute happy:
+            "creame happy1.png"
+        attribute laughing:
+            "creame laughing.png"
+        attribute neutral:
+            "creame neutral1.png"
+        attribute sad:
+            "creame sad1.png"
+        attribute smug:
+            "creame smug1.png"
+        attribute surprised:
+            "creame surprised1.png"
+        attribute wink:
+            "creame wink1.png"
+
+
+layeredimage cla:
+    always:
+        "claireb"
+    group blush:
+        attribute blush:
+            "claireblush"
+    group face:
+        attribute happy:
+            "clairee happy"
+        attribute happy2:
+            "clairee happy2"
+        attribute horny:
+            "clairee horny"
+        attribute wink:
+            "clairee wink"
 layeredimage ros:
     always:
         "rosab"
@@ -320,4 +442,44 @@ layeredimage ros:
             "rosae laughing"
         attribute neutral:
             "rosae neutral"
+layeredimage hil:
+    always:
+        "hildab"
+    group blush:
+        attribute blush:
+            "hildablush"
+    group face:
+        attribute awkward:
+            "hildae awkward"
+        attribute bashful:
+            "hildae bashful"
+        attribute happy:
+            "hildae happy"
+        attribute laughing:
+            "hildae laughing"
+        attribute neutral:
+            "hildae neutral"
+        attribute wink:
+            "hildae wink"
+layeredimage bas:
+    always:
+        "bastetb"
+    group blush:
+        attribute blush:
+            "bastetblush"
+    group face:
+        attribute awkward:
+            "bastete awkward"
+        attribute bashful:
+            "bastete bashful"
+        attribute happy:
+            "bastete happy"
+        attribute laughing:
+            "bastete laughing"
+        attribute neutral:
+            "bastete neutral"
+        attribute satisfied:
+            "bastete satisfied"
+        attribute wink:
+            "bastete wink"
         

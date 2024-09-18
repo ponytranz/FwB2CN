@@ -1,14 +1,23 @@
 ﻿label start:
+    ##version stuff
+    $ buttersnamed = 1
+    $ rikunamed = 1
+    $ creamnamed = 1
+    $ aurnamed = 1
+    $ selnamed = 1
+    $ clairenamefix = 1
+    ##
+
     scene black
     show space1:
         alpha 1
-        linear 10 alpha 0
-        linear 11 alpha 1
+        linear 8 alpha 0.2
+        linear 9 alpha 1
         repeat
     show space2:
         alpha 0
-        linear 12 alpha 1
-        linear 13 alpha 0
+        linear 10 alpha 0.8
+        linear 11 alpha 0
         repeat
     with d
     camera:
@@ -16,7 +25,7 @@
         zpos 0 xpos 0 ypos 0
     play music intro
     $ textbox = 2
-    show cream happy with d
+    show cre happy with d
     "Before we start the game, there are a few key choices you'll need to make to customize your experience." 
     "First, are you interested in customizing the style and names of characters?"
     menu:
@@ -168,6 +177,16 @@
     "In the forest, you found a girl dealing with deadly succubus powers and helped her cure them."
     show introbutters 2 with d
     "Once she was no longer dangerous, the real fun began!"
+    if default == 0:
+        menu:
+            "What was her name?"
+            "Default: Butters":
+                $ butters = "Butters"
+            "Custom":
+                $ butters = renpy.input("What was her name?")
+                if butters == "":
+                    $ butters= "Butters"
+                $ butters = butters.strip()
     #Butters Name and Art
     show introriku 1 
     hide introbutters
@@ -175,6 +194,18 @@
     "Back in the city centre, you met a girl running a bar. She was struggling and uncertain, but you offered the support she needed to find herself."
     show introriku 2 with d
     "And in the process, discovered she was quite the butt slut."
+    if default == 0:
+        menu:
+            "What was her name?"
+            "Default: Riku":
+                $ riku = "Riku"
+            "Alternative: Prisma":
+                $ riku = "Prisma"
+            "Custom":
+                $ riku = renpy.input("What was her name?")
+                if riku == "":
+                    $ riku= "Riku"
+                $ riku = riku.strip()
     #Riku Name and Art
     show introlily 1 
     hide introriku 
@@ -206,9 +237,38 @@
     "And who could forget the amazing party we had at my bakery?"
     show introcream 2 with d
     "Although I wonder if there’s anything else we forgot there? Hehe, probably not!"
+    if default == 0:
+        menu:
+            "What was her name?"
+            "Default: Cream":
+                $ cream = "Cream"
+            "Custom":
+                $ cream = renpy.input("What was her name?")
+                if cream == "":
+                    $ cream= "Cream"
+                $ cream = cream.strip()
     #Cream Name and Art
     show introprincess 2 with d
     "After all that fun, the next step was meeting the princess and queen themselves!"  
+    if default == 0:
+        menu:
+            "What was the name of the Sun Queen?"
+            "Default: Aurora":
+                $ aurora = "Aurora"
+            "Custom":
+                $ aurora = renpy.input("What was her name?")
+                if aurora == "":
+                    $ aurora = "Aurora"
+                $ aurora = aurora.strip()
+        menu:
+            "What was the name of the Moon Princess?"
+            "Default: Selene":
+                $ selene = "Selene"
+            "Custom":
+                $ selene = renpy.input("What was her name?")
+                if selene == "":
+                    $ selene = "Selene"
+                $ selene = selene.strip()
     show introfinale 1 with d
     "However, this was all part of an evil plan by Morrigan, the Morphling Queen, ever since you arrived in Arcadia."
     "Only once [mox] received enough power was she able to separate and defeat them."
@@ -412,7 +472,7 @@
     show pen neutral with d
     pen "Getting an audience with the Queen is no small feat. The security to the inner city is tight, and you don’t have a pass."
     show mox neutral with d
-    mox "Can't [lil] get off her ass help?"
+    mox "Can't [lil] get off her ass and help?"
     show pen happy with d
     pen "Maybe? I could try talking to her... Still, it'd be asking a lot."
     stop music fadeout 5
@@ -536,7 +596,7 @@
     pen "Mmmm… {i}Slurp{/i} This is way better than a familiar."
     camera:
         linear 2 xpos 190 ypos 105 zpos -250
-    "[mox] was a little more hesitant, but quickly got over it to start focusing on my ball. Her warm breath sent shivers down my spine as she licked them softly with the tip of her tongue before engulfing them completely into her mouth."
+    "[mox] was a little more hesitant, but quickly got over it to start focusing on my balls. Her warm breath sent shivers down my spine as she licked them softly with the tip of her tongue before engulfing them completely into her mouth."
     "Before long, she was happily suckling and swirling her tongue around below [pen]."
     show moxpen1a 2
     camera:
@@ -594,9 +654,9 @@
     pen "Found your confidence, [mox]?"
     mox "Mmghhh… {i}Slurp{/i} Yesh, I think so! Turns out being horny as hell is great at alleviating nerves."
     "[mox] moaned with delight as she started to bop up and down around my sensitive tip. Meanwhile, [pen] continued to diligently serve my shaft, almost becoming hypnotically absorbed into her work."
-    "Their equine tongues were considerably larger than any humans, with a slightly rougher texture that combined a wider surface area with a constantly higher stimulation. I’d almost say it felt twice as good, and I was dealing with two girls at once!" 
+    "Their equine tongues were considerably larger than a humans', with a slightly rougher texture that combined a wider surface area with a constantly higher stimulation. I’d almost say it felt twice as good, and I was dealing with two girls at once!" 
     pen "God, the smell is intoxicating."
-    "Subtly under the sounds of their tongues were the wet sounds of masturbating, as both girls began to pleasure themselves. [pen] sank two fingers deep into her pussy and curled it upwards to tease at her g-spot, while [mox] rubbed her needy clit back and forth."
+    "Subtly under the sounds of their tongues were the wet sounds of masturbating, as both girls began to pleasure themselves. [pen] sank two fingers deep into her pussy and curled them upwards to tease at her g-spot, while [mox] rubbed her needy clit back and forth."
     mox "I really want you to cum for me, [mc]… Coat the roof of my mouth with your seed~"
     mc "Nngghh, fuck… If you keep talking like that…"
     "I whispered as they increased their pace. Their eyes locked on mine as they milked my cock with their mouths. I could see the hunger in their eyes, as they wanted nothing more than for me to explode into their waiting maws."
@@ -628,7 +688,7 @@
     mox "Aahh… {i}Pant, pant{/i} I’ve never actually done that before, was I any good?"
     mc "You were perfect, [mox]."
     pen "Took the words right out of my mouth, [mc]."
-    mc "Do you two want anymore? It’s no fun if only I get attention."
+    mc "Do you two want more? It’s no fun if only I get attention."
     pen "To be honest, I already came, pretty hard too~"
     mox "Me too. That was enough for me, and…"
     label intropostblowjob:
@@ -674,7 +734,7 @@
     mox "And we were roommates in that other universe anyway, right? I trust my own judgement, and it sounds like we got a long, pretty well!"
     mc "Heh, you don’t even know the half of it."
     show mox laughing with d
-    mox "Then I hope I learn all both halves~"
+    mox "Then I hope I learn both halves~"
     mox "Now, you must be exhausted. Why don’t we hit the hay and think about this more tomorrow? My bed is extremely comfy!"
     mc "That sounds perfect."
     stop ambience1 fadeout 3
@@ -772,7 +832,7 @@
     lil "Welcome to my laboratory!"
     mc "Ah, that’ll explain why it looks like a laboratory."
     show lil neutral with d
-    lil "Pardonne moi?" 
+    lil "Pardonnez-moi?" 
     mc "Oh, it’s just… I was kind of expecting a library."
     show lil laughing with d
     lil "Yes, yes, [pen] said you knew me and that you’d mention a few unusual things like that, but she refused to go into detail… Consider my interest thoroughly piqued."
@@ -950,7 +1010,7 @@
     "She can’t help but bite her lip, her eyes fixed on the prize." 
     show lil awkward with d
     lil "{i}Gulp{/i} (He’s… totally masturbating to me right now, isn’t he?)"
-    "Her thighs begin to brush back and forth, an almost instinctive move to try and sooth the natural inch building up in her loins."
+    "Her thighs begin to brush back and forth, an almost instinctive move to try and sooth the natural itch building up in her loins."
     "I slow down a little, pacing myself to enjoy this experience longer, not that [lil] would know."
     show lil smug with d
     lil "{i}Eh-hem{/i} I shouldn’t be watching, should I? I’m just… going to excuse myself and go over… here… right."
@@ -1010,7 +1070,7 @@
         linear 0.4 xpos 5 ypos 5
         repeat
     play moans1 moansmisc3
-    play ambience2 handjob
+    play ambience2 handjob2
     "Only a few blissful seconds later, she began to move too – slowly at first – rocking back and forth against me. My cock glides against her anus and virgin pussy with ease."
     show lily1a 2 with d
     lil "Ooohhhh… This is… depraved… but... so hot…"
@@ -1828,7 +1888,7 @@
     scene bg moxiebedroom2 
     call camerareset1 from _call_camerareset1_3
     with dissolve
-    "[mox] and I continued to rut long into the evening, only taking a break to eat pizza and watch a move before we just kept going."
+    "[mox] and I continued to rut long into the evening, only taking a break to eat pizza and watch a movie before we just kept going."
     "We bounced from cuddling, to sex, to snuggling, to more fucking."
     "Thankfully, I already knew [mox] very well, so I guided her through a variety of positions and even suggested a few spells to try."
     hide screen vnui

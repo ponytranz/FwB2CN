@@ -10,9 +10,11 @@
     if weather == 4:
         show map nightrain
     show mapbuttons
-    if completion >= 5 and v2complete == 0:
-        $ v2complete = 1
-        "You've completed all the main story content so far in 0.2! Thanks for playing! {a=https://www.patreon.com/TwistedScarlett}Support me on Patreon for updates and your say in the game's development!{/a}"
+    if rikunamed == 0 or buttersnamed == 0 or creamnamed == 0 or aurnamed == 0 or selnamed == 0:
+        call v3renames from _call_v3renames
+    if completion >= 11 and v4complete == 0:
+        $ v4complete = 1
+        "You've completed all the main story content so far in 0.4! Thanks for playing! {a=https://www.patreon.com/TwistedScarlett}Support me on Patreon for updates and your say in the game's development!{/a}"
         "Would you please take a moment to review this game?"
         menu:
             "What website did you download the game from?"
@@ -25,6 +27,7 @@
                 hide reviewf95 with d
             "No Thanks":
                 pass
+        "If you haven't already checked, there are two new scenes with [ros] and [cla] in the brothel, and new penetration options are available in scenes with [mel] and [but] that weren't previously available."
     hide screen vnui
     with d
     ### Common Events
@@ -40,18 +43,13 @@
     if weather == 1:
         play ambience1 ambienceday volume 0.85
     elif weather == 2 or weather == 4:
-        play ambience1 ambiencerain volume 0.5
+        play ambience1 ambiencerain volume 0.4
     elif weather == 3:
         play ambience1 ambiencenight volume 0.85
     call screen worldmap
 screen worldmap():
     zorder 100
     if gallery == 0:
-        imagemap:
-            ground "map icons"
-            hover "map iconsh"
-            hotspot (1701, 8, 109, 100)  action (SetVariable("todolist", 1))
-            hotspot (1811, 8, 96, 99)  action (SetVariable("inventory", 1))
         imagemap:
             ground "mapbuttons"
             hover "mapbuttonsh"
@@ -63,6 +61,7 @@ screen worldmap():
             hotspot (701, 419, 208, 169) clicked (SetVariable("worldmap", 0), Jump("bakery"))
             hotspot (1125, 215, 177, 147) clicked (SetVariable("worldmap", 0), Jump("bar"))
             hotspot (1412, 97, 191, 158) clicked (SetVariable("worldmap", 0), Jump("castle"))
+        image "map icons[weather]"
         text "$ [money]":
             pos (270, 7)
         text "Day [day]":
@@ -70,6 +69,8 @@ screen worldmap():
         #world map phone
         image "vnui2.png":
             xpos 1800
+        if fdaysleft == 0 and seeds > 0:
+            image "farmnotification"
         imagebutton:
             idle "vnui.png"
             hover "vnuih.png"
@@ -116,7 +117,7 @@ screen worldmap():
             if feedupdate > 0:
                 image "notification":
                     pos (700, 380)
-            text "[completionpercent:.02f]%":
+            text "[completionpercent:.0f]%":
                 pos (940, 185)
             if phoneenabled == 0:
                 image "black":
@@ -129,7 +130,7 @@ label apartment:
     with d
     menu moxmenu:
         mox "Hey stud!"
-        "Gift" if moxgift != 7:
+        "Gift" if moxgift != 9:
             menu moxgiftmenu:
                 "Punk Costume - Owned: [punk]" if moxiepunk == 0:
                     if punk >= 1:
@@ -214,6 +215,33 @@ label apartment:
                         show mox happy with d
                     else:
                         play sound2 error
+                "Milky Potion - Owned: [pregpotion]" if moxiepregpotion == 0: 
+                    if pregpotion >= 1:
+                        $ moxgift += 1
+                        $ moxiepregpotion = 1
+                        show mox horny with d
+                        mox "Hmm... Let's try a small dose..."
+                        show mox surprised milk blush with d
+                        "Almost immediately, milk started spraying from her nipples!"
+                        mox "What is this acursed thing you've brought upon us?!"
+                        mox "Oh wow, it's also making me feel a little horny. If you want to try this, I'm happy to oblige, babe."
+                        show mox happy -milk -blush with d
+                    else:
+                        play sound2 error
+                "Futa Pills - Owned: [futapill]" if moxiefutapill == 0:
+                    if futapill >= 1:
+                        $ moxgift += 1
+                        $ moxiefutapill = 1
+                        show mox horny with d
+                        mox "You're into this kind of thing? Here, let me try one."
+                        show mox surprised futa blush with d
+                        "Starting slowly, but quickly inflating until full mast, a horsecock sprouted on [mox]'s crotch."
+                        mox "Good lord! It's so big!"
+                        show mox horny with d
+                        mox "This is Captain [mox] speaking, permission to dock, sir?"
+                        show mox happy -futa -blush with d
+                    else:
+                        play sound2 error
                 "Back":
                     jump moxmenu
             jump moxgiftmenu
@@ -264,23 +292,26 @@ label apartment:
     call postreplaycleanup from _call_postreplaycleanup
     play ambience1 ambiencenight
     jump apartment
-label forest:
-    "In Dev"
-    jump worldmap
-label bakery:
-    "In Dev"
-    jump worldmap
-label bar:
-    "In Dev"
-    jump worldmap
 label castle:
-    "Guards at the city gate stop me, refusing me entry without a pass."
+    if magic1 == 0:
+        "Guards at the city gate stop me, refusing me entry without a pass."
+    else:
+        "Even though I have a pass, it's not time to enter the city yet, I need to find all the virtues."
     jump worldmap
 
 label newday:
     stop music
-    call stopbgs from _call_stopbgs_17
     label sleep:
+        ######
+        ######
+        if seeds >= 0 and fdaysleft > 0:
+            $ fdaysleft -= 1
+        $ watered = 0
+        call busyreset from _call_busyreset
+        call genreset from _call_genreset_12
+        ######
+        ######
+        call stopbgs from _call_stopbgs_33
         show bg moxiebedroom2 with d
         call nightevent from _call_nightevent
         scene black with d
@@ -292,11 +323,11 @@ label newday:
         show bg apartment with dissolve
         "As the sun began to set, the city woke up, and it was time for me to head out."
     show black with d
-    #variables
+    ###variables
     call versionfix from _call_versionfix
     $ weather = renpy.random.randint(3,4)
     $ day += 1
-    $ save_name = "v0.2 - Day {} - {}%".format(day, completionpercent)
+    $ save_name = "v0.4 - Day {} - {}%".format(day, completionpercent)
     $ energy = maxenergy
     jump worldmap
 
@@ -305,20 +336,38 @@ label todosuggestion:
     if brothelroute1 == 1 and farmroute1 == 0:
         #Farm 1 Suggestion
         $ todosuggestion = "I'll make good time if I visit the farm today."
-    elif farmroute1 == 1 and magicroute1 == 0:
+    elif magicroute1 == 0:
         #Magic 1 Suggestion
         $ todosuggestion = "Now might be a good time to see if {} has my city pass.".format(lil)
-    elif magicroute1 == 1 and brothelroute2 == 0:
-        #Brothel 2 Suggestion (Should be placed after the other first visits in later versions)
+    elif forestroute1 == 0:
+        #Forest 1 Suggestion
+        $ todosuggestion = "Let's check if {} still lives in the forest.".format(but)
+    elif bakeryroute1 == 0:
+        #Bakery 1 Suggestion
+        $ todosuggestion = "The bakery might be closed, but it's still worth checking out."
+    elif brothelroute1 == 1 and brothelroute2 == 0:
+        #Brothel 2 Suggestion
         $ todosuggestion = "I'm getting a bit tight on money. Maybe I should do that interview with {}.".format(rub)
-    elif v2complete == 1:
+    elif magicroute1 == 1 and magicroute2 == 0:
+        #Magic 2 Suggestion 
+        $ todosuggestion = "Why don't I visit {} and see how {} 2.0 is doing.".format(lil, lil)
+    elif forestroute1 == 1 and forestroute2 == 0:
+        #Forest 1 Suggestion
+        $ todosuggestion = "I should check up on {}. I'm sure the potion worked and she'll be itching for some action.".format(but)
+    elif magicroute2 == 1 and magicroute3 == 0:
+        #Magic 3 Suggestion 
+        $ todosuggestion = "{} sent me a text inviting {} and I over for 'drinks'. Shouldn't keep her waiting.".format(pen, mox)
+    elif brothelroute2 == 1 and brothelroute3 == 0:
+        #Brothel 3 Suggestion 
+        $ todosuggestion = "{} recently got some new parts. I should check how she's doing.".format(mel)
+    elif v4complete == 1:
         #Complete
         $ todosuggestion = "That's everything in this version! Thanks for playing! {a=https://www.patreon.com/TwistedScarlett}Support me on Patreon for updates and your say in the game's development!{/a}"
     return
 
 label completionpercentcalc:
-    $ completionpercent = (completion/fullcompletion * 100)
-    $ save_name = "v0.2 - Day {} - {}%".format(day, completionpercent)
+    $ completionpercent = round(completion/fullcompletion * 100)
+    $ save_name = "v0.4 - Day {} - {}%".format(day, completionpercent)
     return
 
 label energytutorial:
@@ -337,5 +386,5 @@ init:
     $ todosuggestion = "I should try visiting the brothel, it's the nearest building to the apartment."
     $ completionpercent = 0
     $ completion = 1
-    $ fullcompletion = 5
+    $ fullcompletion = 11
     $ replay = 0
